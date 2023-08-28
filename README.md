@@ -18,14 +18,14 @@ Op deze pagina vind je alle nuttige informatie & afspraken voor de MU 16 seizoen
 
 ## Trainingen
 
-Dag | Waar | Tijdstip
----|---|---
-Dinsdag | Den Dijk | 18.30-20.00
-Donderdag | Tildonk | 18.30-20.00
+Dag         | Waar      | Tijdstip
+---         |---        |---
+Dinsdag     | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
+Donderdag   | [Tildonk](https://www.google.com/maps/place/FC+Tildonk/@50.9407269,4.6447554,15z/data=!4m6!3m5!1s0x47c15feb331fafdf:0xf67fc6b22402ec1d!8m2!3d50.9407269!4d4.6447554!16s%2Fg%2F11bzx3dby5?entry=ttu)   | 18.30-20.00
 
 ## Twizzit
 
-Gelieve op maandag Twizzit te update (2 trainingen en wedstijd)
+Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd)
 
 ## Wedstrijden
 
