@@ -5,6 +5,8 @@
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024`
 ## Volgende wedstrijd
 
+<!-- ![wedstrijd](/assets/wedstrijd.jpg) -->
+
 > Volgende thuis wedstrijd is op zaterdag 2 september tegen Red Boys Elzestraat om 16.45 (15.45 ter plaatse)
 
 > Kleedkamer: Esmee & Ella
@@ -19,6 +21,8 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Trainingen
 
+<!-- ![trainingen](/assets/trainingen.jpg) -->
+
 Dag         | Waar      | Tijdstip
 ---         |---        |---
 Dinsdag     | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
@@ -26,19 +30,28 @@ Donderdag   | [Tildonk](https://www.google.com/maps/place/FC+Tildonk/@50.9407269
 
 ## Twizzit
 
-Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd)
+<!-- ![twizzit](/assets/twizzit.jpg) -->
+
+Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
 
 ## Wedstrijden
 
-Wedstrijden zijn te volgen in de Twizzit app. De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch ,op verplaatsing 1u + reistijd(parking Sparta).
+<!-- ![wedstrijden](/assets/wedstrijden.jpg) -->
 
-Bij elke wedstrijd moet er fruit voorzien worden en wordt iemand aangeduid om dat te doen. Zie [schema](#fruit-schema).
+Wedstrijden zijn te volgen in de Twizzit app. 
+
+De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1u + reistijd(parking Sparta).
+
+Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor. Zie [schema](#fruit-schema).
 
 Bij elke thuiswedstijd worden 2 spelers aangeduid om te kleedkamer op te ruimen. Zie [schema](#kleedkamer-schema).
+De spelers krijgen bij thuiswedstrijden een drankbonnetje aangeboden.
 
 Gelieve de Sparta uitrusting te dragen.
 
 ### GSM
+
+<!-- ![gsm](/assets/gsm.jpg) -->
 
 Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of achtergelaten bij de ouders. Na de de wedstrijd worden ze terugbezorgd.
 
@@ -47,17 +60,17 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Oct     |07-Oct     |14-Oct     |21-Oct     |28-Oct     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---    |---    |---    |---    |---    |---    |---    |---    |---    |---
 Esmee	    |&#9745;    |           |       |       |       |       |       |       |       |       |       |
-Ella	    |           |&#9745;    |       |       |       |       |       |       |       |       |       |
-Gitte	    |           |           |&#9745;													
-Dee Dee	    |           |           |       |&#9745;												
-Celine	    |           |           |       |       |&#9745;										
-Féliz	    |           |           |       |       |       |&#9745;									
-Laute	    |           |           |       |       |       |       |&#9745;							
-Margue	    |           |           |       |       |       |       |       |&#9745;						
-Imke	    |           |           |       |       |       |       |       |       |&#9745;				
-Tille	    |           |           |       |       |       |       |       |       |       |&#9745;			
-Eleonora	|           |           |       |       |       |       |       |       |       |       |&#9745;	
-Lily Rose	|           |           |       |       |       |       |       |       |       |       |       |&#9745;
+Ella	    |           |           |       |       |       |       |       |       |       |       |       |
+Gitte	    |           |           |       |       |       |       |       |       |       |       |       | 
+Dee Dee	    |           |           |       |       |       |       |       |       |       |       |       |
+Celine	    |           |           |       |       |       |       |       |       |       |       |       |
+Féliz	    |           |           |       |       |       |       |       |       |       |       |       |
+Laute	    |           |           |       |       |       |       |       |       |       |       |       |
+Margue	    |           |           |       |       |       |       |       |       |       |       |       |
+Imke	    |           |           |       |       |       |       |       |       |       |       |       |
+Tille	    |           |           |       |       |       |       |       |       |       |       |       |
+Eleonora	|           |           |       |       |       |       |       |       |       |       |       |
+Lily Rose	|           |           |       |       |       |       |       |       |       |       |       |
 Lize        |           |           |       |       |       |       |       |       |       |       |       |
 Auke        |           |           |       |       |       |       |       |       |       |       |       |
 Lore		|           |           |       |       |       |       |       |       |       |       |       |
@@ -74,26 +87,30 @@ Naam        | 02-Sep    |23-Sep     |07-Oct     |28-Oct     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
 Esmee	    |&#9745;    |           |           |           |           |
 Ella	    |&#9745;    |           |           |           |           |
-Gitte	    |           |&#9745;    |           |           |           |
-Dee Dee	    |           |&#9745;    |           |           |           |
-Celine	    |           |           |&#9745;    |           |           |
-Féliz	    |           |           |&#9745;    |           |           |
-Laute	    |           |           |           |&#9745;    |           |
-Margue	    |           |           |           |&#9745;    |           |
-Imke	    |           |           |           |           |&#9745;    |
-Tille	    |           |           |           |           |&#9745;    |
-Eleonora	|           |           |           |           |           |&#9745;
-Lily Rose	|           |           |           |           |           |&#9745;
+Gitte	    |           |           |           |           |           |
+Dee Dee	    |           |           |           |           |           |
+Celine	    |           |           |           |           |           |
+Féliz	    |           |           |           |           |           |
+Laute	    |           |           |           |           |           |
+Margue	    |           |           |           |           |           |
+Imke	    |           |           |           |           |           |
+Tille	    |           |           |           |           |           |
+Eleonora	|           |           |           |           |           |
+Lily Rose	|           |           |           |           |           |
 Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
 Lore        |           |           |           |           |           |
 
-## Outfit 
+## Outfit
+
+<!-- ![outfit](/assets/outfit.jpg) -->
 
 Elke speelster krijgt een truitje en broekje en sokken. Alles wordt meegenomen naar huis en is gewassen tegen de volgende wedstrijd. 
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
 
 ## Contact
+
+<!-- ![contact](/assets/contact.jpg) -->
 
 Voor vragen of opmerkingen kan je steeds bij je délégué en/of coach terecht.
