@@ -1,6 +1,6 @@
 # Sparta Haacht Tildonk MU16 23-24
 
-![sparta](https://github.com/mu16-23-24/mu16-23-24.github.io/blob/main/assets/sparta.jpg)
+![sparta](/assets/sparta.jpg)
 
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024`
 ## Volgende wedstrijd
