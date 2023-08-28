@@ -1,7 +1,8 @@
 # Sparta Haacht Tildonk MU16 23-24
 
-Op deze pagina vind je alle nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024`
+![sparta](/assests/sparta.jpg)
 
+Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024`
 ## Volgende wedstrijd
 
 > Volgende thuis wedstrijd is op zaterdag 2 september tegen Red Boys Elzestraat om 16.45 (15.45 ter plaatse)
@@ -63,6 +64,12 @@ Lore		|           |           |       |       |       |       |       |       | 
 
 ### Kleedkamer Schema
 
+Taken:
+
+- Afval verzamelen en deponeren in de voorziene vuilbakken
+- Dweilen
+- Achterlaten zoals je ze gekregen hebt.
+
 Naam        | 02-Sep    |23-Sep     |07-Oct     |28-Oct     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
 Esmee	    |&#9745;    |           |           |           |           |
@@ -83,6 +90,10 @@ Lore        |           |           |           |           |           |
 
 ## Outfit 
 
-Elke speelster krijgt een truitje en broekje. Het truitje en broekje worden meegenomen naar huis en zijn gewassen tegen de volgende wedstrijd. 
+Elke speelster krijgt een truitje en broekje en sokken. Alles wordt meegenomen naar huis en is gewassen tegen de volgende wedstrijd. 
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
+
+## Contact
+
+Voor vragen of opmerkingen kan je steeds bij je délégué en/of coach terecht.
