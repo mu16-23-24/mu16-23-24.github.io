@@ -90,7 +90,6 @@ Margue	    |           |           |       |       |       |       |       |    
 Imke	    |           |           |       |       |       |       |       |       |       |       |       |
 Tille	    |           |           |       |       |       |       |       |       |       |       |       |
 Eleonora	|           |           |       |       |       |       |       |       |       |       |       |
-Lily Rose	|           |           |       |       |       |       |       |       |       |       |       |
 Lize        |           |           |       |       |       |       |       |       |       |       |       |
 Auke        |           |           |       |       |       |       |       |       |       |       |       |
 Lore		|           |           |       |       |       |       |       |       |       |       |       |
@@ -116,7 +115,6 @@ Margue	    |           |           |           |           |           |
 Imke	    |           |           |           |           |           |
 Tille	    |           |           |           |           |           |
 Eleonora	|           |           |           |           |           |
-Lily Rose	|           |           |           |           |           |
 Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
 Lore        |           |           |           |           |           |
