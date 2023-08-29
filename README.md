@@ -94,6 +94,8 @@ Lize        |           |           |       |       |       |       |       |   
 Auke        |           |           |       |       |       |       |       |       |       |       |       |
 Lore		|           |           |       |       |       |       |       |       |       |       |       |
 
+<!-- Kato		|           |           |       |       |       |       |       |       |       |       |       | -->
+
 ### Kleedkamer Schema
 
 Taken:
@@ -118,6 +120,8 @@ Eleonora	|           |           |           |           |           |
 Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
 Lore        |           |           |           |           |           |
+
+<!-- Kato        |           |           |           |           |           | -->
 
 ## Outfit
 
