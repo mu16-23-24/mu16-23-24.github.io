@@ -18,7 +18,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Fruit: Ella -->
 
 
-<details open>
+<details>
   <summary> Voorbije wedstrijden</summary>
   
 Datum   | Thuis | Uit   | Uitslag
