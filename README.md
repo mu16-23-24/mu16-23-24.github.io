@@ -7,16 +7,36 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 <!-- ![wedstrijd](/assets/wedstrijd.jpg) -->
 
-> Volgende thuis wedstrijd is op zaterdag 2 september tegen Red Boys Elzestraat om 16.45 (15.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **2 september** tegen Red Boys Elzestraat om 16.45 (15.45 ter plaatse)
 
 > Kleedkamer: Esmee & Ella
 
 > Fruit: Esmee
 
-
-<!-- > Volgende uit wedstrijd is op zondag 10 september tegen Herent om 10.00 (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op zondag **10 september** tegen Herent om 10.00 (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
 
 > Fruit: Ella -->
+
+
+<details open>
+  <summary> Voorbije wedstrijden</summary>
+  
+Datum   | Thuis | Uit   | Uitslag
+---     |:---:  |:---:  |---
+02-Sep  |&#9745;|       | ?
+10-Sep  |       |       | ?
+23-Sep  |&#9745;|       | ?
+01-Oct  |       |       | ?
+07-Oct  |&#9745;|       | ?
+14-Oct  |       |       | ?
+21-Oct  |       |       | ?
+28-Oct  |&#9745;|       | ?
+10-Nov  |       |       | ?
+18-Nov  |&#9745;|       | ?
+25-Nov  |       |       | ?
+02-Dec  |&#9745;|       | ?
+
+</details>
 
 
 ## Trainingen
