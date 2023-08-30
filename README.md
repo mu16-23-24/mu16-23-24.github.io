@@ -131,6 +131,36 @@ Elke speelster krijgt een truitje en broekje en sokken. Alles wordt meegenomen n
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
 
+## Toogshiften
+
+Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen.
+
+Gelieve Twizzit ook in de vullen.
+
+Datum   | Tijdstip  | Wie
+---     | ---       | ---
+23 Sep  |12.30-14.00| ?
+23 Sep  |12.30-14.00| ?
+23 Sep  |12.30-14.00| ?
+
+Datum   | Tijdstip  | Wie
+---     | ---       | ---
+28 Oct  |14.00-18.30| ?
+28 Oct  |14.00-18.30| ?
+28 Oct  |14.00-18.30| ?
+
+Datum   | Tijdstip  | Wie
+---     | ---       | ---
+18 Nov  |12.30-14.00| ?
+18 Nov  |12.30-14.00| ?
+18 Nov  |12.30-14.00| ?
+
+Datum   | Tijdstip  | Wie
+---     | ---       | ---
+2 Dec   |12.30-14.00| ?
+2 Dec   |12.30-14.00| ?
+2 Dec   |12.30-14.00| ?
+
 ## Contact
 
 <!-- ![contact](/assets/contact.jpg) -->
