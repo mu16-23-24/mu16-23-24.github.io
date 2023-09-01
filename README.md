@@ -1,4 +1,4 @@
-# Sparta Haacht Tildonk MU16 23-24
+# Sparta Haacht Tildonk MU16 2023-2024
 
 ![sparta](/assets/sparta.jpg)
 
