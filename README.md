@@ -7,7 +7,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 <!-- ![wedstrijd](/assets/wedstrijd.jpg) -->
 
-> Volgende **thuis** wedstrijd is op zaterdag **2 september** tegen **Red Boys Elzestraat** om **16.45** (15.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **2 september** tegen **Red Boys Elzestraat** om **16.45** (15.30 ter plaatse)
 
 > Kleedkamer: **Esmee & Ella**
 
