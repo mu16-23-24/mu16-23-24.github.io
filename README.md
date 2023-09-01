@@ -2,7 +2,7 @@
 
 ![sparta](/assets/sparta.jpg)
 
-Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024`
+Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024
 ## Volgende wedstrijd
 
 <!-- ![wedstrijd](/assets/wedstrijd.jpg) -->
