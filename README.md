@@ -23,11 +23,11 @@ Datum   | Thuis | Uit   | Tegenstander
 ---     |:---:  |:---:  |---                
 10-Sep  |       |&#9745;|K.F.C Herent       
 23-Sep  |&#9745;|       |Kon. Olvac         
-01-Oct  |       |&#9745;|Antwerp Diamonds Fc
-07-Oct  |&#9745;|       |K.F.C Herenthout
-14-Oct  |       |&#9745;|S.C. Mechelen
-21-Oct  |       |&#9745;|Red Boys Elzestraat
-28-Oct  |&#9745;|       |K.F.C Herent
+01-Okt  |       |&#9745;|Antwerp Diamonds Fc
+07-Okt  |&#9745;|       |K.F.C Herenthout
+14-Okt  |       |&#9745;|S.C. Mechelen
+21-Okt  |       |&#9745;|Red Boys Elzestraat
+28-Okt  |&#9745;|       |K.F.C Herent
 10-Nov  |       |&#9745;|Kon. Olvac
 18-Nov  |&#9745;|       |Antwerp Diamonds Fc
 25-Nov  |       |&#9745;|K.F.C Herenthout
@@ -79,7 +79,7 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 
 ### Fruit Schema
 
-Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Oct     |07-Oct     |14-Oct     |21-Oct     |28-Oct     |10-Nov     |18-Nov     |25-Nov     |02-Dec
+Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---    |---    |---    |---    |---    |---    |---    |---    |---    |---
 Esmee	    |&#9745;    |           |       |       |       |       |       |       |       |       |       |
 Ella	    |           |           |       |       |       |       |       |       |       |       |       |
@@ -106,7 +106,7 @@ Taken:
 - Dweilen
 - Achterlaten zoals je ze gekregen hebt.
 
-Naam        | 02-Sep    |23-Sep     |07-Oct     |28-Oct     |18-Nov     |02-Dec
+Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
 Esmee	    |&#9745;    |           |           |           |           |
 Ella	    |&#9745;    |           |           |           |           |
@@ -147,9 +147,9 @@ Datum   | Tijdstip  | Wie
 
 Datum   | Tijdstip  | Wie
 ---     | ---       | ---
-28 Oct  |14.00-18.30| ?
-28 Oct  |14.00-18.30| ?
-28 Oct  |14.00-18.30| ?
+28 Okt  |14.00-18.30| ?
+28 Okt  |14.00-18.30| ?
+28 Okt  |14.00-18.30| ?
 
 Datum   | Tijdstip  | Wie
 ---     | ---       | ---
