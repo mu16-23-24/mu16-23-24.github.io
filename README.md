@@ -4,10 +4,8 @@
 
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024
 
+## Volgende wedstrijd
 
-<details>
-  <summary> Komende wedstrijden</summary>
-  
 <!-- > Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
 
 > Kleedkamer: **Esmee & Ella**
@@ -18,6 +16,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Fruit: Ella?
 
+<details>
+  <summary> Komende wedstrijden</summary>
+  
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
 10-Sep  |       |&#9745;|K.F.C Herent       
@@ -34,7 +35,7 @@ Datum   | Thuis | Uit   | Tegenstander
 
 </details>
 
-<details>
+<details open>
   <summary> Voorbije wedstrijden</summary>
   
 Datum   | Thuis | Uit   | Tegenstander        | Uitslag
@@ -58,7 +59,7 @@ Donderdag   | [Tildonk](https://www.google.com/maps/place/FC+Tildonk/@50.9407269
 
 Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
 
-## Wedstrijden
+## Wedstrijd info
 
 <!-- ![wedstrijden](/assets/wedstrijden.jpg) -->
 
