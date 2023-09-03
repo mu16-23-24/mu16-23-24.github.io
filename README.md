@@ -162,4 +162,8 @@ Datum   | Tijdstip  | Wie
 
 <!-- ![contact](/assets/contact.jpg) -->
 
-Voor vragen of opmerkingen kan je steeds bij je délégué en/of coach terecht.
+Voor vragen of opmerkingen kan je steeds bij je délégué en/of coaches terecht.
+
+Andy
+Marnix
+Sujith
