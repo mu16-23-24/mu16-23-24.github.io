@@ -3,41 +3,45 @@
 ![sparta](/assets/sparta.jpg)
 
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024
-## Volgende wedstrijd
 
-<!-- ![wedstrijd](/assets/wedstrijd.jpg) -->
 
-> Volgende **thuis** wedstrijd is op zaterdag **2 september** tegen **Red Boys Elzestraat** om **16.45** (15.30 ter plaatse)
+<details>
+  <summary> Komende wedstrijden</summary>
+  
+<!-- > Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
 
 > Kleedkamer: **Esmee & Ella**
 
-> Fruit: **Esmee**
+> Fruit: **Esmee** -->
 
-<!-- > Volgende **uit** wedstrijd is op zondag **10 september** tegen **Herent** om **10.00** (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
 
-> Fruit: Ella -->
+> Fruit: Ella?
 
+Datum   | Thuis | Uit   | Tegenstander      
+---     |:---:  |:---:  |---                
+10-Sep  |       |&#9745;|K.F.C Herent       
+23-Sep  |&#9745;|       |Kon. Olvac         
+01-Oct  |       |&#9745;|Antwerp Diamonds Fc
+07-Oct  |&#9745;|       |K.F.C Herenthout
+14-Oct  |       |&#9745;|S.C. Mechelen
+21-Oct  |       |&#9745;|Red Boys Elzestraat
+28-Oct  |&#9745;|       |K.F.C Herent
+10-Nov  |       |&#9745;|Kon. Olvac
+18-Nov  |&#9745;|       |Antwerp Diamonds Fc
+25-Nov  |       |&#9745;|K.F.C Herenthout
+02-Dec  |&#9745;|       |S.C. Mechelen
+
+</details>
 
 <details>
   <summary> Voorbije wedstrijden</summary>
   
-Datum   | Thuis | Uit   | Uitslag
----     |:---:  |:---:  |---
-02-Sep  |&#9745;|       | ?
-10-Sep  |       |       | ?
-23-Sep  |&#9745;|       | ?
-01-Oct  |       |       | ?
-07-Oct  |&#9745;|       | ?
-14-Oct  |       |       | ?
-21-Oct  |       |       | ?
-28-Oct  |&#9745;|       | ?
-10-Nov  |       |       | ?
-18-Nov  |&#9745;|       | ?
-25-Nov  |       |       | ?
-02-Dec  |&#9745;|       | ?
+Datum   | Thuis | Uit   | Tegenstander        | Uitslag
+---     |:---:  |:---:  |---                  |---
+02-Sep  |&#9745;|       | Red Boys Elzestraat | 2-1
 
 </details>
-
 
 ## Trainingen
 
@@ -60,12 +64,12 @@ Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd). Op basis hierv
 
 Wedstrijden zijn te volgen in de Twizzit app. 
 
-De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1u + reistijd(parking Sparta).
+De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1 uur + reistijd(parking Sparta).
 
 Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor. Zie [schema](#fruit-schema).
 
 Bij elke thuiswedstijd worden 2 spelers aangeduid om te kleedkamer op te ruimen. Zie [schema](#kleedkamer-schema).
-De spelers krijgen bij thuiswedstrijden een drankbonnetje aangeboden.
+De spelers krijgen bij thuiswedstrijden een drankbonnetje (+hotdog) aangeboden.
 
 Gelieve de Sparta uitrusting te dragen.
 
