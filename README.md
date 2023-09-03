@@ -35,14 +35,11 @@ Datum   | Thuis | Uit   | Tegenstander
 
 </details>
 
-<details open>
-  <summary> Voorbije wedstrijden</summary>
-  
+## Voorbije wedstrijden
+
 Datum   | Thuis | Uit   | Tegenstander        | Uitslag
 ---     |:---:  |:---:  |---                  |---
 02-Sep  |&#9745;|       | Red Boys Elzestraat | 2-1
-
-</details>
 
 ## Trainingen
 
