@@ -16,9 +16,6 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Fruit: Ella?
 
-<details>
-  <summary> Komende wedstrijden</summary>
-  
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
 10-Sep  |       |&#9745;|K.F.C Herent       
@@ -32,8 +29,6 @@ Datum   | Thuis | Uit   | Tegenstander
 18-Nov  |&#9745;|       |Antwerp Diamonds Fc
 25-Nov  |       |&#9745;|K.F.C Herenthout
 02-Dec  |&#9745;|       |S.C. Mechelen
-
-</details>
 
 ## Voorbije wedstrijden
 
