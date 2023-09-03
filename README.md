@@ -8,9 +8,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 <!-- > Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
 
-> Kleedkamer: **Esmee & Ella**
+> Kleedkamer: **Gitte & Dee Dee?**
 
-> Fruit: **Esmee** -->
+> Fruit: **Gitte?** -->
 
 > Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
 
