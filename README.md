@@ -144,24 +144,24 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 23 Sep  |12.30-14.00| Esmee &#9745;
 23 Sep  |12.30-14.00| Ella
-23 Sep  |12.30-14.00| Gitte
+23 Sep  |12.30-14.00| Margue &#9745;
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 28 Okt  |14.00-18.30| Dee Dee
-28 Okt  |14.00-18.30| Celine
+28 Okt  |14.00-18.30| Celine &#9745;
 28 Okt  |14.00-18.30| Féliz ?
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-18 Nov  |12.30-14.00| Margue
-18 Nov  |12.30-14.00| Imke
+18 Nov  |12.30-14.00| Gitte &#9745;
+18 Nov  |12.30-14.00| Imke &#9745;
 18 Nov  |12.30-14.00| Tille
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 2 Dec   |12.30-14.00| Lize
-2 Dec   |12.30-14.00| Auke
+2 Dec   |12.30-14.00| Auke &#9745;
 2 Dec   |12.30-14.00| ?
 
 ## Contact
