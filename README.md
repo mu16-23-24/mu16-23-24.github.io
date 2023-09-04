@@ -150,7 +150,7 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 28 Okt  |14.00-18.30| Dee Dee
 28 Okt  |14.00-18.30| Celine
-28 Okt  |14.00-18.30| Féliz
+28 Okt  |14.00-18.30| Féliz?
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
