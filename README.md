@@ -170,6 +170,6 @@ Datum   | Tijdstip  | Wie (Ouder van)
 
 Voor vragen of opmerkingen kan je steeds bij je délégué en/of coaches terecht.
 
-Andy
-Marnix
-Sujith
+- Andy
+- Marnix
+- Sujith
