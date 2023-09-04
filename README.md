@@ -142,7 +142,7 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-23 Sep  |12.30-14.00| Esmee
+23 Sep  |12.30-14.00| Esmee &#9745;
 23 Sep  |12.30-14.00| Ella
 23 Sep  |12.30-14.00| Gitte
 
@@ -150,7 +150,7 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 28 Okt  |14.00-18.30| Dee Dee
 28 Okt  |14.00-18.30| Celine
-28 Okt  |14.00-18.30| Féliz?
+28 Okt  |14.00-18.30| Féliz ?
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
