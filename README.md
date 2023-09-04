@@ -14,7 +14,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
 
-<!-- > Fruit: Ella -->
+> Fruit: Ella?
 
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
@@ -75,23 +75,25 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 ### Fruit Schema
 
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
----         |---        |---        |---    |---    |---    |---    |---    |---    |---    |---    |---    |---
-Esmee	    |&#9745;    |           |       |       |       |       |       |       |       |       |       |
-Ella	    |           |           |       |       |       |       |       |       |       |       |       |
-Gitte	    |           |           |       |       |       |       |       |       |       |       |       | 
-Dee Dee	    |           |           |       |       |       |       |       |       |       |       |       |
-Celine	    |           |           |       |       |       |       |       |       |       |       |       |
-Féliz	    |           |           |       |       |       |       |       |       |       |       |       |
-Laute	    |           |           |       |       |       |       |       |       |       |       |       |
-Margue	    |           |           |       |       |       |       |       |       |       |       |       |
-Imke	    |           |           |       |       |       |       |       |       |       |       |       |
-Tille	    |           |           |       |       |       |       |       |       |       |       |       |
-Eleonora	|           |           |       |       |       |       |       |       |       |       |       |
-Lize        |           |           |       |       |       |       |       |       |       |       |       |
-Auke        |           |           |       |       |       |       |       |       |       |       |       |
-Lore		|           |           |       |       |       |       |       |       |       |       |       |
+---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
+Esmee	    |&#9745;    |           |           |           |           |           |           |           |           |           |           |
+Ella	    |           |&#9745;    |           |           |           |           |           |           |           |           |           |
+Gitte	    |           |           |           |           |           |           |           |           |           |           |           | 
+Dee Dee	    |           |           |           |           |           |           |           |           |           |           |           |
+Celine	    |           |           |           |           |           |           |           |           |           |           |           |
+Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
+Margue	    |           |           |           |           |           |           |           |           |           |           |           |
+Imke	    |           |           |           |           |           |           |           |           |           |           |           |
+Tille	    |           |           |           |           |           |           |           |           |           |           |           |
+Lize        |           |           |           |           |           |           |           |           |           |           |           |
+Auke        |           |           |           |           |           |           |           |           |           |           |           |
+Lore		|           |           |           |           |           |           |           |           |           |           |           |
 
-<!-- Kato		|           |           |       |       |       |       |       |       |       |       |       | -->
+<!-- 
+Kato		|           |           |           |           |           |           |           |           |           |           |           | 
+Laute	    |           |           |           |           |           |           |           |           |           |           |           |
+Eleonora	|           |           |           |           |           |           |           |           |           |           |           |
+-->
 
 ### Kleedkamer Schema
 
@@ -118,7 +120,11 @@ Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
 Lore        |           |           |           |           |           |
 
-<!-- Kato        |           |           |           |           |           | -->
+<!-- 
+Kato		|           |           |           |           |           | 
+Laute	    |           |           |           |           |           |
+Eleonora	|           |           |           |           |           |
+ -->
 
 ## Outfit
 
@@ -134,29 +140,29 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Gelieve Twizzit ook in de vullen.
 
-Datum   | Tijdstip  | Wie
+Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-23 Sep  |12.30-14.00| ?
-23 Sep  |12.30-14.00| ?
-23 Sep  |12.30-14.00| ?
+23 Sep  |12.30-14.00| Esmee
+23 Sep  |12.30-14.00| Ella
+23 Sep  |12.30-14.00| Gitte
 
 Datum   | Tijdstip  | Wie
 ---     | ---       | ---
-28 Okt  |14.00-18.30| ?
-28 Okt  |14.00-18.30| ?
-28 Okt  |14.00-18.30| ?
+28 Okt  |14.00-18.30| Dee Dee
+28 Okt  |14.00-18.30| Celine
+28 Okt  |14.00-18.30| Féliz
 
 Datum   | Tijdstip  | Wie
 ---     | ---       | ---
-18 Nov  |12.30-14.00| ?
-18 Nov  |12.30-14.00| ?
-18 Nov  |12.30-14.00| ?
+18 Nov  |12.30-14.00| Margue
+18 Nov  |12.30-14.00| Imke
+18 Nov  |12.30-14.00| Tille
 
 Datum   | Tijdstip  | Wie
 ---     | ---       | ---
-2 Dec   |12.30-14.00| ?
-2 Dec   |12.30-14.00| ?
-2 Dec   |12.30-14.00| ?
+2 Dec   |12.30-14.00| Lize
+2 Dec   |12.30-14.00| Auke
+2 Dec   |12.30-14.00| Lore
 
 ## Contact
 
