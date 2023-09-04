@@ -156,13 +156,13 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 18 Nov  |12.30-14.00| Margue
 18 Nov  |12.30-14.00| Imke
-18 Nov  |12.30-14.00| Lore
+18 Nov  |12.30-14.00| Tille
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 2 Dec   |12.30-14.00| Lize
 2 Dec   |12.30-14.00| Auke
-2 Dec   |12.30-14.00| Tille
+2 Dec   |12.30-14.00| ?
 
 ## Contact
 
