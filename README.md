@@ -173,4 +173,3 @@ Voor vragen of opmerkingen kan je steeds bij je délégué en/of coaches terecht
 - Andy
 - Marnix
 - Sujith
-
