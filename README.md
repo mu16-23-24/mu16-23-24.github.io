@@ -156,7 +156,7 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 18 Nov  |12.30-14.00| Gitte &#9745;
 18 Nov  |12.30-14.00| Imke &#9745;
-18 Nov  |12.30-14.00| Tille ?
+18 Nov  |12.30-14.00| Tille &#9745;
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
