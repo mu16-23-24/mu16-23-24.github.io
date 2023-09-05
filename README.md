@@ -143,7 +143,7 @@ Gelieve Twizzit ook in de vullen.
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 23 Sep  |12.30-14.00| Esmee &#9745;
-23 Sep  |12.30-14.00| Ella
+23 Sep  |12.30-14.00| Ella &#9745;
 23 Sep  |12.30-14.00| Margue &#9745;
 
 Datum   | Tijdstip  | Wie (Ouder van)
