@@ -87,6 +87,7 @@ Imke	    |           |           |           |           |           |          
 Tille	    |           |           |           |           |           |           |           |           |           |           |           |
 Lize        |           |           |           |           |           |           |           |           |           |           |           |
 Auke        |           |           |           |           |           |           |           |           |           |           |           |
+Morane		|           |           |           |           |           |           |           |           |           |           |           |
 Lore		|           |           |           |           |           |           |           |           |           |           |           |
 
 <!-- 
@@ -118,6 +119,7 @@ Tille	    |           |           |           |           |           |
 Eleonora	|           |           |           |           |           |
 Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
+Morane      |           |           |           |           |           |
 Lore        |           |           |           |           |           |
 
 <!-- 
@@ -162,7 +164,7 @@ Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
 2 Dec   |12.30-14.00| Lize
 2 Dec   |12.30-14.00| Auke &#9745;
-2 Dec   |12.30-14.00| ?
+2 Dec   |12.30-14.00| Morane ?
 
 ## Contact
 
