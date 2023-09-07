@@ -16,6 +16,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Fruit: Ella
 
+> Adres:
+De Kempen - Terr. 1 |
+Mechelsesteenweg 634 |
+3020 Herent
+
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
 10-Sep  |       |&#9745;|K.F.C Herent       
