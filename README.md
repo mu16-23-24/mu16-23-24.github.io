@@ -137,9 +137,36 @@ Eleonora	|           |           |           |           |           |
 
 <!-- ![outfit](/assets/outfit.jpg) -->
 
-Elke speelster krijgt een truitje en broekje en sokken. Alles wordt meegenomen naar huis en is gewassen tegen de volgende wedstrijd. 
+Elke speelster krijgt een truitje en broekje en sokken. 
+
+Na elke wedstrijd wordt iemand aangeduid die de vuild was meeneemt. Zie [schema](#was-schema).
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
+
+
+### Was Schema
+
+Naam        |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
+---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
+Esmee	    |&#9745;    |           |           |           |           |           |           |           |           |           |
+Ella	    |           |           |           |           |           |           |           |           |           |           |
+Gitte	    |           |           |           |           |           |           |           |           |           |           | 
+Dee Dee	    |           |           |           |           |           |           |           |           |           |           |
+Celine	    |           |           |           |           |           |           |           |           |           |           |
+Féliz	    |           |           |           |           |           |           |           |           |           |           |
+Margue	    |           |           |           |           |           |           |           |           |           |           |
+Imke	    |           |           |           |           |           |           |           |           |           |           |
+Tille	    |           |           |           |           |           |           |           |           |           |           |
+Lize        |           |           |           |           |           |           |           |           |           |           |
+Auke        |           |           |           |           |           |           |           |           |           |           |
+Morane		|           |           |           |           |           |           |           |           |           |           |
+Lore		|           |           |           |           |           |           |           |           |           |           |
+
+<!-- 
+Kato		|           |           |           |           |           |           |           |           |           |           | 
+Laute	    |           |           |           |           |           |           |           |           |           |           |
+Eleonora	|           |           |           |           |           |           |           |           |           |           |
+-->
 
 ## Toogshiften
 
