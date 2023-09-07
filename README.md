@@ -19,7 +19,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Adres:
 De Kempen - Terr. 1 |
 Mechelsesteenweg 634 |
-3020 Herent
+3020 Herent | [map](https://www.google.com/maps/place/Mechelsesteenweg+634,+3020+Herent/@50.9108192,4.6578645,17z/data=!3m1!4b1!4m6!3m5!1s0x47c1607ae3d40ddb:0x216860ef26608518!8m2!3d50.9108158!4d4.6604448!16s%2Fg%2F11c4n0hwnq?entry=ttu)
 
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
