@@ -12,9 +12,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Fruit: **Gitte?** -->
 
-> Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.45 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.40 vertrekken op Sparta) 
 
-> Fruit: Ella?
+> Fruit: Ella
 
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
