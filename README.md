@@ -198,6 +198,56 @@ Datum   | Tijdstip  | Wie (Ouder van)
 2 Dec   |12.30-14.00| Auke &#9745;
 2 Dec   |12.30-14.00| Morane ?
 
+## Tegemoetkoming mutualiteit
+
+Mutualiteiten geven een tegemoetkoming als je kind aangesloten is bij een sportclub. Het bedrag verschilt van mutualiteit tot mutualiteit.
+
+Via onderstaande links kunnen jullie de nodige documenten vinden en downloaden. Vul de gegevens in die jezelf kan invullen en geef het document af aan de club (Wouter of délégué). Kleef er ook een gele/witte/roze klever op.
+Het ingevulde document bezorg je aan je mutualiteit en die storten de vergoeding op je rekening.
+
+
+### Christelijke Mutualiteit
+https://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/sportvereniging
+
+### Liberale Mutualiteit
+Brabant:
+http://www.lm.be/lmmutplus/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+
+Antwerpen:
+http://www.lm.be/Antwerpen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+
+Limburg:
+http://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/sportenweesactiefwaardebon/Pages/DefaultArticle.aspx
+
+Oost-Vlaanderen:
+http://www.lm.be/Oost-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+
+West-Vlaanderen:
+http://www.lm.be/West-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+
+### Partena
+https://www.partena-ziekenfonds.be/nl/ziekenfonds-en-voordelen/voordelen-en-terugbetalingen/beweegbonus
+
+### OZ
+https://www.oz.be/vitaliteit/voordelen/fitness-sportclub
+
+### Socialistische Mutualiteit (Voorzorg)
+Brabant:
+https://www.fsmb.be/sport-of-fitnessclub
+
+Antwerpen:
+https://www.devoorzorg.be/antwerpen/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx
+
+Limburg:
+https://www.devoorzorg.be/limburg/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx
+
+Oost-Vlaanderen:
+https://www.bondmoyson.be/ovl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx
+
+West-Vlaanderen:
+https://www.bondmoyson.be/wvl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx
+
+
 ## Contact
 
 <!-- ![contact](/assets/contact.jpg) -->
