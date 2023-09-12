@@ -6,24 +6,28 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
 
-> Kleedkamer: **Gitte & Dee Dee?**
+> Kleedkamer: **Gitte & Dee Dee**
 
-> Fruit: **Gitte?** -->
+> Fruit: **TBD**
 
-> Volgende **uit** wedstrijd is op zondag **10 september** tegen **K.F.C Herent** om **10.00** (09.00 ter plaatse of 08.40 vertrekken op Sparta) 
+> Was meenemen: **TBD**
 
-> Fruit: Ella
+
+<!-- > Volgende **uit** wedstrijd is op zondag **1 oktober** tegen **Antwerp Diamonds Fc** om **10.30** (09.30 ter plaatse of 08.45 vertrekken op Sparta) 
+
+> Fruit: ?
+
+> Was meenemen: ?
 
 > Adres:
 De Kempen - Terr. 1 |
 Mechelsesteenweg 634 |
-3020 Herent | [map](https://www.google.com/maps/place/Mechelsesteenweg+634,+3020+Herent/@50.9108192,4.6578645,17z/data=!3m1!4b1!4m6!3m5!1s0x47c1607ae3d40ddb:0x216860ef26608518!8m2!3d50.9108158!4d4.6604448!16s%2Fg%2F11c4n0hwnq?entry=ttu)
+3020 Herent | [map](https://www.google.com/maps/place/Mechelsesteenweg+634,+3020+Herent/@50.9108192,4.6578645,17z/data=!3m1!4b1!4m6!3m5!1s0x47c1607ae3d40ddb:0x216860ef26608518!8m2!3d50.9108158!4d4.6604448!16s%2Fg%2F11c4n0hwnq?entry=ttu) -->
 
 Datum   | Thuis | Uit   | Tegenstander      
 ---     |:---:  |:---:  |---                
-10-Sep  |       |&#9745;|K.F.C Herent       
 23-Sep  |&#9745;|       |Kon. Olvac         
 01-Okt  |       |&#9745;|Antwerp Diamonds Fc
 07-Okt  |&#9745;|       |K.F.C Herenthout
@@ -40,6 +44,7 @@ Datum   | Thuis | Uit   | Tegenstander
 Datum   | Thuis | Uit   | Tegenstander        | Uitslag
 ---     |:---:  |:---:  |---                  |---
 02-Sep  |&#9745;|       | Red Boys Elzestraat | 2-1
+10-Sep  |       |&#9745;|K.F.C Herent         | 4-1
 
 ## Trainingen
 
@@ -83,7 +88,7 @@ Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt 
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
 Esmee	    |&#9745;    |           |           |           |           |           |           |           |           |           |           |
 Ella	    |           |&#9745;    |           |           |           |           |           |           |           |           |           |
-Gitte	    |           |           |           |           |           |           |           |           |           |           |           | 
+Gitte	    |           |           |&#9745;    |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |           |           |           |           |           |           |           |           |           |
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |
 Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
@@ -113,8 +118,8 @@ Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
 Esmee	    |&#9745;    |           |           |           |           |
 Ella	    |&#9745;    |           |           |           |           |
-Gitte	    |           |           |           |           |           |
-Dee Dee	    |           |           |           |           |           |
+Gitte	    |           |&#9745;    |           |           |           |
+Dee Dee	    |           |&#9745;    |           |           |           |
 Celine	    |           |           |           |           |           |
 Féliz	    |           |           |           |           |           |
 Laute	    |           |           |           |           |           |
@@ -148,9 +153,9 @@ Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht 
 
 Naam        |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
-Esmee	    |&#9745;    |           |           |           |           |           |           |           |           |           |
-Ella	    |           |           |           |           |           |           |           |           |           |           |
-Gitte	    |           |           |           |           |           |           |           |           |           |           | 
+Esmee	    |           |           |           |           |           |           |           |           |           |           |
+Ella	    |&#9745;    |           |           |           |           |           |           |           |           |           |
+Gitte	    |           |&#9745;    |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |           |           |           |           |           |           |           |           |
 Celine	    |           |           |           |           |           |           |           |           |           |           |
 Féliz	    |           |           |           |           |           |           |           |           |           |           |
@@ -207,52 +212,52 @@ Het ingevulde document bezorg je aan je mutualiteit en die storten de vergoeding
 
 
 ### Christelijke Mutualiteit
-https://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/sportvereniging
+[https://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/sportvereniging](https://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/sportvereniging)
 
 ### Liberale Mutualiteit
 Brabant:
-http://www.lm.be/lmmutplus/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+[http://www.lm.be/lmmutplus/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx](http://www.lm.be/lmmutplus/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx)
 
 Antwerpen:
-http://www.lm.be/Antwerpen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+[http://www.lm.be/Antwerpen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx](http://www.lm.be/Antwerpen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx)
 
 Limburg:
-http://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/sportenweesactiefwaardebon/Pages/DefaultArticle.aspx
+[http://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/sportenweesactiefwaardebon/Pages/DefaultArticle.aspx](http://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/sportenweesactiefwaardebon/Pages/DefaultArticle.aspx)
 
 Oost-Vlaanderen:
-http://www.lm.be/Oost-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+[http://www.lm.be/Oost-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx](http://www.lm.be/Oost-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx)
 
 West-Vlaanderen:
-http://www.lm.be/West-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx
+[http://www.lm.be/West-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx](http://www.lm.be/West-Vlaanderen/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx)
 
 ### Partena
-https://www.partena-ziekenfonds.be/nl/ziekenfonds-en-voordelen/voordelen-en-terugbetalingen/beweegbonus
+[https://www.partena-ziekenfonds.be/nl/ziekenfonds-en-voordelen/voordelen-en-terugbetalingen/beweegbonus](https://www.partena-ziekenfonds.be/nl/ziekenfonds-en-voordelen/voordelen-en-terugbetalingen/beweegbonus)
 
 ### OZ
-https://www.oz.be/vitaliteit/voordelen/fitness-sportclub
+[https://www.oz.be/vitaliteit/voordelen/fitness-sportclub](https://www.oz.be/vitaliteit/voordelen/fitness-sportclub)
 
 ### Socialistische Mutualiteit (Voorzorg)
 Brabant:
-https://www.fsmb.be/sport-of-fitnessclub
+[https://www.fsmb.be/sport-of-fitnessclub](https://www.fsmb.be/sport-of-fitnessclub)
 
 Antwerpen:
-https://www.devoorzorg.be/antwerpen/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx
+[https://www.devoorzorg.be/antwerpen/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx](https://www.devoorzorg.be/antwerpen/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx)
 
 Limburg:
-https://www.devoorzorg.be/limburg/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx
+[https://www.devoorzorg.be/limburg/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx](https://www.devoorzorg.be/limburg/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx)
 
 Oost-Vlaanderen:
-https://www.bondmoyson.be/ovl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx
+[https://www.bondmoyson.be/ovl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx](https://www.bondmoyson.be/ovl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx)
 
 West-Vlaanderen:
-https://www.bondmoyson.be/wvl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx
+[https://www.bondmoyson.be/wvl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx](https://www.bondmoyson.be/wvl/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/Sportvoordeel.aspx)
 
 
 ## Contact
 
 <!-- ![contact](/assets/contact.jpg) -->
 
-Voor vragen of opmerkingen kan je steeds bij je délégué en/of coaches terecht.
+Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of délégué (de rest) terecht.
 
 - Andy
 - Marnix
