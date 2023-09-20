@@ -6,13 +6,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** (15.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** of **12.45** (15.45 of 11.45 ter plaatse)
 
 > Kleedkamer: **Gitte & Dee Dee**
 
-> Fruit: **TBD**
+> Fruit: **Gitte**
 
-> Was meenemen: **TBD**
+> Was meenemen: **Gitte**
 
 
 <!-- > Volgende **uit** wedstrijd is op zondag **1 oktober** tegen **Antwerp Diamonds Fc** om **10.30** (09.30 ter plaatse of 08.45 vertrekken op Sparta) 
@@ -178,6 +178,8 @@ Eleonora	|           |           |           |           |           |          
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen.
 
 Gelieve Twizzit ook in de vullen.
+
+De shift van 23 oktober is onder voorbehoud: als we spelen om 12.45, wordt de shift verplaatst naar een nog nader te bepalen datum.
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
