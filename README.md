@@ -177,13 +177,7 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Gelieve Twizzit ook in de vullen.
 
-De shift van 23 oktober is onder voorbehoud: als we spelen om 12.45, wordt de shift verplaatst naar een nog nader te bepalen datum.
-
-Datum   | Tijdstip  | Wie (Ouder van)
----     | ---       | ---
-23 Sep  |12.30-14.00| Esmee &#9745;
-23 Sep  |12.30-14.00| Ella &#9745;
-23 Sep  |12.30-14.00| Margue &#9745;
+> De shift van 23 oktober gaat niet door: we spelen om 12.45. De shift verplaatst naar een nog nader te bepalen datum.
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
@@ -202,6 +196,12 @@ Datum   | Tijdstip  | Wie (Ouder van)
 2 Dec   |12.30-14.00| Lize
 2 Dec   |12.30-14.00| Auke &#9745;
 2 Dec   |12.30-14.00| Morane ?
+
+Datum   | Tijdstip  | Wie (Ouder van)
+---     | ---       | ---
+?       |?          | Esmee
+?       |?          | Ella
+?       |?          | Margue
 
 ## Tegemoetkoming mutualiteit
 
