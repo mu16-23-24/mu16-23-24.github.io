@@ -6,7 +6,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om **16.45** of **12.45** (15.45 of 11.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **23 september** tegen **Kon. Olvac** om ***12.45** (11.45 ter plaatse)
 
 > Kleedkamer: **Gitte & Dee Dee**
 
@@ -120,13 +120,11 @@ Esmee	    |&#9745;    |           |           |           |           |
 Ella	    |&#9745;    |           |           |           |           |
 Gitte	    |           |&#9745;    |           |           |           |
 Dee Dee	    |           |&#9745;    |           |           |           |
-Celine	    |           |           |           |           |           |
-Féliz	    |           |           |           |           |           |
-Laute	    |           |           |           |           |           |
+Celine	    |           |           |&#9745;    |           |           |
+Féliz	    |           |           |&#9745;    |           |           |
 Margue	    |           |           |           |           |           |
 Imke	    |           |           |           |           |           |
 Tille	    |           |           |           |           |           |
-Eleonora	|           |           |           |           |           |
 Lize        |           |           |           |           |           |
 Auke        |           |           |           |           |           |
 Morane      |           |           |           |           |           |
