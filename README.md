@@ -177,7 +177,7 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Gelieve Twizzit ook in de vullen.
 
-> De shift van 23 oktober gaat niet door: we spelen om 12.45. De shift verplaatst naar een nog nader te bepalen datum.
+> De shift van 23 oktober gaat niet door: we spelen om 12.45. De shift is verplaatst naar een nog nader te bepalen datum.
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
