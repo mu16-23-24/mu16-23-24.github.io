@@ -37,7 +37,7 @@ za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
 za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
 vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
 za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
-za 25-Nov  |       |☑     |K.F.C Herenthout       |
+za 25-Nov  |       |☑     |K.F.C Herenthout       | 11.15
 za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
 
 Uren zijn onder voorbehoud en kunnen wijzigen
