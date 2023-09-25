@@ -22,9 +22,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Was meenemen: Dee Dee
 
 > Adres:
-'t Half Maantje - Terr 1 |
-Floralienlaan 111 |
-2020 Antwerpen 2 | [map](https://www.google.com/maps/place/Antwerp+Diamonds+FC/@51.1878223,4.4067831,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f7d75f2c964b:0x15f157be9b1ad27d!8m2!3d51.1878224!4d4.411654!16s%2Fg%2F11ssdq9xlq?entry=ttu)
+'t Half Maantje - Terr 1 <br>
+Floralienlaan 111 <br>
+2020 Antwerpen 2 <br> [map](https://www.google.com/maps/place/Antwerp+Diamonds+FC/@51.1878223,4.4067831,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f7d75f2c964b:0x15f157be9b1ad27d!8m2!3d51.1878224!4d4.411654!16s%2Fg%2F11ssdq9xlq?entry=ttu)
 
 
 
