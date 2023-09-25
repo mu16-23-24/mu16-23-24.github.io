@@ -26,25 +26,34 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Floralienlaan 111 |
 2020 Antwerpen 2 | [map](https://www.google.com/maps/place/Antwerp+Diamonds+FC/@51.1878223,4.4067831,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f7d75f2c964b:0x15f157be9b1ad27d!8m2!3d51.1878224!4d4.411654!16s%2Fg%2F11ssdq9xlq?entry=ttu)
 
-Datum   | Thuis | Uit   | Tegenstander      
----     |:---:  |:---:  |---                
-01-Okt  |       |&#9745;|Antwerp Diamonds Fc
-07-Okt  |&#9745;|       |K.F.C Herenthout
-14-Okt  |       |&#9745;|S.C. Mechelen
-21-Okt  |       |&#9745;|Red Boys Elzestraat
-28-Okt  |&#9745;|       |K.F.C Herent
-10-Nov  |       |&#9745;|Kon. Olvac
-18-Nov  |&#9745;|       |Antwerp Diamonds Fc
-25-Nov  |       |&#9745;|K.F.C Herenthout
-02-Dec  |&#9745;|       |S.C. Mechelen
+
+
+Datum   | Thuis | Uit   | Tegenstander          | Uur
+---     |:---:  |:---:  |---                    | ---
+zo 01-Okt  |       |☑     |Antwerp Diamonds Fc    | 10.30
+za 07-Okt  |☑     |       |K.F.C Herenthout       | 16.45
+za 14-Okt  |       |☑     |S.C. Mechelen          | 13.00 
+za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
+za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
+vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
+za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
+za 25-Nov  |       |☑     |K.F.C Herenthout       |
+za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
+
+Uren zijn onder voorbehoud en kunnen wijzigen
+
+<div>&nbsp;</div>   | Status
+:---:               |---
+✅                  | Gedaan
+☑                  | Gepland
 
 ## Voorbije wedstrijden
 
 Datum   | Thuis | Uit   | Tegenstander        | Uitslag
 ---     |:---:  |:---:  |---                  |---
-02-Sep  |&#9745;|       | Red Boys Elzestraat | 2-1
-10-Sep  |       |&#9745;|K.F.C Herent         | 4-1
-23-Sep  |&#9745;|       |Kon. Olvac           | 3-1         
+02-Sep  |✅     |       | Red Boys Elzestraat | 2-1
+10-Sep  |       |✅     |K.F.C Herent         | 4-1
+23-Sep  |✅     |       |Kon. Olvac           | 3-1         
 
 ## Trainingen
 
@@ -86,18 +95,18 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
-Esmee	    |&#9745;    |           |           |           |           |           |           |           |           |           |           |
-Ella	    |           |&#9745;    |           |           |           |           |           |           |           |           |           |
-Gitte	    |           |           |&#9745;    |           |           |           |           |           |           |           |           | 
-Dee Dee	    |           |           |           |&#9745;    |           |           |           |           |           |           |           |
-Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
-Margue	    |           |           |           |           |           |           |           |           |           |           |           |
-Imke	    |           |           |           |           |           |           |           |           |           |           |           |
-Tille	    |           |           |           |           |           |           |           |           |           |           |           |
-Lize        |           |           |           |           |           |           |           |           |           |           |           |
-Auke        |           |           |           |           |           |           |           |           |           |           |           |
-Morane		|           |           |           |           |           |           |           |           |           |           |           |
-Lore		|           |           |           |           |           |           |           |           |           |           |           |
+Esmee	    |✅         |           |           |           |           |           |           |           |           |           |           |
+Ella	    |           |✅         |           |           |           |           |           |           |           |           |           |
+Gitte	    |           |           |✅         |           |           |           |           |           |           |           |           | 
+Dee Dee	    |           |           |           |☑         |           |           |           |           |           |           |           |
+Féliz	    |           |           |           |           |☑         |           |           |           |           |           |           |
+Margue	    |           |           |           |           |           |☑         |           |           |           |           |           |
+Imke	    |           |           |           |           |           |           |☑         |           |           |           |           |
+Tille	    |           |           |           |           |           |           |           |☑         |           |           |           |
+Lize        |           |           |           |           |           |           |           |           |☑         |           |           |
+Auke        |           |           |           |           |           |           |           |           |           |☑         |           |
+Morane		|           |           |           |           |           |           |           |           |           |           |☑         |
+Lore		|           |           |           |           |           |           |           |           |           |           |           |☑         
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |
 
 <!-- 
@@ -116,19 +125,19 @@ Taken:
 
 Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
-Esmee	    |&#9745;    |           |           |           |           |
-Ella	    |&#9745;    |           |           |           |           |
-Gitte	    |           |&#9745;    |           |           |           |
-Dee Dee	    |           |&#9745;    |           |           |           |
-Féliz	    |           |           |&#9745;    |           |           |
-Margue	    |           |           |&#9745;    |           |           |
-Imke	    |           |           |           |           |           |
-Tille	    |           |           |           |           |           |
-Lize        |           |           |           |           |           |
-Auke        |           |           |           |           |           |
-Morane      |           |           |           |           |           |
-Lore        |           |           |           |           |           |
-Celine	    |           |           |           |           |           |
+Esmee	    |✅         |           |           |           |           |
+Ella	    |✅         |           |           |           |           |
+Gitte	    |           |✅         |           |           |           |
+Dee Dee	    |           |✅         |           |           |           |
+Féliz	    |           |           |☑         |           |           |
+Margue	    |           |           |☑         |           |           |
+Imke	    |           |           |           |☑         |           |
+Tille	    |           |           |           |☑         |           |
+Lize        |           |           |           |           |☑         |
+Auke        |           |           |           |           |☑         |
+Morane      |           |           |           |           |           |☑         
+Lore        |           |           |           |           |           |☑         
+Celine	    |           |           |           |           |           |☑         
 
 <!-- 
 Kato		|           |           |           |           |           | 
@@ -152,17 +161,17 @@ Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht 
 Naam        |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
 Esmee	    |           |           |           |           |           |           |           |           |           |           |
-Ella	    |&#9745;    |           |           |           |           |           |           |           |           |           |
-Gitte	    |           |&#9745;    |           |           |           |           |           |           |           |           | 
-Dee Dee	    |           |           |&#9745;    |           |           |           |           |           |           |           |
-Féliz	    |           |           |           |&#9745;    |           |           |           |           |           |           |
-Margue	    |           |           |           |           |           |           |           |           |           |           |
-Imke	    |           |           |           |           |           |           |           |           |           |           |
-Tille	    |           |           |           |           |           |           |           |           |           |           |
-Lize        |           |           |           |           |           |           |           |           |           |           |
-Auke        |           |           |           |           |           |           |           |           |           |           |
-Morane		|           |           |           |           |           |           |           |           |           |           |
-Lore		|           |           |           |           |           |           |           |           |           |           |
+Ella	    |✅         |           |           |           |           |           |           |           |           |           |
+Gitte	    |           |✅         |           |           |           |           |           |           |           |           | 
+Dee Dee	    |           |           |☑         |           |           |           |           |           |           |           |
+Féliz	    |           |           |           |☑         |           |           |           |           |           |           |
+Margue	    |           |           |           |           |☑         |           |           |           |           |           |
+Imke	    |           |           |           |           |           |☑         |           |           |           |           |
+Tille	    |           |           |           |           |           |           |☑         |           |           |           |
+Lize        |           |           |           |           |           |           |           |☑         |           |           |
+Auke        |           |           |           |           |           |           |           |           |☑         |           |
+Morane		|           |           |           |           |           |           |           |           |           |☑         |
+Lore		|           |           |           |           |           |           |           |           |           |           |☑         
 Celine	    |           |           |           |           |           |           |           |           |           |           |
 
 <!-- 
@@ -181,29 +190,27 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-23 Sep  |12.30-14.00| Esmee &#9745;
-23 Sep  |12.30-14.00| Ella &#9745;
-23 Sep  |12.30-14.00| Margue &#9745;
-
-Datum   | Tijdstip  | Wie (Ouder van)
----     | ---       | ---
-28 Okt  |14.00-18.30| Dee Dee
-28 Okt  |14.00-18.30| Celine &#9745;
+28 Okt  |14.00-18.30| Dee Dee ?
+28 Okt  |14.00-18.30| ☑ Celine      
 28 Okt  |14.00-18.30| Féliz ?
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-18 Nov  |12.30-14.00| Gitte &#9745;
-18 Nov  |12.30-14.00| Imke &#9745;
-18 Nov  |12.30-14.00| Tille &#9745;
+18 Nov  |12.30-14.00| ☑ Gitte
+18 Nov  |12.30-14.00| ☑ Imke
+18 Nov  |12.30-14.00| ☑ Tille
 
 Datum   | Tijdstip  | Wie (Ouder van)
 ---     | ---       | ---
-2 Dec   |12.30-14.00| Lize
-2 Dec   |12.30-14.00| Auke &#9745;
+2 Dec   |12.30-14.00| Lize ?
+2 Dec   |12.30-14.00| ☑ Auke
 2 Dec   |12.30-14.00| Morane ?
 
-
+Datum   | Tijdstip  | Wie (Ouder van)
+---     | ---       | ---
+23 Sep  |12.30-14.00| Esmee ☑     
+23 Sep  |12.30-14.00| Ella ✅     
+23 Sep  |12.30-14.00| Margue ✅     
 
 ## Tegemoetkoming mutualiteit
 
