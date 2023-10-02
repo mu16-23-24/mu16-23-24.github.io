@@ -6,32 +6,31 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **7 oktober** tegen **Herenthout** om ***12.45** (11.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **7 oktober** tegen **Herenthout** om ***12.45** (11.45 ter plaatse)
 
-> Kleedkamer: **Féliz & Margue**
+> Kleedkamer: **Margue & Imke**
 
-> Fruit: **Féliz**
+> Fruit: **Margue**
 
-> Was meenemen: **Féliz** -->
+> Was meenemen: **Margue**
 
 
-> Volgende **uit** wedstrijd is op zondag **1 oktober** tegen **Antwerp Diamonds Fc** om **10.30** (09.30 ter plaatse of 08.45 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op zondag **14 oktober** tegen **S.C. Mechelen** om **13.00** (12.00 ter plaatse of 11.30 vertrekken op Sparta) 
 
-> Fruit: Dee Dee
+> Fruit: Imke
 
-> Was meenemen: Dee Dee
+> Was meenemen: Imke
 
 > Adres:
-'t Half Maantje - Terr 1 <br>
-Floralienlaan 111 <br>
-2020 Antwerpen 2 <br> [map](https://www.google.com/maps/place/Antwerp+Diamonds+FC/@51.1878223,4.4067831,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f7d75f2c964b:0x15f157be9b1ad27d!8m2!3d51.1878224!4d4.411654!16s%2Fg%2F11ssdq9xlq?entry=ttu)
-
+KSC Mechelen - Terr 1 - Synthetisch<br>
+Jubellaan 1 <br>
+2800 Mechelen <br> [map](https://www.google.com/maps/dir/51.1417702,4.4422838/Jubellaan+1,+2800+Mechelen/@51.0710686,4.3786648,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c3e5d60c80cbb7:0xee1e1f4411b2da77!2m2!1d4.4781645!2d51.0113419?entry=ttu)
+ -->
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 01-Okt  |       |☑     |Antwerp Diamonds Fc    | 10.30
-za 07-Okt  |☑     |       |K.F.C Herenthout       | 16.45
+za 07-Okt  |☑     |       |K.F.C Herenthout       | 12.45
 za 14-Okt  |       |☑     |S.C. Mechelen          | 13.00 
 za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
 za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
@@ -49,11 +48,12 @@ Uren zijn onder voorbehoud en kunnen wijzigen
 
 ## Voorbije wedstrijden
 
-Datum   | Thuis | Uit   | Tegenstander        | Uitslag
----     |:---:  |:---:  |---                  |---
-02-Sep  |✅     |       | Red Boys Elzestraat | 2-1
+Datum   | Thuis | Uit    | Tegenstander        | Uitslag
+---     |:---:  |:---:   |---                  |---
+01-Okt  |       |✅     |Antwerp Diamonds Fc    | **0-17**
+23-Sep  |✅     |       |Kon. Olvac           | **3-1**         
 10-Sep  |       |✅     |K.F.C Herent         | 4-1
-23-Sep  |✅     |       |Kon. Olvac           | 3-1         
+02-Sep  |✅    |        | Red Boys Elzestraat | **2-1**
 
 ## Trainingen
 
@@ -98,16 +98,16 @@ Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt 
 Esmee	    |✅         |           |           |           |           |           |           |           |           |           |           |
 Ella	    |           |✅         |           |           |           |           |           |           |           |           |           |
 Gitte	    |           |           |✅         |           |           |           |           |           |           |           |           | 
-Dee Dee	    |           |           |           |☑         |           |           |           |           |           |           |           |
-Féliz	    |           |           |           |           |☑         |           |           |           |           |           |           |
-Margue	    |           |           |           |           |           |☑         |           |           |           |           |           |
-Imke	    |           |           |           |           |           |           |☑         |           |           |           |           |
-Tille	    |           |           |           |           |           |           |           |☑         |           |           |           |
-Lize        |           |           |           |           |           |           |           |           |☑         |           |           |
-Auke        |           |           |           |           |           |           |           |           |           |☑         |           |
-Morane		|           |           |           |           |           |           |           |           |           |           |☑         |
-Lore		|           |           |           |           |           |           |           |           |           |           |           |☑         
-Celine	    |           |           |           |           |           |           |           |           |           |           |           |
+Dee Dee	    |           |           |           |✅         |           |           |           |           |           |           |           |
+Margue	    |           |           |           |           |☑           |         |           |           |           |           |           |
+Imke	    |           |           |           |           |           |☑           |         |           |           |           |           |
+Tille	    |           |           |           |           |           |           |☑           |         |           |           |           |
+Lize        |           |           |           |           |           |           |           |☑           |         |           |           |
+Auke        |           |           |           |           |           |           |           |           |☑           |         |           |
+Morane		|           |           |           |           |           |           |           |           |           |☑           |         |
+Lore		|           |           |           |           |           |           |           |           |           |           |☑           |         
+Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
+Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
 
 <!-- 
 Kato		|           |           |           |           |           |           |           |           |           |           |           | 
@@ -129,15 +129,15 @@ Esmee	    |✅         |           |           |           |           |
 Ella	    |✅         |           |           |           |           |
 Gitte	    |           |✅         |           |           |           |
 Dee Dee	    |           |✅         |           |           |           |
-Féliz	    |           |           |☑         |           |           |
-Margue	    |           |           |☑         |           |           |
-Imke	    |           |           |           |☑         |           |
+Margue	    |           |           |☑          |           |           |
+Imke	    |           |           |☑          |           |           |
 Tille	    |           |           |           |☑         |           |
-Lize        |           |           |           |           |☑         |
+Lize        |           |           |           |☑           |         |
 Auke        |           |           |           |           |☑         |
-Morane      |           |           |           |           |           |☑         
+Morane      |           |           |           |           |☑           |         
 Lore        |           |           |           |           |           |☑         
 Celine	    |           |           |           |           |           |☑         
+Féliz	    |           |           |           |           |           |☑
 
 <!-- 
 Kato		|           |           |           |           |           | 
@@ -163,16 +163,16 @@ Naam        |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt 
 Esmee	    |           |           |           |           |           |           |           |           |           |           |
 Ella	    |✅         |           |           |           |           |           |           |           |           |           |
 Gitte	    |           |✅         |           |           |           |           |           |           |           |           | 
-Dee Dee	    |           |           |☑         |           |           |           |           |           |           |           |
-Féliz	    |           |           |           |☑         |           |           |           |           |           |           |
-Margue	    |           |           |           |           |☑         |           |           |           |           |           |
-Imke	    |           |           |           |           |           |☑         |           |           |           |           |
-Tille	    |           |           |           |           |           |           |☑         |           |           |           |
-Lize        |           |           |           |           |           |           |           |☑         |           |           |
-Auke        |           |           |           |           |           |           |           |           |☑         |           |
-Morane		|           |           |           |           |           |           |           |           |           |☑         |
-Lore		|           |           |           |           |           |           |           |           |           |           |☑         
-Celine	    |           |           |           |           |           |           |           |           |           |           |
+Dee Dee	    |           |           |✅         |           |           |           |           |           |           |           |
+Margue	    |           |           |           |☑           |         |           |           |           |           |           |
+Imke	    |           |           |           |           |☑           |         |           |           |           |           |
+Tille	    |           |           |           |           |           |☑           |         |           |           |           |
+Lize        |           |           |           |           |           |           |☑           |         |           |           |
+Auke        |           |           |           |           |           |           |           |☑           |         |           |
+Morane		|           |           |           |           |           |           |           |           |☑           |         |
+Lore		|           |           |           |           |           |           |           |           |           |☑         |         
+Celine	    |           |           |           |           |           |           |           |           |           |           |☑
+Féliz	    |           |           |           |         |           |           |           |           |           |           |
 
 <!-- 
 Kato		|           |           |           |           |           |           |           |           |           |           | 
@@ -186,27 +186,25 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Gelieve Twizzit ook in de vullen.
 
-> De shift van 23 oktober gaat door: ook al spelen we om 12.45. Ik ben op zoek naar 2 vervangers (Trainer en Délégué)
-
-Datum   | Tijdstip  | Wie (Ouder van)
+Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 28 Okt  |14.00-18.30| Dee Dee ?
 28 Okt  |14.00-18.30| ☑ Celine      
 28 Okt  |14.00-18.30| Féliz ?
 
-Datum   | Tijdstip  | Wie (Ouder van)
+Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 18 Nov  |12.30-14.00| ☑ Gitte
 18 Nov  |12.30-14.00| ☑ Imke
 18 Nov  |12.30-14.00| ☑ Tille
 
-Datum   | Tijdstip  | Wie (Ouder van)
+Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 2 Dec   |12.30-14.00| Lize ?
 2 Dec   |12.30-14.00| ☑ Auke
 2 Dec   |12.30-14.00| Morane ?
 
-Datum   | Tijdstip  | Wie (Ouder van)
+Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 23 Sep  |12.30-14.00| Esmee ☑     
 23 Sep  |12.30-14.00| Ella ✅     
