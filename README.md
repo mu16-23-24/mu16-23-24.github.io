@@ -200,7 +200,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-2 Dec   |12.30-14.00| Lize ?
+2 Dec   |12.30-14.00| ☑ Lize
 2 Dec   |12.30-14.00| ☑ Auke
 2 Dec   |12.30-14.00| Morane ?
 
