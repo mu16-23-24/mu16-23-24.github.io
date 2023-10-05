@@ -151,7 +151,7 @@ Eleonora	|           |           |           |           |           |
 
 Elke speelster krijgt een truitje en broekje en sokken. 
 
-Na elke wedstrijd wordt iemand aangeduid die de vuild was meeneemt. Zie [schema](#was-schema).
+Na elke wedstrijd wordt iemand aangeduid die de vuile was meeneemt. Zie [schema](#was-schema).
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
 
@@ -172,7 +172,7 @@ Auke        |           |           |           |           |           |       
 Morane		|           |           |           |           |           |           |           |           |☑           |         |
 Lore		|           |           |           |           |           |           |           |           |           |☑         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
-Féliz	    |           |           |           |         |           |           |           |           |           |           |
+Féliz	    |           |           |           |           |           |           |           |           |           |           |
 
 <!-- 
 Kato		|           |           |           |           |           |           |           |           |           |           | 
