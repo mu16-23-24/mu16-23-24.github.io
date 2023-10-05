@@ -41,7 +41,7 @@ za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
 
 Uren zijn onder voorbehoud en kunnen wijzigen
 
-<div>&nbsp;</div>   | Status
+Symbool   | Status
 :---:               |---
 ✅                  | Gedaan
 ☑                  | Gepland
@@ -269,3 +269,11 @@ Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of d�
 - Andy
 - Marnix
 - Sujith
+
+
+
+<!--
+Maandag=Twizzitdag
+
+Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de wedstrijd op *zaterdag* 7 oktober tegen K.F.C Herenthout
+-->
