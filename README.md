@@ -6,7 +6,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **7 oktober** tegen **Herenthout** om ***12.45** (11.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **7 oktober** tegen **Herenthout** om **12.45** (11.45 ter plaatse)
 
 > Kleedkamer: **Margue & Imke**
 
