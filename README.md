@@ -188,7 +188,7 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-28 Okt  |14.00-18.30| Dee Dee ?
+28 Okt  |14.00-18.30| ☑ Dee Dee
 28 Okt  |14.00-18.30| ☑ Celine      
 28 Okt  |14.00-18.30| Féliz ?
 
