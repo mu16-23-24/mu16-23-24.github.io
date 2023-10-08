@@ -6,16 +6,16 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **7 oktober** tegen **Herenthout** om **12.45** (11.45 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **Herent** om **12.45** (11.45 ter plaatse)
 
-> Kleedkamer: **Margue & Imke**
+> Kleedkamer: **Tille & Lize**
 
-> Fruit: **Margue**
+> Fruit: **Lize**
 
-> Was meenemen: **Margue**
+> Was meenemen: **Lize** -->
 
 
-<!-- > Volgende **uit** wedstrijd is op zondag **14 oktober** tegen **S.C. Mechelen** om **13.00** (12.00 ter plaatse of 11.30 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zondag **14 oktober** tegen **S.C. Mechelen** om **13.00** (12.00 ter plaatse of 11.30 vertrekken op Sparta) 
 
 > Fruit: Imke
 
@@ -25,12 +25,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 KSC Mechelen - Terr 1 - Synthetisch<br>
 Jubellaan 1 <br>
 2800 Mechelen <br> [map](https://www.google.com/maps/dir/51.1417702,4.4422838/Jubellaan+1,+2800+Mechelen/@51.0710686,4.3786648,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c3e5d60c80cbb7:0xee1e1f4411b2da77!2m2!1d4.4781645!2d51.0113419?entry=ttu)
- -->
+
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 07-Okt  |☑     |       |K.F.C Herenthout       | 12.45
 za 14-Okt  |       |☑     |S.C. Mechelen          | 13.00 
 za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
 za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
@@ -50,6 +49,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+07-Okt  |✅     |       |K.F.C Herenthout       | 3-3
 01-Okt  |       |✅     |Antwerp Diamonds Fc    | **0-17**
 23-Sep  |✅     |       |Kon. Olvac           | **3-1**         
 10-Sep  |       |✅     |K.F.C Herent         | 4-1
@@ -70,7 +70,7 @@ Donderdag   | [Tildonk](https://www.google.com/maps/place/FC+Tildonk/@50.9407269
 
 Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
 
-## Wedstrijd info
+## Wedstrijd Info
 
 <!-- ![wedstrijden](/assets/wedstrijden.jpg) -->
 
@@ -99,7 +99,7 @@ Esmee	    |✅         |           |           |           |           |        
 Ella	    |           |✅         |           |           |           |           |           |           |           |           |           |
 Gitte	    |           |           |✅         |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |           |✅         |           |           |           |           |           |           |           |
-Margue	    |           |           |           |           |☑           |         |           |           |           |           |           |
+Margue	    |           |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |           |☑           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |           |☑           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |☑           |         |           |           |
@@ -129,8 +129,8 @@ Esmee	    |✅         |           |           |           |           |
 Ella	    |✅         |           |           |           |           |
 Gitte	    |           |✅         |           |           |           |
 Dee Dee	    |           |✅         |           |           |           |
-Margue	    |           |           |☑          |           |           |
-Imke	    |           |           |☑          |           |           |
+Margue	    |           |           |✅          |           |           |
+Imke	    |           |           |✅          |           |           |
 Tille	    |           |           |           |☑         |           |
 Lize        |           |           |           |☑           |         |
 Auke        |           |           |           |           |☑         |
@@ -164,7 +164,7 @@ Esmee	    |           |           |           |           |           |         
 Ella	    |✅         |           |           |           |           |           |           |           |           |           |
 Gitte	    |           |✅         |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |✅         |           |           |           |           |           |           |           |
-Margue	    |           |           |           |☑           |         |           |           |           |           |           |
+Margue	    |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |☑           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |☑           |         |           |           |           |
 Lize        |           |           |           |           |           |           |☑           |         |           |           |
