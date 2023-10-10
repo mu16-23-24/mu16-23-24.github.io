@@ -59,10 +59,11 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 <!-- ![trainingen](/assets/trainingen.jpg) -->
 
+> Vanaf 12 oktober wordt er altijd getraind op Den Dijk, dus **NIET** meer op Tildonk.
+
 Dag         | Waar      | Tijdstip
 ---         |---        |---
-Dinsdag     | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
-Donderdag   | [Tildonk](https://www.google.com/maps/place/FC+Tildonk/@50.9407269,4.6447554,15z/data=!4m6!3m5!1s0x47c15feb331fafdf:0xf67fc6b22402ec1d!8m2!3d50.9407269!4d4.6447554!16s%2Fg%2F11bzx3dby5?entry=ttu)   | 18.30-20.00
+Dinsdag <br> Donderdag   | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
 
 ## Twizzit
 
@@ -80,8 +81,16 @@ De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn b
 
 Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor. Zie [schema](#fruit-schema).
 
+> Tijdens de wedstrijd en pauzes blijven we als spelersgroep bij elkaar.
+
+
 Bij elke thuiswedstijd worden 2 spelers aangeduid om te kleedkamer op te ruimen. Zie [schema](#kleedkamer-schema).
 De spelers krijgen bij thuiswedstrijden een drankbonnetje (+hotdog) aangeboden.
+
+> Voor het betreden van de kunstgrasvelden, moeten de schoenen proper zijn.
+
+> Na het omkleden zetten we onze sportzakken buiten in het rek.
+
 
 Gelieve de Sparta uitrusting te dragen.
 
