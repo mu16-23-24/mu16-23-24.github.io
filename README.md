@@ -197,9 +197,12 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-28 Okt  |14.00-18.30| ☑ Dee Dee
-28 Okt  |14.00-18.30| ☑ Celine      
-28 Okt  |14.00-18.30| Féliz ?
+28 Okt  |14.00-16.00| ☑ Dee Dee
+28 Okt  |14.00-16.00| ☑ Celine      
+28 Okt  |14.00-16.00| Féliz ?
+28 Okt  |16.00-18.30| ☑ Esmee
+28 Okt  |16.00-18.30| ?
+28 Okt  |16.00-18.30| ?
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -215,7 +218,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-23 Sep  |12.30-14.00| Esmee ☑     
+23 Sep  |12.30-14.00| ~~Esmee ☑~~
 23 Sep  |12.30-14.00| Ella ✅     
 23 Sep  |12.30-14.00| Margue ✅     
 
