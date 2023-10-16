@@ -68,7 +68,7 @@ Elzestraat	|	5	|	2	|	2	|	2	|	21	|	12	|	9	|	8
 Mechelen	|	6	|	1	|	5	|	5	|	11	|	42	|	-31	|	3
 Antwerp	|	5	|	0	|	5	|	5	|	7	|	49	|	-42	|	1
 
-## Evolutie
+### Evolutie
 
 ![sparta](/assets/ranking.png)
 
@@ -216,7 +216,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 28 Okt  |14.00-16.00| ☑ Dee Dee
 28 Okt  |14.00-16.00| ☑ Celine      
-28 Okt  |14.00-16.00| Féliz ?
+28 Okt  |14.00-16.00| ☑ Féliz
 28 Okt  |16.00-18.30| ☑ Esmee
 28 Okt  |16.00-18.30| ?
 28 Okt  |16.00-18.30| ?
