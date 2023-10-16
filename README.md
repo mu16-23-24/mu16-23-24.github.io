@@ -15,22 +15,22 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Was meenemen: **Lize** -->
 
 
-> Volgende **uit** wedstrijd is op zondag **14 oktober** tegen **S.C. Mechelen** om **13.00** (12.00 ter plaatse of 11.30 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zondag **21 oktober** tegen **Red Boys Elzestraat** om **15.00** (14.00 ter plaatse of 13.15 vertrekken op Sparta) 
 
-> Fruit: Imke
+> Fruit: Tille
 
-> Was meenemen: Imke
+> Was meenemen: Tille
 
 > Adres:
-KSC Mechelen - Terr 1 - Synthetisch<br>
-Jubellaan 1 <br>
-2800 Mechelen <br> [map](https://www.google.com/maps/dir/51.1417702,4.4422838/Jubellaan+1,+2800+Mechelen/@51.0710686,4.3786648,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c3e5d60c80cbb7:0xee1e1f4411b2da77!2m2!1d4.4781645!2d51.0113419?entry=ttu)
+Red Boys Elzestraat - Terr 2<br>
+Hogevelden 70,  <br>
+2860 Sint-Katelijne-Waver <br>
+[map](https://www.google.com/maps/place/Rb+Elzestraat/@51.0611563,4.4698781,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3e50dda940ce1:0x722e310d14afda83!8m2!3d51.0611563!4d4.472453!16s%2Fg%2F11bzx124by?entry=ttu)
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 14-Okt  |       |☑     |S.C. Mechelen          | 13.00 
 za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
 za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
 vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
@@ -49,11 +49,49 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+14-Okt  |       |✅     |S.C. Mechelen          | **0-8**
 07-Okt  |✅     |       |K.F.C Herenthout       | 3-3
 01-Okt  |       |✅     |Antwerp Diamonds Fc    | **0-17**
 23-Sep  |✅     |       |Kon. Olvac           | **3-1**         
 10-Sep  |       |✅     |K.F.C Herent         | 4-1
 02-Sep  |✅    |        | Red Boys Elzestraat | **2-1**
+
+## Rangschikking
+
+Ploegen	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
+---	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:
+**Sparta**	|	6	|	4	|	1	|	1	|	34	|	9	|	25	|	13
+Herenthout	|	6	|	4	|	1	|	1	|	31	|	9	|	22	|	13
+Olvac	|	6	|	4	|	1	|	1	|	22	|	16	|	6	|	13
+Herent	|	6	|	3	|	3	|	3	|	24	|	13	|	11	|	9
+Elzestraat	|	5	|	2	|	2	|	2	|	21	|	12	|	9	|	8
+Mechelen	|	6	|	1	|	5	|	5	|	11	|	42	|	-31	|	3
+Antwerp	|	5	|	0	|	5	|	5	|	7	|	49	|	-42	|	1
+
+## Evolutie
+
+```mermaid
+%% Bar Chart
+  data: 
+  [
+    ["Ploeg", "Wedstrijd 1", "Wedstrijd 2", "Wedstrijd 3", "Wedstrijd 4", "Wedstrijd 5", "Wedstrijd 6", "Wedstrijd 7"],
+    ["Sparta", 5, 3, 4, 5, 6, 6, 7],
+    ["Herenthout", 7, 6, 6, 7, 7, 7, 6],
+    ["Olvac", 6, 7, 7, 6, 5, 5, 5],
+    ["Herent", 4, 5, 5, 4, 4, 4, 4],
+    ["Elzestraat", 3, 2, 2, 2, 3, 3, 3],
+    ["Mechelen", 2, 4, 3, 3, 2, 2, 2],
+    ["Antwerp", 1, 1, 1, 1, 1, 1, 1]
+  ]
+  type: bar
+  width: 800
+  height: 400
+  title: Team Rankings in Each Match
+  xTitle: Matches
+  yTitle: Rankings
+
+```
+
 
 ## Trainingen
 
@@ -109,7 +147,7 @@ Ella	    |           |✅         |           |           |           |         
 Gitte	    |           |           |✅         |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |           |✅         |           |           |           |           |           |           |           |
 Margue	    |           |           |           |           |✅           |         |           |           |           |           |           |
-Imke	    |           |           |           |           |           |☑           |         |           |           |           |           |
+Imke	    |           |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |           |☑           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |☑           |         |           |           |
 Auke        |           |           |           |           |           |           |           |           |☑           |         |           |
@@ -174,7 +212,7 @@ Ella	    |✅         |           |           |           |           |         
 Gitte	    |           |✅         |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |✅         |           |           |           |           |           |           |           |
 Margue	    |           |           |           |✅           |         |           |           |           |           |           |
-Imke	    |           |           |           |           |☑           |         |           |           |           |           |
+Imke	    |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |☑           |         |           |           |           |
 Lize        |           |           |           |           |           |           |☑           |         |           |           |
 Auke        |           |           |           |           |           |           |           |☑           |         |           |
