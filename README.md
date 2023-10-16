@@ -70,28 +70,7 @@ Antwerp	|	5	|	0	|	5	|	5	|	7	|	49	|	-42	|	1
 
 ## Evolutie
 
-```mermaid
-%% Bar Chart
-  data: 
-  [
-    ["Ploeg", "Wedstrijd 1", "Wedstrijd 2", "Wedstrijd 3", "Wedstrijd 4", "Wedstrijd 5", "Wedstrijd 6", "Wedstrijd 7"],
-    ["Sparta", 5, 3, 4, 5, 6, 6, 7],
-    ["Herenthout", 7, 6, 6, 7, 7, 7, 6],
-    ["Olvac", 6, 7, 7, 6, 5, 5, 5],
-    ["Herent", 4, 5, 5, 4, 4, 4, 4],
-    ["Elzestraat", 3, 2, 2, 2, 3, 3, 3],
-    ["Mechelen", 2, 4, 3, 3, 2, 2, 2],
-    ["Antwerp", 1, 1, 1, 1, 1, 1, 1]
-  ]
-  type: bar
-  width: 800
-  height: 400
-  title: Team Rankings in Each Match
-  xTitle: Matches
-  yTitle: Rankings
-
-```
-
+![sparta](/assets/ranking.png)
 
 ## Trainingen
 
