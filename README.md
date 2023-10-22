@@ -6,16 +6,16 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **Herent** om **12.45** (11.45 ter plaatse)
+> volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **herent** om **12.45** (11.45 ter plaatse)
 
-> Kleedkamer: **Tille & Lize**
+> kleedkamer: **tille & lize**
 
-> Fruit: **Lize**
+> fruit: **lize**
 
-> Was meenemen: **Lize** -->
+> was meenemen: **lize**
 
 
-> Volgende **uit** wedstrijd is op zondag **21 oktober** tegen **Red Boys Elzestraat** om **15.00** (14.00 ter plaatse of 13.15 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op zondag **21 oktober** tegen **Red Boys Elzestraat** om **15.00** (14.00 ter plaatse of 13.15 vertrekken op Sparta) 
 
 > Fruit: Tille
 
@@ -25,13 +25,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Red Boys Elzestraat - Terr 2<br>
 Hogevelden 70,  <br>
 2860 Sint-Katelijne-Waver <br>
-[map](https://www.google.com/maps/place/Rb+Elzestraat/@51.0611563,4.4698781,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3e50dda940ce1:0x722e310d14afda83!8m2!3d51.0611563!4d4.472453!16s%2Fg%2F11bzx124by?entry=ttu)
+[map](https://www.google.com/maps/place/Rb+Elzestraat/@51.0611563,4.4698781,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3e50dda940ce1:0x722e310d14afda83!8m2!3d51.0611563!4d4.472453!16s%2Fg%2F11bzx124by?entry=ttu) -->
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 21-Okt  |       |☑     |Red Boys Elzestraat    | 15.00
 za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
 vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
 za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
@@ -49,6 +48,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+21-Okt  |       |✅     |Red Boys Elzestraat    | 0-6
 14-Okt  |       |✅     |S.C. Mechelen          | **0-8**
 07-Okt  |✅     |       |K.F.C Herenthout       | 3-3
 01-Okt  |       |✅     |Antwerp Diamonds Fc    | **0-17**
@@ -58,15 +58,16 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 ## Rangschikking
 
-Ploegen	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
----	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:	|	---:
-**Sparta**	|	6	|	4	|	1	|	1	|	34	|	9	|	25	|	13
-Herenthout	|	6	|	4	|	1	|	1	|	31	|	9	|	22	|	13
-Olvac	|	6	|	4	|	1	|	1	|	22	|	16	|	6	|	13
+Team	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
+---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
+Herenthout	|	7	|	5	|	1	|	1	|	35	|	11	|	24	|	16
+Olvac	|	7	|	5	|	1	|	1	|	29	|	16	|	13	|	16
+Elzestraat	|	7	|	4	|	2	|	2	|	38	|	13	|	25	|	13
+Sparta	|	7	|	4	|	2	|	2	|	34	|	15	|	19	|	13
 Herent	|	6	|	3	|	3	|	3	|	24	|	13	|	11	|	9
-Elzestraat	|	5	|	2	|	2	|	2	|	21	|	12	|	9	|	8
-Mechelen	|	6	|	1	|	5	|	5	|	11	|	42	|	-31	|	3
-Antwerp	|	5	|	0	|	5	|	5	|	7	|	49	|	-42	|	1
+Mechelen	|	7	|	1	|	6	|	6	|	11	|	49	|	-38	|	3
+Antwerp	|	7	|	0	|	7	|	7	|	10	|	64	|	-54	|	0
+
 
 ### Evolutie
 
@@ -127,7 +128,7 @@ Gitte	    |           |           |✅         |           |           |        
 Dee Dee	    |           |           |           |✅         |           |           |           |           |           |           |           |
 Margue	    |           |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |           |✅           |         |           |           |           |           |
-Tille	    |           |           |           |           |           |           |☑           |         |           |           |           |
+Tille	    |           |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |☑           |         |           |           |
 Auke        |           |           |           |           |           |           |           |           |☑           |         |           |
 Morane		|           |           |           |           |           |           |           |           |           |☑           |         |
@@ -192,7 +193,7 @@ Gitte	    |           |✅         |           |           |           |        
 Dee Dee	    |           |           |✅         |           |           |           |           |           |           |           |
 Margue	    |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |✅           |         |           |           |           |           |
-Tille	    |           |           |           |           |           |☑           |         |           |           |           |
+Tille	    |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |☑           |         |           |           |
 Auke        |           |           |           |           |           |           |           |☑           |         |           |
 Morane		|           |           |           |           |           |           |           |           |☑           |         |
