@@ -6,13 +6,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **herent** om **12.45** (11.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **Herent** om **12.45** (11.45 ter plaatse)
 
-> kleedkamer: **tille & lize**
+> kleedkamer: **Tille & Lize**
 
-> fruit: **lize**
+> fruit: **Lize**
 
-> was meenemen: **lize**
+> was meenemen: **Lize**
 
 
 <!-- > Volgende **uit** wedstrijd is op zondag **21 oktober** tegen **Red Boys Elzestraat** om **15.00** (14.00 ter plaatse of 13.15 vertrekken op Sparta) 
@@ -62,11 +62,12 @@ Team	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
 Herenthout	|	7	|	5	|	1	|	1	|	35	|	11	|	24	|	16
 Olvac	|	7	|	5	|	1	|	1	|	29	|	16	|	13	|	16
-Elzestraat	|	7	|	4	|	2	|	2	|	38	|	13	|	25	|	13
-Sparta	|	7	|	4	|	2	|	2	|	34	|	15	|	19	|	13
-Herent	|	6	|	3	|	3	|	3	|	24	|	13	|	11	|	9
-Mechelen	|	7	|	1	|	6	|	6	|	11	|	49	|	-38	|	3
-Antwerp	|	7	|	0	|	7	|	7	|	10	|	64	|	-54	|	0
+Elzestraat	|	7	|	4	|	2	|	1	|	38	|	13	|	25	|	13
+Sparta	|	7	|	4	|	2	|	1	|	34	|	15	|	19	|	13
+Herent	|	6	|	3	|	3	|	0	|	24	|	13	|	11	|	9
+Mechelen	|	7	|	1	|	6	|	0	|	11	|	49	|	-38	|	3
+Antwerp	|	7	|	0	|	7	|	0	|	10	|	64	|	-54	|	0
+
 
 
 ### Evolutie
