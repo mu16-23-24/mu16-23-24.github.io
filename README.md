@@ -6,32 +6,31 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **28 oktober** tegen **Herent** om **12.45** (11.45 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zaterdag **18 november** tegen **Antwerp** om **16.45** (15.45 ter plaatse)
 
-> kleedkamer: **Tille & Lize**
+> Kleedkamer: **Auke & Morane**
 
-> fruit: **Lize**
+> Fruit: **Morane**
 
-> was meenemen: **Lize**
+> Was meenemen: **Morane** -->
 
 
-<!-- > Volgende **uit** wedstrijd is op zondag **21 oktober** tegen **Red Boys Elzestraat** om **15.00** (14.00 ter plaatse of 13.15 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op vrijdag **10 november** tegen **Olvac** om **20.00** (19.00 ter plaatse of 18.15 vertrekken op Sparta) 
 
-> Fruit: Tille
+> Fruit: Auke
 
-> Was meenemen: Tille
+> Was meenemen: Auke
 
 > Adres:
-Red Boys Elzestraat - Terr 2<br>
-Hogevelden 70,  <br>
-2860 Sint-Katelijne-Waver <br>
-[map](https://www.google.com/maps/place/Rb+Elzestraat/@51.0611563,4.4698781,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3e50dda940ce1:0x722e310d14afda83!8m2!3d51.0611563!4d4.472453!16s%2Fg%2F11bzx124by?entry=ttu) -->
+Koninklijke Olvac - terr 3 - Synthetisch<br>
+Doornstraat 65  <br>
+2650 Edegem <br>
+[map](https://www.google.com/maps/place/Olvac/@51.1546426,4.4002967,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f11ebbc87173:0x1bddf5a6cd14d8aa!8m2!3d51.1546426!4d4.4002967!16s%2Fg%2F11c1nth9jj?entry=ttu)
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 28-Okt  |☑     |       |K.F.C Herent           | 12.45
 vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
 za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
 za 25-Nov  |       |☑     |K.F.C Herenthout       | 11.15
@@ -48,6 +47,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+28-Okt  |✅     |       |K.F.C Herent           | 1-1
 21-Okt  |       |✅     |Red Boys Elzestraat    | 0-6
 14-Okt  |       |✅     |S.C. Mechelen          | **0-8**
 07-Okt  |✅     |       |K.F.C Herenthout       | 3-3
@@ -60,13 +60,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
+Olvac	|	8	|	6	|	1	|	1	|	32	|	18	|	14	|	19
 Herenthout	|	7	|	5	|	1	|	1	|	35	|	11	|	24	|	16
-Olvac	|	7	|	5	|	1	|	1	|	29	|	16	|	13	|	16
-Elzestraat	|	7	|	4	|	2	|	1	|	38	|	13	|	25	|	13
-Sparta	|	7	|	4	|	2	|	1	|	34	|	15	|	19	|	13
-Herent	|	6	|	3	|	3	|	0	|	24	|	13	|	11	|	9
-Mechelen	|	7	|	1	|	6	|	0	|	11	|	49	|	-38	|	3
-Antwerp	|	7	|	0	|	7	|	0	|	10	|	64	|	-54	|	0
+Sparta	|	8	|	4	|	2	|	2	|	35	|	16	|	19	|	14
+Elzestraat	|	8	|	4	|	3	|	1	|	40	|	16	|	24	|	13
+Herent	|	7	|	3	|	3	|	1	|	25	|	14	|	11	|	10
+Mechelen	|	8	|	2	|	6	|	0	|	20	|	49	|	-29	|	6
+Antwerp	|	8	|	0	|	8	|	0	|	10	|	73	|	-63	|	0
+
 
 
 
@@ -130,7 +131,7 @@ Dee Dee	    |           |           |           |✅         |           |      
 Margue	    |           |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |           |✅           |         |           |           |           |
-Lize        |           |           |           |           |           |           |           |☑           |         |           |           |
+Lize        |           |           |           |           |           |           |           |✅           |         |           |           |
 Auke        |           |           |           |           |           |           |           |           |☑           |         |           |
 Morane		|           |           |           |           |           |           |           |           |           |☑           |         |
 Lore		|           |           |           |           |           |           |           |           |           |           |☑           |         
@@ -159,8 +160,8 @@ Gitte	    |           |✅         |           |           |           |
 Dee Dee	    |           |✅         |           |           |           |
 Margue	    |           |           |✅          |           |           |
 Imke	    |           |           |✅          |           |           |
-Tille	    |           |           |           |☑         |           |
-Lize        |           |           |           |☑           |         |
+Tille	    |           |           |           |✅         |           |
+Lize        |           |           |           |✅           |         |
 Auke        |           |           |           |           |☑         |
 Morane      |           |           |           |           |☑           |         
 Lore        |           |           |           |           |           |☑         
@@ -195,7 +196,7 @@ Dee Dee	    |           |           |✅         |           |           |      
 Margue	    |           |           |           |✅           |         |           |           |           |           |           |
 Imke	    |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |✅           |         |           |           |           |
-Lize        |           |           |           |           |           |           |☑           |         |           |           |
+Lize        |           |           |           |           |           |           |✅           |         |           |           |
 Auke        |           |           |           |           |           |           |           |☑           |         |           |
 Morane		|           |           |           |           |           |           |           |           |☑           |         |
 Lore		|           |           |           |           |           |           |           |           |           |☑         |         
@@ -216,15 +217,6 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-28 Okt  |14.00-16.00| ☑ Dee Dee
-28 Okt  |14.00-16.00| ☑ Celine      
-28 Okt  |14.00-16.00| ☑ Féliz
-28 Okt  |16.00-18.30| ☑ Esmee
-28 Okt  |16.00-18.30| ?
-28 Okt  |16.00-18.30| ?
-
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
 18 Nov  |12.30-14.00| ☑ Gitte
 18 Nov  |12.30-14.00| ☑ Imke
 18 Nov  |12.30-14.00| ☑ Tille
@@ -240,6 +232,16 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 23 Sep  |12.30-14.00| ~~Esmee ☑~~
 23 Sep  |12.30-14.00| Ella ✅     
 23 Sep  |12.30-14.00| Margue ✅     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+28 Okt  |14.00-16.00| ✅ Dee Dee
+28 Okt  |14.00-16.00| ✅ Celine      
+28 Okt  |14.00-16.00| ✅ Féliz
+28 Okt  |16.00-18.30| ✅ Esmee
+28 Okt  |16.00-18.30| ?
+28 Okt  |16.00-18.30| ?
+
 
 ## Tegemoetkoming mutualiteit
 
