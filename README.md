@@ -17,9 +17,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Volgende **uit** wedstrijd is op vrijdag **10 november** tegen **Olvac** om **20.00** (19.00 ter plaatse of 18.15 vertrekken op Sparta) 
 
-> Fruit: Auke
+> Fruit: Morane
 
-> Was meenemen: Auke
+> Was meenemen: Morane
 
 > Adres:
 Koninklijke Olvac - terr 3 - Synthetisch<br>
