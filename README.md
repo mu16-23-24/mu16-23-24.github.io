@@ -6,16 +6,16 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **18 november** tegen **Antwerp** om **16.45** (15.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **18 november** tegen **Antwerp** om **16.45** (15.45 ter plaatse)
 
 > Kleedkamer: **Auke & Morane**
 
-> Fruit: **Morane**
+> Fruit: **Auke**
 
-> Was meenemen: **Morane** -->
+> Was meenemen: **Auke**
 
 
-> Volgende **uit** wedstrijd is op vrijdag **10 november** tegen **Olvac** om **20.00** (19.00 ter plaatse of 18.15 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op vrijdag **10 november** tegen **Olvac** om **20.00** (19.00 ter plaatse of 18.15 vertrekken op Sparta) 
 
 > Fruit: Morane
 
@@ -25,13 +25,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Koninklijke Olvac - terr 3 - Synthetisch<br>
 Doornstraat 65  <br>
 2650 Edegem <br>
-[map](https://www.google.com/maps/place/Olvac/@51.1546426,4.4002967,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f11ebbc87173:0x1bddf5a6cd14d8aa!8m2!3d51.1546426!4d4.4002967!16s%2Fg%2F11c1nth9jj?entry=ttu)
+[map](https://www.google.com/maps/place/Olvac/@51.1546426,4.4002967,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f11ebbc87173:0x1bddf5a6cd14d8aa!8m2!3d51.1546426!4d4.4002967!16s%2Fg%2F11c1nth9jj?entry=ttu) -->
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-vr 10-Nov  |       |☑     |Kon. Olvac             | 20.00
 za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
 za 25-Nov  |       |☑     |K.F.C Herenthout       | 11.15
 za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
@@ -47,6 +46,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+10-Nov  |       |✅     |Kon. Olvac             | **0-2**
 28-Okt  |✅     |       |K.F.C Herent           | 1-1
 21-Okt  |       |✅     |Red Boys Elzestraat    | 0-6
 14-Okt  |       |✅     |S.C. Mechelen          | **0-8**
@@ -60,13 +60,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Olvac	|	8	|	6	|	1	|	1	|	32	|	18	|	14	|	19
+Olvac	|	9	|	6	|	2	|	1	|	32	|	20	|	12	|	19
+Sparta	|	9	|	5	|	2	|	2	|	37	|	16	|	21	|	17
 Herenthout	|	7	|	5	|	1	|	1	|	35	|	11	|	24	|	16
-Sparta	|	8	|	4	|	2	|	2	|	35	|	16	|	19	|	14
 Elzestraat	|	8	|	4	|	3	|	1	|	40	|	16	|	24	|	13
 Herent	|	7	|	3	|	3	|	1	|	25	|	14	|	11	|	10
 Mechelen	|	8	|	2	|	6	|	0	|	20	|	49	|	-29	|	6
 Antwerp	|	8	|	0	|	8	|	0	|	10	|	73	|	-63	|	0
+
 
 
 
@@ -132,8 +133,8 @@ Margue	    |           |           |           |           |✅           |     
 Imke	    |           |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |✅           |         |           |           |
-Auke        |           |           |           |           |           |           |           |           |☑           |         |           |
-Morane		|           |           |           |           |           |           |           |           |           |☑           |         |
+Auke        |           |           |           |           |           |           |           |           |           |☑         |           |
+Morane		|           |           |           |           |           |           |           |           |✅           |           |         |
 Lore		|           |           |           |           |           |           |           |           |           |           |☑           |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
 Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
@@ -197,8 +198,8 @@ Margue	    |           |           |           |✅           |         |       
 Imke	    |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |✅           |         |           |           |
-Auke        |           |           |           |           |           |           |           |☑           |         |           |
-Morane		|           |           |           |           |           |           |           |           |☑           |         |
+Auke        |           |           |           |           |           |           |           |           |☑         |           |
+Morane		|           |           |           |           |           |           |           |✅           |           |         |
 Lore		|           |           |           |           |           |           |           |           |           |☑         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
 Féliz	    |           |           |           |           |           |           |           |           |           |           |
