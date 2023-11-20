@@ -6,32 +6,31 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **18 november** tegen **Antwerp** om **16.45** (15.45 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
 
-> Kleedkamer: **Auke & Morane**
+> Kleedkamer: **Lore & Celine & Feliz**
 
 > Fruit: **Auke**
 
-> Was meenemen: **Auke**
+> Was meenemen: **Auke** -->
 
 
-<!-- > Volgende **uit** wedstrijd is op vrijdag **10 november** tegen **Olvac** om **20.00** (19.00 ter plaatse of 18.15 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
 
-> Fruit: Morane
+> Fruit: Lore
 
-> Was meenemen: Morane
+> Was meenemen: Lore
 
 > Adres:
-Koninklijke Olvac - terr 3 - Synthetisch<br>
-Doornstraat 65  <br>
-2650 Edegem <br>
-[map](https://www.google.com/maps/place/Olvac/@51.1546426,4.4002967,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3f11ebbc87173:0x1bddf5a6cd14d8aa!8m2!3d51.1546426!4d4.4002967!16s%2Fg%2F11c1nth9jj?entry=ttu) -->
+K.F.C. Herenthout<br>
+Bergensesteenweg 63  <br>
+2270 Herenthout <br>
+[map](https://www.google.be/maps/place/K.F.C.+Herenthout/@51.1506529,4.7652413,17z/data=!3m1!4b1!4m6!3m5!1s0x47c15135033e2181:0x4f7b365a7e464a13!8m2!3d51.1506529!4d4.7652413!16s%2Fg%2F11bzx579nx?entry=ttu)
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 18-Nov  |☑     |       |Antwerp Diamonds Fc    | 16.45
 za 25-Nov  |       |☑     |K.F.C Herenthout       | 11.15
 za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
 
@@ -46,6 +45,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+18-Nov  |✅     |       |Antwerp Diamonds Fc    | **7-0**
 10-Nov  |       |✅     |Kon. Olvac             | **0-2**
 28-Okt  |✅     |       |K.F.C Herent           | 1-1
 21-Okt  |       |✅     |Red Boys Elzestraat    | 0-6
@@ -58,15 +58,16 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 ## Rangschikking
 
-Team	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-	|	PTS
+Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Herenthout	|	9	|	7	|	1	|	1	|	43	|	12	|	31	|	22
-Olvac	|	10	|	6	|	3	|	1	|	35	|	25	|	10	|	19
-Sparta	|	9	|	5	|	2	|	2	|	37	|	16	|	21	|	17
-Elzestraat	|	10	|	5	|	4	|	1	|	45	|	20	|	25	|	16
-Herent	|	9	|	5	|	3	|	1	|	41	|	17	|	24	|	16
-Mechelen	|	9	|	2	|	7	|	0	|	20	|	53	|	-33	|	6
-Antwerp	|	10	|	0	|	10	|	0	|	10	|	88	|	-78	|	0
+Herenthout	|	22	|	10	|	7	|	2	|	1	|	43	|	15	|	28
+Sparta	|	20	|	10	|	6	|	2	|	2	|	44	|	16	|	28
+Elzestraat	|	19	|	11	|	6	|	4	|	1	|	52	|	20	|	32
+Herent	|	19	|	10	|	6	|	3	|	1	|	44	|	17	|	27
+Olvac	|	19	|	10	|	6	|	3	|	1	|	35	|	25	|	10
+Mechelen	|	6	|	10	|	2	|	8	|	0	|	20	|	60	|	-40
+Antwerp	|	0	|	11	|	0	|	11	|	0	|	10	|	95	|	-85
+
 
 ### Evolutie
 
@@ -129,17 +130,11 @@ Margue	    |           |           |           |           |✅           |     
 Imke	    |           |           |           |           |           |✅           |         |           |           |           |           |
 Tille	    |           |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |✅           |         |           |           |
-Auke        |           |           |           |           |           |           |           |           |           |☑         |           |
 Morane		|           |           |           |           |           |           |           |           |✅           |           |         |
+Auke        |           |           |           |           |           |           |           |           |           |✅         |           |
 Lore		|           |           |           |           |           |           |           |           |           |           |☑           |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
 Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
-
-<!-- 
-Kato		|           |           |           |           |           |           |           |           |           |           |           | 
-Laute	    |           |           |           |           |           |           |           |           |           |           |           |
-Eleonora	|           |           |           |           |           |           |           |           |           |           |           |
--->
 
 ### Kleedkamer Schema
 
@@ -159,8 +154,8 @@ Margue	    |           |           |✅          |           |           |
 Imke	    |           |           |✅          |           |           |
 Tille	    |           |           |           |✅         |           |
 Lize        |           |           |           |✅           |         |
-Auke        |           |           |           |           |☑         |
-Morane      |           |           |           |           |☑           |         
+Auke        |           |           |           |           |✅         |
+Morane      |           |           |           |           |✅         |         
 Lore        |           |           |           |           |           |☑         
 Celine	    |           |           |           |           |           |☑         
 Féliz	    |           |           |           |           |           |☑
@@ -214,12 +209,6 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-18 Nov  |12.30-14.00| ☑ Gitte
-18 Nov  |12.30-14.00| ☑ Imke
-18 Nov  |12.30-14.00| ☑ Tille
-
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
 2 Dec   |12.30-14.00| ☑ Lize
 2 Dec   |12.30-14.00| ☑ Auke
 2 Dec   |12.30-14.00| Morane ?
@@ -238,6 +227,12 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 28 Okt  |16.00-18.30| ✅ Esmee
 28 Okt  |16.00-18.30| ?
 28 Okt  |16.00-18.30| ?
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+18 Nov  |12.30-14.00| ✅ Gitte
+18 Nov  |12.30-14.00| ✅ Imke
+18 Nov  |12.30-14.00| ✅ Tille
 
 
 ## Tegemoetkoming mutualiteit
@@ -299,11 +294,3 @@ Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of d�
 - Andy
 - Marnix
 - Sujith
-
-
-
-<!--
-Maandag=Twizzitdag
-
-Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de wedstrijd op *zaterdag* 7 oktober tegen K.F.C Herenthout
--->
