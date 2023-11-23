@@ -17,9 +17,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
 
-> Fruit: Lore
+> Fruit: Féliz
 
-> Was meenemen: Lore
+> Was meenemen: Féliz
 
 > Adres:
 K.F.C. Herenthout<br>
@@ -132,9 +132,9 @@ Tille	    |           |           |           |           |           |         
 Lize        |           |           |           |           |           |           |           |✅           |         |           |           |
 Morane		|           |           |           |           |           |           |           |           |✅           |           |         |
 Auke        |           |           |           |           |           |           |           |           |           |✅         |           |
-Lore		|           |           |           |           |           |           |           |           |           |           |☑           |         
+Féliz		|           |           |           |           |           |           |           |           |           |           |☑           |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
-Féliz	    |           |           |           |           |           |           |           |           |           |           |           |
+Lore	    |           |           |           |           |           |           |           |           |           |           |           |
 
 ### Kleedkamer Schema
 
@@ -156,15 +156,9 @@ Tille	    |           |           |           |✅         |           |
 Lize        |           |           |           |✅           |         |
 Auke        |           |           |           |           |✅         |
 Morane      |           |           |           |           |✅         |         
+Féliz	    |           |           |           |           |           |☑
 Lore        |           |           |           |           |           |☑         
 Celine	    |           |           |           |           |           |☑         
-Féliz	    |           |           |           |           |           |☑
-
-<!-- 
-Kato		|           |           |           |           |           | 
-Laute	    |           |           |           |           |           |
-Eleonora	|           |           |           |           |           |
- -->
 
 ## Outfit
 
@@ -191,15 +185,9 @@ Tille	    |           |           |           |           |           |✅      
 Lize        |           |           |           |           |           |           |✅           |         |           |           |
 Morane		|           |           |           |           |           |           |           |✅           |           |         |
 Auke        |           |           |           |           |           |           |           |           |✅         |           |
-Lore		|           |           |           |           |           |           |           |           |           |☑         |         
+Féliz		|           |           |           |           |           |           |           |           |           |☑         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
-Féliz	    |           |           |           |           |           |           |           |           |           |           |
-
-<!-- 
-Kato		|           |           |           |           |           |           |           |           |           |           | 
-Laute	    |           |           |           |           |           |           |           |           |           |           |
-Eleonora	|           |           |           |           |           |           |           |           |           |           |
--->
+Lore	    |           |           |           |           |           |           |           |           |           |           |
 
 ## Toogshiften
 
