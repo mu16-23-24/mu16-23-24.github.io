@@ -6,13 +6,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **s.c. mechelen** om **12.45** (11.45 ter plaatse)
+> Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
 
-> kleedkamer: **lore & celine & feliz**
+> kleedkamer: **Lore & Celine & Féliz**
 
-> fruit: **auke**
+> fruit: **Lore**
 
-> was meenemen: **auke**
+> was meenemen: **Lore**
 
 
 <!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
