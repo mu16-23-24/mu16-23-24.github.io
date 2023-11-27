@@ -6,16 +6,16 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
+> volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **s.c. mechelen** om **12.45** (11.45 ter plaatse)
 
-> Kleedkamer: **Lore & Celine & Feliz**
+> kleedkamer: **lore & celine & feliz**
 
-> Fruit: **Auke**
+> fruit: **auke**
 
-> Was meenemen: **Auke** -->
+> was meenemen: **auke**
 
 
-> Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
 
 > Fruit: Féliz
 
@@ -25,13 +25,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 K.F.C. Herenthout<br>
 Bergensesteenweg 63  <br>
 2270 Herenthout <br>
-[map](https://www.google.be/maps/place/K.F.C.+Herenthout/@51.1506529,4.7652413,17z/data=!3m1!4b1!4m6!3m5!1s0x47c15135033e2181:0x4f7b365a7e464a13!8m2!3d51.1506529!4d4.7652413!16s%2Fg%2F11bzx579nx?entry=ttu)
+[map](https://www.google.be/maps/place/K.F.C.+Herenthout/@51.1506529,4.7652413,17z/data=!3m1!4b1!4m6!3m5!1s0x47c15135033e2181:0x4f7b365a7e464a13!8m2!3d51.1506529!4d4.7652413!16s%2Fg%2F11bzx579nx?entry=ttu) -->
 
 
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 25-Nov  |       |☑     |K.F.C Herenthout       | 11.15
 za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
 
 Uren zijn onder voorbehoud en kunnen wijzigen
@@ -45,6 +44,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+25-Nov  |       |✅     |K.F.C Herenthout       | **0-5**
 18-Nov  |✅     |       |Antwerp Diamonds Fc    | **7-0**
 10-Nov  |       |✅     |Kon. Olvac             | **0-2**
 28-Okt  |✅     |       |K.F.C Herent           | 1-1
@@ -60,13 +60,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Herenthout	|	22	|	10	|	7	|	2	|	1	|	43	|	15	|	28
-Sparta	|	20	|	10	|	6	|	2	|	2	|	44	|	16	|	28
+Sparta	|	23	|	11	|	7	|	2	|	2	|	49	|	16	|	33
+Herent	|	22	|	11	|	7	|	3	|	1	|	50	|	19	|	31
+Herenthout	|	22	|	11	|	7	|	3	|	1	|	43	|	20	|	23
+Olvac	|	22	|	11	|	7	|	3	|	1	|	36	|	25	|	11
 Elzestraat	|	19	|	11	|	6	|	4	|	1	|	52	|	20	|	32
-Herent	|	19	|	10	|	6	|	3	|	1	|	44	|	17	|	27
-Olvac	|	19	|	10	|	6	|	3	|	1	|	35	|	25	|	10
-Mechelen	|	6	|	10	|	2	|	8	|	0	|	20	|	60	|	-40
-Antwerp	|	0	|	11	|	0	|	11	|	0	|	10	|	95	|	-85
+Mechelen	|	6	|	11	|	2	|	9	|	0	|	22	|	66	|	-44
+Antwerp	|	0	|	12	|	0	|	12	|	0	|	10	|	96	|	-86
+
 
 
 ### Evolutie
@@ -132,7 +133,7 @@ Tille	    |           |           |           |           |           |         
 Lize        |           |           |           |           |           |           |           |✅           |         |           |           |
 Morane		|           |           |           |           |           |           |           |           |✅           |           |         |
 Auke        |           |           |           |           |           |           |           |           |           |✅         |           |
-Féliz		|           |           |           |           |           |           |           |           |           |           |☑           |         
+Féliz		|           |           |           |           |           |           |           |           |           |           |✅           |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
 Lore	    |           |           |           |           |           |           |           |           |           |           |           |
 
@@ -185,7 +186,7 @@ Tille	    |           |           |           |           |           |✅      
 Lize        |           |           |           |           |           |           |✅           |         |           |           |
 Morane		|           |           |           |           |           |           |           |✅           |           |         |
 Auke        |           |           |           |           |           |           |           |           |✅         |           |
-Féliz		|           |           |           |           |           |           |           |           |           |☑         |         
+Féliz		|           |           |           |           |           |           |           |           |           |✅         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
 Lore	    |           |           |           |           |           |           |           |           |           |           |
 
