@@ -6,13 +6,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
 
 > kleedkamer: **Lore & Celine & Féliz**
 
 > fruit: **Lore**
 
-> was meenemen: **Lore**
+> was meenemen: **Lore** -->
 
 
 <!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
@@ -31,7 +31,6 @@ Bergensesteenweg 63  <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 02-Dec  |☑     |       |S.C. Mechelen           | 12.45
 
 Uren zijn onder voorbehoud en kunnen wijzigen
 
@@ -44,6 +43,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+02-Dec  |✅     |       |S.C. Mechelen          | **10-0**
 25-Nov  |       |✅     |K.F.C Herenthout       | **0-5**
 18-Nov  |✅     |       |Antwerp Diamonds Fc    | **7-0**
 10-Nov  |       |✅     |Kon. Olvac             | **0-2**
@@ -58,15 +58,18 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 ## Rangschikking
 
+## Deel1
+
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Sparta	|	23	|	11	|	7	|	2	|	2	|	49	|	16	|	33
-Herent	|	22	|	11	|	7	|	3	|	1	|	50	|	19	|	31
-Herenthout	|	22	|	11	|	7	|	3	|	1	|	43	|	20	|	23
-Olvac	|	22	|	11	|	7	|	3	|	1	|	36	|	25	|	11
-Elzestraat	|	19	|	11	|	6	|	4	|	1	|	52	|	20	|	32
-Mechelen	|	6	|	11	|	2	|	9	|	0	|	22	|	66	|	-44
+Sparta	|	26	|	12	|	8	|	2	|	2	|	59	|	16	|	43
+Herent	|	25	|	12	|	8	|	3	|	1	|	52	|	19	|	33
+Herenthout	|	25	|	12	|	8	|	3	|	1	|	46	|	22	|	24
+Olvac	|	22	|	12	|	7	|	4	|	1	|	38	|	28	|	10
+Elzestraat	|	19	|	12	|	6	|	5	|	1	|	52	|	22	|	30
+Mechelen	|	6	|	12	|	2	|	10	|	0	|	22	|	76	|	-54
 Antwerp	|	0	|	12	|	0	|	12	|	0	|	10	|	96	|	-86
+
 
 
 
@@ -157,9 +160,9 @@ Tille	    |           |           |           |✅         |           |
 Lize        |           |           |           |✅           |         |
 Auke        |           |           |           |           |✅         |
 Morane      |           |           |           |           |✅         |         
-Féliz	    |           |           |           |           |           |☑
-Lore        |           |           |           |           |           |☑         
-Celine	    |           |           |           |           |           |☑         
+Féliz	    |           |           |           |           |           |✅
+Lore        |           |           |           |           |           |✅         
+Celine	    |           |           |           |           |           |✅         
 
 ## Outfit
 
@@ -196,11 +199,11 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Gelieve Twizzit ook in de vullen.
 
-Datum   | Tijdstip  | Wie (Ouder(s) van)
+<!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 2 Dec   |12.30-14.00| ☑ Lize
 2 Dec   |12.30-14.00| ☑ Auke
-2 Dec   |12.30-14.00| Morane ?
+2 Dec   |12.30-14.00| Morane ? -->
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
