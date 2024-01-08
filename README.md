@@ -274,7 +274,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-28 Jan  |10.30-12.30| ☑ ?
+28 Jan  |10.30-12.30| ☑ Féliz
 28 Jan  |10.30-12.30| ☑ ?     
 28 Jan  |10.30-12.30| ☑ ?     
 
