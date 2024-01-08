@@ -292,7 +292,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-7 Apr  |10.30-12.30| ☑ ?
+7 Apr  |10.30-12.30| ✅ Imke
 7 Apr  |10.30-12.30| ☑ ?     
 7 Apr  |10.30-12.30| ☑ ?     
 
