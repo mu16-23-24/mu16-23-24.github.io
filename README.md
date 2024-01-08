@@ -148,20 +148,20 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 
 Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb     |09-Maa     |17-Maa     |23-Maa     |07-Apr     |13-Apr     |21-Apr
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
-Gitte	    |           |☑         |           |           |           |           |           |           |           |           |           |
-Dee Dee	    |           |           |☑         |           |           |           |           |           |           |           |           |
-Margue	    |           |           |           |☑           |         |           |           |           |           |           |           |
-Imke	    |           |           |           |           |☑           |         |           |           |           |           |           |
-Tille	    |           |           |           |           |           |☑           |         |           |           |           |           |
-Lize        |           |           |           |           |           |           |☑           |         |           |           |           |
-Morane		|           |           |           |           |           |           |           |☑           |           |         |           |
-Auke        |           |           |           |           |           |           |           |           |☑         |           |           |
-Féliz		|           |           |           |           |           |           |           |           |           |☑         |           |
-Celine	    |           |           |           |           |           |           |           |           |           |           |☑          |                      
-Lore	    |           |           |           |           |           |           |           |           |           |           |           |☑
-Tessa	    |           |           |           |           |           |           |           |           |           |           |           |
-Esmee	    |           |           |           |           |           |           |           |           |           |           |           |
-Ella	    |           |           |           |           |           |           |           |           |           |           |           |
+Gitte	    |☑         |           |           |           |           |           |           |           |           |           |           |
+Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
+Margue	    |           |           |☑           |         |           |           |           |           |           |           |           |
+Imke	    |           |           |           |☑           |         |           |           |           |           |           |           |
+Tille	    |           |           |           |           |☑           |         |           |           |           |           |           |
+Lize        |           |           |           |           |           |☑           |         |           |           |           |           |
+Morane		|           |           |           |           |           |           |☑           |           |         |           |           |
+Auke        |           |           |           |           |           |           |           |☑         |           |           |           |
+Féliz		|           |           |           |           |           |           |           |           |☑         |           |           |
+Celine	    |           |           |           |           |           |           |           |           |           |☑         |           |                     
+Lore	    |           |           |           |           |           |           |           |           |           |          |☑          |
+Tessa	    |           |           |           |           |           |           |           |           |           |          |            |☑
+Esmee	    |           |           |           |           |           |           |           |           |           |          |            |
+Ella	    |           |           |           |           |           |           |           |           |           |          |            |
 
 <!--
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
@@ -190,22 +190,22 @@ Taken:
 - Achterlaten zoals je ze gekregen hebt.
 
 
-Naam        |14-Jan |28-Jan     |18-Feb     |24-Feb     |17-Maa     |23-Maa     |07-Apr     |21-Apr
----         | ---   |---        |---        |---        |---        |---        |---        |---
-Gitte	    |☑      |          |           |           |           |           |           |
-Dee Dee	    |☑      |          |           |           |           |           |           |
-Margue	    |       |☑          |           |           |           |          |           |
-Imke	    |       |☑          |           |           |           |          |           |
-Tille	    |       |           |☑         |           |           |           |           |
-Lize        |       |           |☑           |         |           |           |           |
-Auke        |       |           |           |☑         |           |           |           |
-Morane      |       |           |           |☑         |            |          |           |
-Féliz	    |       |           |           |           |☑          |          |           |
-Lore        |       |           |           |           |☑          |          |           |
-Celine	    |       |           |           |           |           |☑         |           |
-Tessa	    |       |           |           |           |            |☑        |           |
-Esmee	    |       |           |           |           |           |           |           |
-Ella	    |       |           |           |           |           |           |           |
+Naam        |14-Jan |28-Jan     |18-Feb     |17-Maa     |07-Apr     |21-Apr
+---         | ---   |---        |---        |---        |---        |---
+Gitte	    |☑      |          |           |           |           |           
+Dee Dee	    |☑      |          |           |           |           |           
+Margue	    |       |☑          |           |           |           |          
+Imke	    |       |☑          |           |           |           |          
+Tille	    |       |           |☑         |           |           |           
+Lize        |       |           |☑           |         |           |           
+Auke        |       |           |           |☑         |           |           
+Morane      |       |           |           |☑         |            |          
+Féliz	    |       |           |           |           |☑          |          
+Lore        |       |           |           |           |☑          |          
+Celine	    |       |           |           |           |☑          |         
+Tessa	    |       |           |           |           |            |☑        
+Esmee	    |       |           |           |           |           |☑           
+Ella	    |       |           |           |           |           |☑           
 
 <!--
 Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
@@ -250,9 +250,10 @@ Morane		|           |           |           |           |           |           
 Auke        |           |           |           |           |           |           |           |           |✅         |           |
 Féliz		|           |           |           |           |           |           |           |           |           |✅         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
-Lore	    |           |           |           |           |           |           |           |           |           |           | -->
+Lore	    |           |           |           |           |           |           |           |           |           |           | 
+-->
 
-## Toogshiften
+## Toogshiften + Hotdog
 
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen.
 
@@ -264,7 +265,44 @@ Gelieve Twizzit ook in de vullen.
 2 Dec   |12.30-14.00| ☑ Auke
 2 Dec   |12.30-14.00| Morane ? -->
 
+
 Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+14 Jan  |10.30-12.30| ☑ Lize
+14 Jan  |10.30-12.30| ☑ Auke     
+14 Jan  |10.30-12.30| ☑ Morane     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+28 Jan  |10.30-12.30| ☑ ?
+28 Jan  |10.30-12.30| ☑ ?     
+28 Jan  |10.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+18 Feb  |10.30-12.30| ☑ ?
+18 Feb  |10.30-12.30| ☑ ?     
+18 Feb  |10.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+17 Maa  |10.30-12.30| ☑ ?
+17 Maa  |10.30-12.30| ☑ ?     
+17 Maa  |10.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+7 Apr  |10.30-12.30| ☑ ?
+7 Apr  |10.30-12.30| ☑ ?     
+7 Apr  |10.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+21 Apr  |10.30-12.30| ☑ ?
+21 Apr  |10.30-12.30| ☑ ?     
+21 Apr  |10.30-12.30| ☑ ?     
+
+<!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 23 Sep  |12.30-14.00| ~~Esmee ☑~~
 23 Sep  |12.30-14.00| Ella ✅     
@@ -283,7 +321,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 18 Nov  |12.30-14.00| ✅ Gitte
 18 Nov  |12.30-14.00| ✅ Imke
-18 Nov  |12.30-14.00| ✅ Tille
+18 Nov  |12.30-14.00| ✅ Tille -->
 
 
 ## Tegemoetkoming mutualiteit
