@@ -123,7 +123,7 @@ Wedstrijden zijn te volgen in de Twizzit app.
 
 De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1 uur + reistijd(parking Sparta).
 
-Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor. Zie [schema](#fruit-schema).
+Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor. Zie [schema](#fruit--was-schema).
 
 > Tijdens de wedstrijd en pauzes blijven we als spelersgroep bij elkaar.
 
@@ -231,7 +231,7 @@ Celine	    |           |           |           |           |           |✅
 
 Elke speelster krijgt een truitje en broekje en sokken. 
 
-Na elke wedstrijd wordt iemand aangeduid die de vuile was meeneemt. Zie [schema](#was-schema).
+Na elke wedstrijd wordt iemand aangeduid die de vuile was meeneemt. Zie [schema](#fruit--was-schema).
 
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
 
