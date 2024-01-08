@@ -6,13 +6,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zaterdag **2 december** tegen **S.C. Mechelen** om **12.45** (11.45 ter plaatse)
+Volgende **thuis** wedstrijd is op zondag **14 januari** tegen **R.W.D.M. Girls C** om **10.30** (09.30 ter plaatse)
 
-> kleedkamer: **Lore & Celine & Féliz**
+> kleedkamer: **Esmee & Ella**
 
-> fruit: **Lore**
+> fruit: **Esmee**
 
-> was meenemen: **Lore** -->
+> was meenemen: **Lore**
 
 
 <!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
@@ -31,6 +31,18 @@ Bergensesteenweg 63  <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
+14-Jan|☑|| RWDM Girls|10.30
+21-Jan||☑|Tempo Overijse|11.30
+28-Jan|☑||VK Linden|10.30
+3-Feb||☑|Leeuw Brucom|10.00
+18-Feb|☑||Miecroob Veltem|11.30
+24-Feb||☑|Sp Rotselaar| 15.30
+9-Maa||☑|RWDM Girls|14.00
+17-Maa|☑||Tempo Overijse|10.30
+23-Maa||☑|VK Linden|13.30
+7-Apr|☑||Leeuw Brucom|10.30
+13-Apr||☑|Miecroob Veltem|10.30
+19-Apr|☑||Sp Rotselaar|10.30
 
 Uren zijn onder voorbehoud en kunnen wijzigen
 
@@ -58,7 +70,21 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 ## Rangschikking
 
-## Deel1
+## Deel 2
+
+Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
+---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
+KFC Sparta	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+RWDM Girls	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Tempo Overijse	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+VK Linden	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Leeuw Brucom	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Miecroob Veltem	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Sp Rotselaar	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+
+![Sparta](/assets/ranking2.png)
+
+## Deel 1
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
@@ -70,22 +96,18 @@ Elzestraat	|	19	|	12	|	6	|	5	|	1	|	52	|	22	|	30
 Mechelen	|	6	|	12	|	2	|	10	|	0	|	22	|	76	|	-54
 Antwerp	|	0	|	12	|	0	|	12	|	0	|	10	|	96	|	-86
 
-
-
-
-### Evolutie
-
-![sparta](/assets/ranking.png)
+![Sparta](/assets/ranking2.png)
 
 ## Trainingen
 
 <!-- ![trainingen](/assets/trainingen.jpg) -->
 
-> Vanaf 12 oktober wordt er altijd getraind op Den Dijk, dus **NIET** meer op Tildonk.
+> Vanaf 1 januari wordt er altijd getraind op 2 locaties: Den Dijk en Sparta.
 
 Dag         | Waar      | Tijdstip
 ---         |---        |---
-Dinsdag <br> Donderdag   | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
+Dinsdag   | [Sparta](https://www.google.com/maps/place/KFC+Sparta+Haacht/@50.958168,4.6103106,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3e1cb5589a0a3:0xf2a69381411d45c2!8m2!3d50.958168!4d4.6128855!16s%2Fg%2F1pxwv3wpm?entry=ttu)  | 18.30-20.00
+Donderdag   | [Den Dijk](https://www.google.com/maps/place/Vrijetijdscomplex+Den+Dijk/@50.9618022,4.6403959,15z/data=!4m6!3m5!1s0x47c15f7873006ab5:0xcacde7ca5e7cbce3!8m2!3d50.9618022!4d4.6403959!16s%2Fg%2F1tm681_l?entry=ttu)  | 18.30-20.00
 
 ## Twizzit
 
@@ -122,8 +144,26 @@ Gelieve de Sparta uitrusting te dragen.
 
 Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of achtergelaten bij de ouders. Na de de wedstrijd worden ze terugbezorgd.
 
-### Fruit Schema
+### Fruit & Was Schema
 
+Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb     |09-Maa     |17-Maa     |23-Maa     |07-Apr     |13-Apr     |21-Apr
+---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
+Gitte	    |           |☑         |           |           |           |           |           |           |           |           |           |
+Dee Dee	    |           |           |☑         |           |           |           |           |           |           |           |           |
+Margue	    |           |           |           |☑           |         |           |           |           |           |           |           |
+Imke	    |           |           |           |           |☑           |         |           |           |           |           |           |
+Tille	    |           |           |           |           |           |☑           |         |           |           |           |           |
+Lize        |           |           |           |           |           |           |☑           |         |           |           |           |
+Morane		|           |           |           |           |           |           |           |☑           |           |         |           |
+Auke        |           |           |           |           |           |           |           |           |☑         |           |           |
+Féliz		|           |           |           |           |           |           |           |           |           |☑         |           |
+Celine	    |           |           |           |           |           |           |           |           |           |           |☑          |                      
+Lore	    |           |           |           |           |           |           |           |           |           |           |           |☑
+Tessa	    |           |           |           |           |           |           |           |           |           |           |           |
+Esmee	    |           |           |           |           |           |           |           |           |           |           |           |
+Ella	    |           |           |           |           |           |           |           |           |           |           |           |
+
+<!--
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
 Esmee	    |✅         |           |           |           |           |           |           |           |           |           |           |
@@ -137,8 +177,9 @@ Lize        |           |           |           |           |           |       
 Morane		|           |           |           |           |           |           |           |           |✅           |           |         |
 Auke        |           |           |           |           |           |           |           |           |           |✅         |           |
 Féliz		|           |           |           |           |           |           |           |           |           |           |✅           |         
-Celine	    |           |           |           |           |           |           |           |           |           |           |           |☑
+Celine	    |           |           |           |           |           |           |           |           |           |           |           |
 Lore	    |           |           |           |           |           |           |           |           |           |           |           |
+-->
 
 ### Kleedkamer Schema
 
@@ -148,6 +189,25 @@ Taken:
 - Dweilen
 - Achterlaten zoals je ze gekregen hebt.
 
+
+Naam        |14-Jan |28-Jan     |18-Feb     |24-Feb     |17-Maa     |23-Maa     |07-Apr     |21-Apr
+---         | ---   |---        |---        |---        |---        |---        |---        |---
+Gitte	    |☑      |          |           |           |           |           |           |
+Dee Dee	    |☑      |          |           |           |           |           |           |
+Margue	    |       |☑          |           |           |           |          |           |
+Imke	    |       |☑          |           |           |           |          |           |
+Tille	    |       |           |☑         |           |           |           |           |
+Lize        |       |           |☑           |         |           |           |           |
+Auke        |       |           |           |☑         |           |           |           |
+Morane      |       |           |           |☑         |            |          |           |
+Féliz	    |       |           |           |           |☑          |          |           |
+Lore        |       |           |           |           |☑          |          |           |
+Celine	    |       |           |           |           |           |☑         |           |
+Tessa	    |       |           |           |           |            |☑        |           |
+Esmee	    |       |           |           |           |           |           |           |
+Ella	    |       |           |           |           |           |           |           |
+
+<!--
 Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
 ---         | ---       |---        |---        |---        |---        |---
 Esmee	    |✅         |           |           |           |           |
@@ -162,7 +222,8 @@ Auke        |           |           |           |           |✅         |
 Morane      |           |           |           |           |✅         |         
 Féliz	    |           |           |           |           |           |✅
 Lore        |           |           |           |           |           |✅         
-Celine	    |           |           |           |           |           |✅         
+Celine	    |           |           |           |           |           |✅
+-->
 
 ## Outfit
 
@@ -175,12 +236,10 @@ Na elke wedstrijd wordt iemand aangeduid die de vuile was meeneemt. Zie [schema]
 Elke speelster krijgt ook een drinkfles en die wordt gevuld (water) meegebracht naar de wedstrijd. 
 
 
-### Was Schema
+<!-- ### Was Schema
 
 Naam        |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
-Esmee	    |           |           |           |           |           |           |           |           |           |           |
-Ella	    |✅         |           |           |           |           |           |           |           |           |           |
 Gitte	    |           |✅         |           |           |           |           |           |           |           |           | 
 Dee Dee	    |           |           |✅         |           |           |           |           |           |           |           |
 Margue	    |           |           |           |✅           |         |           |           |           |           |           |
@@ -191,7 +250,7 @@ Morane		|           |           |           |           |           |           
 Auke        |           |           |           |           |           |           |           |           |✅         |           |
 Féliz		|           |           |           |           |           |           |           |           |           |✅         |         
 Celine	    |           |           |           |           |           |           |           |           |           |           |☑
-Lore	    |           |           |           |           |           |           |           |           |           |           |
+Lore	    |           |           |           |           |           |           |           |           |           |           | -->
 
 ## Toogshiften
 
