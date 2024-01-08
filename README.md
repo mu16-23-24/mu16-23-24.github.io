@@ -8,11 +8,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 Volgende **thuis** wedstrijd is op zondag **14 januari** tegen **R.W.D.M. Girls C** om **10.30** (09.30 ter plaatse)
 
-> kleedkamer: **Esmee & Ella**
+> kleedkamer: **Gitte & Dee Dee**
 
-> fruit: **Esmee**
+> fruit: **Gitte**
 
-> was meenemen: **Lore**
+> was meenemen: **Gitte**
 
 
 <!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
