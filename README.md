@@ -96,7 +96,7 @@ Elzestraat	|	19	|	12	|	6	|	5	|	1	|	52	|	22	|	30
 Mechelen	|	6	|	12	|	2	|	10	|	0	|	22	|	76	|	-54
 Antwerp	|	0	|	12	|	0	|	12	|	0	|	10	|	96	|	-86
 
-![Sparta](/assets/ranking2.png)
+![Sparta](/assets/ranking.png)
 
 ## Trainingen
 
