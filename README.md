@@ -268,9 +268,9 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-14 Jan  |10.30-12.30| ☑ Lize
-14 Jan  |10.30-12.30| ☑ Auke     
-14 Jan  |10.30-12.30| ☑ Morane     
+14 Jan  |10.30-12.30| ✅ Lize
+14 Jan  |10.30-12.30| ✅ Auke     
+14 Jan  |10.30-12.30| ✅ Morane     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -286,7 +286,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-17 Maa  |10.30-12.30| ☑ ?
+17 Maa  |10.30-12.30| ✅ Gitte
 17 Maa  |10.30-12.30| ☑ ?     
 17 Maa  |10.30-12.30| ☑ ?     
 
