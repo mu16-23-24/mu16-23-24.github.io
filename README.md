@@ -255,9 +255,7 @@ Lore	    |           |           |           |           |           |          
 
 ## Toogshiften + Hotdog
 
-Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen.
-
-Gelieve Twizzit ook in de vullen.
+Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen. 1 iemand staat in voor de hotdogs.
 
 <!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -268,39 +266,39 @@ Gelieve Twizzit ook in de vullen.
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-14 Jan  |10.30-12.30| ✅ Lize
-14 Jan  |10.30-12.30| ✅ Auke     
-14 Jan  |10.30-12.30| ✅ Morane     
+14 Jan  |09.30-12.30| ✅ Lize
+14 Jan  |09.30-12.30| ✅ Auke     
+14 Jan  |09.30-12.30| ✅ Morane     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-28 Jan  |10.30-12.30| ✅ Féliz
-28 Jan  |10.30-12.30| ✅ Celine     
-28 Jan  |10.30-12.30| ✅ Tille     
+28 Jan  |09.30-12.30| ✅ Féliz
+28 Jan  |09.30-12.30| ✅ Celine     
+28 Jan  |09.30-12.30| ✅ Tille     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-18 Feb  |10.30-12.30| ☑ ?
-18 Feb  |10.30-12.30| ☑ ?     
-18 Feb  |10.30-12.30| ☑ ?     
+18 Feb  |09.30-12.30| ☑ ?
+18 Feb  |09.30-12.30| ☑ ?     
+18 Feb  |09.30-12.30| ☑ ?     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-17 Maa  |10.30-12.30| ✅ Gitte
-17 Maa  |10.30-12.30| ☑ ?     
-17 Maa  |10.30-12.30| ☑ ?     
+17 Maa  |09.30-12.30| ✅ Gitte
+17 Maa  |09.30-12.30| ☑ ?     
+17 Maa  |09.30-12.30| ☑ ?     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-7 Apr  |10.30-12.30| ✅ Imke
-7 Apr  |10.30-12.30| ☑ ?     
-7 Apr  |10.30-12.30| ☑ ?     
+7 Apr  |09.30-12.30| ✅ Imke
+7 Apr  |09.30-12.30| ☑ ?     
+7 Apr  |09.30-12.30| ☑ ?     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-21 Apr  |10.30-12.30| ☑ ?
-21 Apr  |10.30-12.30| ☑ ?     
-21 Apr  |10.30-12.30| ☑ ?     
+21 Apr  |09.30-12.30| ☑ ?
+21 Apr  |09.30-12.30| ☑ ?     
+21 Apr  |09.30-12.30| ☑ ?     
 
 <!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
