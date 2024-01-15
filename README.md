@@ -6,32 +6,29 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-Volgende **thuis** wedstrijd is op zondag **14 januari** tegen **R.W.D.M. Girls C** om **10.30** (09.30 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zondag **14 januari** tegen **R.W.D.M. Girls C** om **10.30** (09.30 ter plaatse)
 
 > kleedkamer: **Gitte & Dee Dee**
 
 > fruit: **Gitte**
 
-> was meenemen: **Gitte**
+> was meenemen: **Gitte** -->
 
 
-<!-- > Volgende **uit** wedstrijd is op vrijdag **25 november** tegen **Herenthout** om **11.15** (10.15 ter plaatse of 09.15 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zondag **21 januari** tegen **Tempo Overijse** om **11.30** (10.30 ter plaatse of 09.30 vertrekken op Sparta) 
 
-> Fruit: Féliz
+> Fruit: Dee Dee
 
-> Was meenemen: Féliz
+> Was meenemen: Dee Dee
 
 > Adres:
-K.F.C. Herenthout<br>
-Bergensesteenweg 63  <br>
-2270 Herenthout <br>
-[map](https://www.google.be/maps/place/K.F.C.+Herenthout/@51.1506529,4.7652413,17z/data=!3m1!4b1!4m6!3m5!1s0x47c15135033e2181:0x4f7b365a7e464a13!8m2!3d51.1506529!4d4.7652413!16s%2Fg%2F11bzx579nx?entry=ttu) -->
-
-
+BSB - Terrein 1 <br>
+Pater Dupierreuxlaan 1<br>
+3080 Tervuren <br>
+[map](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17.5z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-14-Jan|☑|| RWDM Girls|10.30
 21-Jan||☑|Tempo Overijse|11.30
 28-Jan|☑||VK Linden|10.30
 3-Feb||☑|Leeuw Brucom|10.00
@@ -55,6 +52,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+14-Jan  |✅     |       | RWDM Girls            |**6-0**
 02-Dec  |✅     |       |S.C. Mechelen          | **10-0**
 25-Nov  |       |✅     |K.F.C Herenthout       | **0-5**
 18-Nov  |✅     |       |Antwerp Diamonds Fc    | **7-0**
@@ -74,13 +72,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-KFC Sparta	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-RWDM Girls	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-Tempo Overijse	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Tempo Overijse	|	3	|	1	|	1	|	0	|	0	|	13	|	1	|	12
+KFC Sparta	|	3	|	1	|	1	|	0	|	0	|	6	|	0	|	6
 VK Linden	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-Leeuw Brucom	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
 Miecroob Veltem	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-Sp Rotselaar	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Leeuw Brucom	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+RWDM Girls	|	0	|	1	|	0	|	1	|	0	|	0	|	6	|	-6
+Sp Rotselaar	|	0	|	1	|	0	|	1	|	0	|	1	|	13	|	-12
+
 
 ![Sparta](/assets/ranking2.png)
 
