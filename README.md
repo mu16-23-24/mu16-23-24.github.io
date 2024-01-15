@@ -147,7 +147,7 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 
 Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb     |09-Maa     |17-Maa     |23-Maa     |07-Apr     |13-Apr     |21-Apr
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
-Gitte	    |☑         |           |           |           |           |           |           |           |           |           |           |
+Gitte	    |✅         |           |           |           |           |           |           |           |           |           |           |
 Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
 Margue	    |           |           |☑           |         |           |           |           |           |           |           |           |
 Imke	    |           |           |           |☑           |         |           |           |           |           |           |           |
@@ -191,8 +191,8 @@ Taken:
 
 Naam        |14-Jan |28-Jan     |18-Feb     |17-Maa     |07-Apr     |21-Apr
 ---         | ---   |---        |---        |---        |---        |---
-Gitte	    |☑      |          |           |           |           |           
-Dee Dee	    |☑      |          |           |           |           |           
+Gitte	    |✅      |          |           |           |           |           
+Dee Dee	    |✅      |          |           |           |           |           
 Margue	    |       |☑          |           |           |           |          
 Imke	    |       |☑          |           |           |           |          
 Tille	    |       |           |☑         |           |           |           
