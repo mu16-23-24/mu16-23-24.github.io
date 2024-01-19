@@ -15,17 +15,19 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > was meenemen: **Gitte** -->
 
 
+> [!CAUTION]
+> Alle matchen zijn dit weekend afgelast
+
 > Volgende **uit** wedstrijd is op zondag **21 januari** tegen **Tempo Overijse** om **11.30** (10.30 ter plaatse of 09.30 vertrekken op Sparta) 
-
 > Fruit: Dee Dee
-
 > Was meenemen: Dee Dee
-
 > Adres:
 BSB - Terrein 1 <br>
 Pater Dupierreuxlaan 1<br>
 3080 Tervuren <br>
 [map](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17.5z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)
+
+## Alle resterende wedstrijden
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
@@ -41,7 +43,18 @@ Datum   | Thuis | Uit   | Tegenstander          | Uur
 13-Apr||☑|Miecroob Veltem|10.30
 19-Apr|☑||Sp Rotselaar|10.30
 
-Uren zijn onder voorbehoud en kunnen wijzigen
+> [!NOTE]
+> Uren zijn onder voorbehoud en kunnen wijzigen
+
+
+## Uitgestelde wedstrijden
+Datum   | Thuis | Uit   | Tegenstander          | Uur
+---     |:---:  |:---:  |---                    | ---
+?||☑|Tempo Overijse|?
+
+> [!NOTE]
+> Tijdstip nog nader te bepalen
+
 
 Symbool   | Status
 :---:               |---
@@ -380,3 +393,18 @@ Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of d�
 - Andy
 - Marnix
 - Sujith
+
+> [!NOTE]
+> Note
+
+> [!TIP]
+> Note
+
+> [!IMPORTANT]
+> Note
+
+> [!CAUTION]
+> Note
+
+> [!WARNING]
+> Note
