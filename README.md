@@ -4,55 +4,85 @@
 
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024
 
+> Alle matchen zijn dit weekend afgelast (19-21 jan)
+
+
 ## Volgende wedstrijd
 
-<!-- > Volgende **thuis** wedstrijd is op zondag **14 januari** tegen **R.W.D.M. Girls C** om **10.30** (09.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **28 januari** tegen **VK Linden** om **10.30** (09.30 ter plaatse)
 
-> kleedkamer: **Gitte & Dee Dee**
+> Kleedkamer: **Margue & Imke**
 
-> fruit: **Gitte**
-
-> was meenemen: **Gitte** -->
+> Fruit & was: **Margue**
 
 
-> [!CAUTION]
-> Alle matchen zijn dit weekend afgelast
+<!-- > Volgende **uit** wedstrijd is op zondag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
 
-> Volgende **uit** wedstrijd is op zondag **21 januari** tegen **Tempo Overijse** om **11.30** (10.30 ter plaatse of 09.30 vertrekken op Sparta) 
-> Fruit: Dee Dee
-> Was meenemen: Dee Dee
-> Adres:
-BSB - Terrein 1 <br>
-Pater Dupierreuxlaan 1<br>
-3080 Tervuren <br>
-[map](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17.5z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)
+> Fruit & was: Imke
+
+> Adres Leeuw Brucom:
+Lotstraat - Terrein 3 <br>
+Lotstraat 10<br>
+1600 St-Pieters-Leeuw <br>
+[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu) 
+
+-->
+
+<!--
+> Adres Leeuw Brucom:
+Lotstraat - Terrein 3 <br>
+Lotstraat 10 <br>
+1600 St-Pieters-Leeuw <br>
+[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu) 
+
+> Adres Sp Rotselaar:
+Ter Heide - Terrein 1 <br>
+Torenstraat 115 <br>
+3110 Rotselaar <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu) 
+
+> Adres RWDM Girls:
+Stade du Sippelberg - Terrein 2 <br>
+Avenue Mahatma Gandhi <br>
+1080 St-Jans-Molenbeek <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu) 
+
+> Adres VK Linden:
+Kerkdreef - Terrein 1 <br>
+Kerkdreef 8 <br>
+3210 Linden <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu) 
+
+> Adres Miecroob Veltem:
+Winksele-Delle - Terrein 1 <br>
+Eikestraat <br>
+3020 Winksele <br>
+[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)  
+-->
 
 ## Alle resterende wedstrijden
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-21-Jan||☑|Tempo Overijse|11.30
 28-Jan|☑||VK Linden|10.30
-3-Feb||☑|Leeuw Brucom|10.00
+3-Feb||☑|[Leeuw Brucom](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.00
 18-Feb|☑||Miecroob Veltem|11.30
-24-Feb||☑|Sp Rotselaar| 15.30
-9-Maa||☑|RWDM Girls|14.00
+24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
+9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
 17-Maa|☑||Tempo Overijse|10.30
-23-Maa||☑|VK Linden|13.30
+23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
 7-Apr|☑||Leeuw Brucom|10.30
-13-Apr||☑|Miecroob Veltem|10.30
+13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 19-Apr|☑||Sp Rotselaar|10.30
 
-> [!NOTE]
 > Uren zijn onder voorbehoud en kunnen wijzigen
 
 
 ## Uitgestelde wedstrijden
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-?||☑|Tempo Overijse|?
+21-Jan -> ?||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|11.30 -> ?
 
-> [!NOTE]
 > Tijdstip nog nader te bepalen
 
 
@@ -269,19 +299,6 @@ Lore	    |           |           |           |           |           |          
 
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen. 1 iemand staat in voor de hotdogs.
 
-<!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
-2 Dec   |12.30-14.00| ☑ Lize
-2 Dec   |12.30-14.00| ☑ Auke
-2 Dec   |12.30-14.00| Morane ? -->
-
-
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
-14 Jan  |09.30-12.30| ✅ Lize
-14 Jan  |09.30-12.30| ✅ Auke     
-14 Jan  |09.30-12.30| ✅ Morane     
-
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 28 Jan  |09.30-12.30| ✅ Féliz
@@ -311,6 +328,13 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 21 Apr  |09.30-12.30| ☑ ?
 21 Apr  |09.30-12.30| ☑ ?     
 21 Apr  |09.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+14 Jan  |09.30-12.30| ✅ Lize
+14 Jan  |09.30-12.30| ✅ Auke     
+14 Jan  |09.30-12.30| ✅ Morane     
+
 
 <!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -393,18 +417,3 @@ Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of d�
 - Andy
 - Marnix
 - Sujith
-
-> [!NOTE]
-> Note
-
-> [!TIP]
-> Note
-
-> [!IMPORTANT]
-> Note
-
-> [!CAUTION]
-> Note
-
-> [!WARNING]
-> Note
