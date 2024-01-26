@@ -81,14 +81,6 @@ ma 20-mei|☑||Eigen Tornooi Sparta| ❓
 
 > Uren zijn onder voorbehoud en kunnen wijzigen
 
-## Uitgestelde wedstrijden
-Datum   | Thuis | Uit   | Tegenstander          | Uur
----     |:---:  |:---:  |---                    | ---
-❓      ||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|❓
-
-> Tijdstip nog nader te bepalen
-
-
 Symbool   | Status
 :---:               |---
 ✅                  | Gedaan
