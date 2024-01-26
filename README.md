@@ -71,12 +71,12 @@ za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.60682
 za 9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
 zo 17-Maa|☑||Tempo Overijse|10.30
 za 23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
-ma 1-apr||☑|Tornooi K.SK. Heist| ?
+ma 1-apr||☑|Tornooi K.SK. Heist| ❓
 zo 7-Apr|☑||Leeuw Brucom|10.30
 za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 zo 21-Apr|☑||Sp Rotselaar|10.30
-za 4-mei||☑|Tornooi PSV1820| ?
-ma 20-mei|☑||Eigen Tornooi Sparta| ?
+za 4-mei||☑|Tornooi PSV1820| ❓
+ma 20-mei|☑||Eigen Tornooi Sparta| ❓
 
 > Uren zijn onder voorbehoud en kunnen wijzigen
 
@@ -84,7 +84,7 @@ ma 20-mei|☑||Eigen Tornooi Sparta| ?
 ## Uitgestelde wedstrijden
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-?||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|?
+❓      |        |☑    |[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|❓
 
 > Tijdstip nog nader te bepalen
 
