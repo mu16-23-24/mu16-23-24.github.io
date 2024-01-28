@@ -315,8 +315,8 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 7 Apr  |09.30-12.30| ✅ Imke
-7 Apr  |09.30-12.30| ☑ ?     
-7 Apr  |09.30-12.30| ☑ ?     
+7 Apr  |09.30-12.30| ✅ Ella     
+7 Apr  |09.30-12.30| ✅ Dee Dee     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
