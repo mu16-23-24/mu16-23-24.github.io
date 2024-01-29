@@ -4,7 +4,9 @@
 
 Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 seizoen 2023/2024
 
-> Alle matchen zijn dit weekend afgelast (19-21 jan)
+<!-- 
+> Alle matchen zijn dit weekend afgelast (19-21 jan) 
+-->
 
 
 ## Volgende wedstrijd
