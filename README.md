@@ -95,6 +95,9 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
 28-Jan  |✅     |       |VK Linden              |**2-2**
 14-Jan  |✅     |       | RWDM Girls            |**6-0**
+
+Datum   | Thuis | Uit    | Tegenstander        | Uitslag
+---     |:---:  |:---:   |---                  |---
 02-Dec  |✅     |       |S.C. Mechelen          | **10-0**
 25-Nov  |       |✅     |K.F.C Herenthout       | **0-5**
 18-Nov  |✅     |       |Antwerp Diamonds Fc    | **7-0**
@@ -190,7 +193,7 @@ Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb 
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
 Gitte	    |✅         |           |           |           |           |           |           |           |           |           |           |
 Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
-Margue	    |           |           |☑           |         |           |           |           |           |           |           |           |
+Margue	    |           |           |✅           |         |           |           |           |           |           |           |           |
 Imke	    |           |           |           |☑           |         |           |           |           |           |           |           |
 Tille	    |           |           |           |           |☑           |         |           |           |           |           |           |
 Lize        |           |           |           |           |           |☑           |         |           |           |           |           |
@@ -234,8 +237,8 @@ Naam        |14-Jan |28-Jan     |18-Feb     |17-Maa     |07-Apr     |21-Apr
 ---         | ---   |---        |---        |---        |---        |---
 Gitte	    |✅      |          |           |           |           |           
 Dee Dee	    |✅      |          |           |           |           |           
-Margue	    |       |☑          |           |           |           |          
-Imke	    |       |☑          |           |           |           |          
+Margue	    |       |✅          |           |           |           |          
+Imke	    |       |✅          |           |           |           |          
 Tille	    |       |           |☑         |           |           |           
 Lize        |       |           |☑           |         |           |           
 Auke        |       |           |           |☑         |           |           
@@ -297,11 +300,6 @@ Lore	    |           |           |           |           |           |          
 
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen. 1 iemand staat in voor de hotdogs.
 
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
-28 Jan  |09.30-12.30| ✅ Féliz
-28 Jan  |09.30-12.30| ✅ Celine     
-28 Jan  |09.30-12.30| ✅ Tille     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -332,6 +330,32 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 14 Jan  |09.30-12.30| ✅ Lize
 14 Jan  |09.30-12.30| ✅ Auke     
 14 Jan  |09.30-12.30| ✅ Morane     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+28 Jan  |09.30-12.30| ✅ Féliz
+28 Jan  |09.30-12.30| ✅ Celine     
+28 Jan  |09.30-12.30| ✅ Tille     
+
+<!--
+Lize        |✅|           
+Auke        |✅|           
+Morane      |✅|             
+
+Féliz	    |✅|           
+Celine	    |✅|           
+Tille	    |✅|           
+
+Ella	    |✅|           
+Dee Dee	    |✅|  
+Imke	    |✅|           
+
+Gitte	    |✅|         
+
+Margue	    | |           
+Lore        | |             
+Esmee	    | |           
+-->
 
 
 <!-- Datum   | Tijdstip  | Wie (Ouder(s) van)
