@@ -9,24 +9,26 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
+<!--
 > Volgende **thuis** wedstrijd is op zondag **28 januari** tegen **VK Linden** om **10.30** (09.30 ter plaatse)
 
 > Kleedkamer: **Margue & Imke**
 
-> Fruit & was: **Margue**
+> Fruit & was: **Margue** 
+-->
 
 
-<!-- > Volgende **uit** wedstrijd is op zondag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
 
-> Fruit & was: Imke
+> fruit & was: Imke
 
-> Adres Leeuw Brucom:
-Lotstraat - Terrein 3 <br>
+> adres leeuw brucom:
+Lotstraat - terrein 3 <br>
 Lotstraat 10<br>
 1600 St-Pieters-Leeuw <br>
-[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu) 
+[map](https://www.google.com/maps/place/lotstraat+10,+1600+sint-pieters-leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2fg%2f11g0tg893f?entry=ttu) 
 
--->
+
 
 <!--
 > Adres Leeuw Brucom:
@@ -64,7 +66,6 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 28-Jan|☑||VK Linden|10.30
 za 3-Feb||☑|[Leeuw Brucom](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.00
 zo 18-Feb|☑||Miecroob Veltem|11.30
 za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
@@ -90,6 +91,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+28-Jan  |✅     |       |VK Linden              |**2-2**
 14-Jan  |✅     |       | RWDM Girls            |**6-0**
 02-Dec  |✅     |       |S.C. Mechelen          | **10-0**
 25-Nov  |       |✅     |K.F.C Herenthout       | **0-5**
@@ -110,14 +112,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Tempo Overijse	|	3	|	1	|	1	|	0	|	0	|	13	|	1	|	12
-KFC Sparta	|	3	|	1	|	1	|	0	|	0	|	6	|	0	|	6
-VK Linden	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
+Tempo Overijse	|	4	|	2	|	1	|	0	|	1	|	19	|	7	|	12
+KFC Sparta	|	4	|	2	|	1	|	0	|	1	|	8	|	2	|	6
+VK Linden	|	1	|	1	|	0	|	0	|	1	|	2	|	2	|	0
+RWDM Girls	|	1	|	2	|	0	|	1	|	1	|	6	|	12	|	-6
 Miecroob Veltem	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
 Leeuw Brucom	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-RWDM Girls	|	0	|	1	|	0	|	1	|	0	|	0	|	6	|	-6
 Sp Rotselaar	|	0	|	1	|	0	|	1	|	0	|	1	|	13	|	-12
-
 
 ![Sparta](/assets/ranking2.png)
 
@@ -412,3 +413,16 @@ Voor vragen of opmerkingen kan je steeds bij je coaches (het sportieve) en/of d�
 - Andy
 - Marnix
 - Sujith
+
+
+<!-- 
+## Twizzit
+Het is weer zover 😊
+
+Maandag=Twizzitdag
+
+Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de wedstrijd op zaterdag 3 februari tegen Leeuw Brucom om 10.00
+
+Info is zoals steeds terug te vinden op https://mu16-23-24.github.io  
+-->
+
