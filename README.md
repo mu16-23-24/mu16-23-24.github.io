@@ -11,6 +11,8 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
+> Geen wedstrijd dit weekend!
+
 <!--
 > Volgende **thuis** wedstrijd is op zondag **28 januari** tegen **VK Linden** om **10.30** (09.30 ter plaatse)
 
@@ -20,7 +22,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 -->
 
 
-> Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
+<!-- > Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
 
 > fruit & was: Imke
 
@@ -28,7 +30,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Lotstraat - terrein 3 <br>
 Lotstraat 10<br>
 1600 St-Pieters-Leeuw <br>
-[map](https://www.google.com/maps/place/lotstraat+10,+1600+sint-pieters-leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2fg%2f11g0tg893f?entry=ttu) 
+[map](https://www.google.com/maps/place/lotstraat+10,+1600+sint-pieters-leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2fg%2f11g0tg893f?entry=ttu)  -->
 
 
 
@@ -68,7 +70,6 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 3-Feb||☑|[Leeuw Brucom](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.00
 zo 18-Feb|☑||Miecroob Veltem|11.30
 za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
 za 9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
@@ -93,6 +94,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+3-Feb   |       |✅     |Leeuw Brucom           |4-3
 28-Jan  |✅     |       |VK Linden              |**2-2**
 14-Jan  |✅     |       | RWDM Girls            |**6-0**
 
@@ -118,12 +120,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
 Tempo Overijse	|	4	|	2	|	1	|	0	|	1	|	19	|	7	|	12
-KFC Sparta	|	4	|	2	|	1	|	0	|	1	|	8	|	2	|	6
+KFC Sparta	|	4	|	3	|	1	|	1	|	1	|	11	|	6	|	5
+Leeuw Brucom	|	3	|	1	|	1	|	0	|	0	|	4	|	3	|	1
+Sp Rotselaar	|	3	|	2	|	1	|	1	|	0	|	6	|	17	|	-11
 VK Linden	|	1	|	1	|	0	|	0	|	1	|	2	|	2	|	0
 RWDM Girls	|	1	|	2	|	0	|	1	|	1	|	6	|	12	|	-6
-Miecroob Veltem	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-Leeuw Brucom	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0
-Sp Rotselaar	|	0	|	1	|	0	|	1	|	0	|	1	|	13	|	-12
+Miecroob Veltem	|	0	|	1	|	0	|	1	|	0	|	4	|	5	|	-1
+
 
 ![Sparta](/assets/ranking2.png)
 
@@ -194,7 +197,7 @@ Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb 
 Gitte	    |✅         |           |           |           |           |           |           |           |           |           |           |
 Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
 Margue	    |           |           |✅           |         |           |           |           |           |           |           |           |
-Imke	    |           |           |           |☑           |         |           |           |           |           |           |           |
+Imke	    |           |           |           |✅           |         |           |           |           |           |           |           |
 Tille	    |           |           |           |           |☑           |         |           |           |           |           |           |
 Lize        |           |           |           |           |           |☑           |         |           |           |           |           |
 Morane		|           |           |           |           |           |           |☑           |           |         |           |           |
@@ -303,7 +306,7 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-18 Feb  |09.30-12.30| ☑ Esmee
+18 Feb  |09.30-12.30| ✅ Esmee
 18 Feb  |09.30-12.30| ☑ ?     
 18 Feb  |09.30-12.30| ☑ ?     
 
