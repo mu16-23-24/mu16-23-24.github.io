@@ -304,7 +304,7 @@ Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zij
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 18 Feb  |09.30-12.30| ✅ Esmee
-18 Feb  |09.30-12.30| ☑ ?     
+18 Feb  |09.30-12.30| ✅ Lize     
 18 Feb  |09.30-12.30| ☑ ?     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
@@ -338,7 +338,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 28 Jan  |09.30-12.30| ✅ Tille     
 
 <!--
-Lize        |✅|           
+Lize        |✅|✅           
 Auke        |✅|           
 Morane      |✅|             
 
