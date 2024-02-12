@@ -11,15 +11,17 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 
 ## Volgende wedstrijd
 
-> Geen wedstrijd dit weekend!
-
-<!--
-> Volgende **thuis** wedstrijd is op zondag **28 januari** tegen **VK Linden** om **10.30** (09.30 ter plaatse)
-
-> Kleedkamer: **Margue & Imke**
-
-> Fruit & was: **Margue** 
+<!-- 
+> Geen wedstrijd dit weekend! 
 -->
+
+
+> Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **11.30** (10.30 ter plaatse)
+
+> Kleedkamer: **Tille & Lize**
+
+> Fruit & was: **Tille** 
+
 
 
 <!-- > Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
