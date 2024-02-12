@@ -15,14 +15,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-
 > Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **11.30** (10.30 ter plaatse)
 
 > Kleedkamer: **Tille & Lize**
 
 > Fruit & was: **Tille** 
-
-
 
 <!-- > Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
 
@@ -33,8 +30,6 @@ Lotstraat - terrein 3 <br>
 Lotstraat 10<br>
 1600 St-Pieters-Leeuw <br>
 [map](https://www.google.com/maps/place/lotstraat+10,+1600+sint-pieters-leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2fg%2f11g0tg893f?entry=ttu)  -->
-
-
 
 <!--
 > Adres Leeuw Brucom:
