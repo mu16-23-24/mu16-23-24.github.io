@@ -305,7 +305,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 18 Feb  |09.30-12.30| ✅ Esmee
 18 Feb  |09.30-12.30| ✅ Lize     
-18 Feb  |09.30-12.30| ☑ ?     
+18 Feb  |09.30-12.30| ✅ Féliz     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
