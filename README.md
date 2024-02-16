@@ -305,11 +305,11 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 18 Feb  |09.30-12.30| ✅ Esmee
 18 Feb  |09.30-12.30| ✅ Lize     
-18 Feb  |09.30-12.30| ☑ ?     
+18 Feb  |09.30-12.30| ✅ Gitte     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-17 Maa  |09.30-12.30| ✅ Gitte
+17 Maa  |09.30-12.30| ☑ ?
 17 Maa  |09.30-12.30| ☑ ?     
 17 Maa  |09.30-12.30| ☑ ?     
 
