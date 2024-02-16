@@ -15,7 +15,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-> Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **11.30** (10.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse)
 
 > Kleedkamer: **Tille & Lize**
 
@@ -67,7 +67,7 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 18-Feb|☑||Miecroob Veltem|11.30
+zo 18-Feb|☑||Miecroob Veltem|10.30
 za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
 za 9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
 zo 17-Maa|☑||Tempo Overijse|10.30
@@ -185,7 +185,7 @@ Gelieve de Sparta uitrusting te dragen.
 
 <!-- ![gsm](/assets/gsm.jpg) -->
 
-Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of achtergelaten bij de ouders. Na de de wedstrijd worden ze terugbezorgd.
+Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of achtergelaten bij de ouders. Na de wedstrijd (douche) worden ze terugbezorgd.
 
 ### Fruit & Was Schema
 
