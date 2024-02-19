@@ -15,23 +15,26 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-> Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse)
 
 > Kleedkamer: **Tille & Lize**
 
-> Fruit & was: **Tille** 
+> Fruit & was: **Tille**  
+-->
 
-<!-- > Volgende **uit** wedstrijd is op zaterdag **3 februari** tegen **Leeuw Brucom** om **10.00** (09.00 ter plaatse of 08.00 vertrekken op Sparta) 
 
-> fruit & was: Imke
+> Volgende **uit** wedstrijd is op zaterdag **24 februari** tegen **Sp Rotselaar** om **15.30** (14.30 ter plaatse of 14.00 vertrekken op Sparta) 
 
-> adres leeuw brucom:
-Lotstraat - terrein 3 <br>
-Lotstraat 10<br>
-1600 St-Pieters-Leeuw <br>
-[map](https://www.google.com/maps/place/lotstraat+10,+1600+sint-pieters-leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2fg%2f11g0tg893f?entry=ttu)  -->
+> fruit & was: Lize
+
+> Adres Sp Rotselaar:
+Ter Heide - Terrein 1 <br>
+Torenstraat 115 <br>
+3110 Rotselaar <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu) 
 
 <!--
+
 > Adres Leeuw Brucom:
 Lotstraat - Terrein 3 <br>
 Lotstraat 10 <br>
@@ -67,7 +70,6 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 18-Feb|☑||Miecroob Veltem|10.30
 za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
 za 9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
 zo 17-Maa|☑||Tempo Overijse|10.30
@@ -91,6 +93,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+18-Feb  |✅     |       |Miecroob Veltem        |1-1
 3-Feb   |       |✅     |Leeuw Brucom           |4-3
 28-Jan  |✅     |       |VK Linden              |**2-2**
 14-Jan  |✅     |       | RWDM Girls            |**6-0**
@@ -116,14 +119,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Tempo Overijse	|	4	|	2	|	1	|	0	|	1	|	19	|	7	|	12
-KFC Sparta	|	4	|	3	|	1	|	1	|	1	|	11	|	6	|	5
-Leeuw Brucom	|	3	|	1	|	1	|	0	|	0	|	4	|	3	|	1
-Sp Rotselaar	|	3	|	2	|	1	|	1	|	0	|	6	|	17	|	-11
-VK Linden	|	1	|	1	|	0	|	0	|	1	|	2	|	2	|	0
-RWDM Girls	|	1	|	2	|	0	|	1	|	1	|	6	|	12	|	-6
-Miecroob Veltem	|	0	|	1	|	0	|	1	|	0	|	4	|	5	|	-1
-
+Leeuw Brucom	|	9	|	3	|	3	|	0	|	0	|	32	|	6	|	26
+Tempo Overijse	|	7	|	3	|	2	|	0	|	1	|	23	|	8	|	15
+KFC Sparta	|	5	|	4	|	1	|	1	|	2	|	12	|	7	|	5
+VK Linden	|	4	|	3	|	1	|	1	|	1	|	5	|	7	|	-2
+Sp Rotselaar	|	3	|	3	|	1	|	2	|	0	|	8	|	37	|	-29
+Miecroob Veltem	|	1	|	2	|	0	|	1	|	1	|	5	|	6	|	-1
+RWDM Girls	|	1	|	4	|	0	|	3	|	1	|	8	|	22	|	-14
 
 ![Sparta](/assets/ranking2.png)
 
@@ -195,7 +197,7 @@ Gitte	    |✅         |           |           |           |           |        
 Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
 Margue	    |           |           |✅           |         |           |           |           |           |           |           |           |
 Imke	    |           |           |           |✅           |         |           |           |           |           |           |           |
-Tille	    |           |           |           |           |☑           |         |           |           |           |           |           |
+Tille	    |           |           |           |           |✅           |         |           |           |           |           |           |
 Lize        |           |           |           |           |           |☑           |         |           |           |           |           |
 Morane		|           |           |           |           |           |           |☑           |           |         |           |           |
 Auke        |           |           |           |           |           |           |           |☑         |           |           |           |
@@ -239,8 +241,8 @@ Gitte	    |✅      |          |           |           |           |
 Dee Dee	    |✅      |          |           |           |           |           
 Margue	    |       |✅          |           |           |           |          
 Imke	    |       |✅          |           |           |           |          
-Tille	    |       |           |☑         |           |           |           
-Lize        |       |           |☑           |         |           |           
+Tille	    |       |           |✅         |           |           |           
+Lize        |       |           |✅           |         |           |           
 Auke        |       |           |           |☑         |           |           
 Morane      |       |           |           |☑         |            |          
 Féliz	    |       |           |           |           |☑          |          
@@ -338,7 +340,6 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 28 Jan  |09.30-12.30| ✅ Tille     
 
 <!--
-Lize        |✅|✅           
 Auke        |✅|           
 Morane      |✅|             
 
@@ -357,6 +358,8 @@ Esmee	    |✅|
 Margue	    | |           
 Lore        | |             
 Tessa       | |             
+
+Lize        |✅|✅           
 -->
 
 
@@ -449,7 +452,7 @@ Het is weer zover 😊
 
 Maandag=Twizzitdag
 
-Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de wedstrijd op zaterdag 3 februari tegen Leeuw Brucom om 10.00
+Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de wedstrijd op zaterdag 24 februari tegen Sp Rotselaar om 15.30
 
 Info is zoals steeds terug te vinden op https://mu16-23-24.github.io  
 -->
