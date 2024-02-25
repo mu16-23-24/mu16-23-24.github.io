@@ -23,17 +23,23 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 -->
 
 
-> Volgende **uit** wedstrijd is op zaterdag **24 februari** tegen **Sp Rotselaar** om **15.30** (14.30 ter plaatse of 14.00 vertrekken op Sparta) 
+> Volgende **uit** wedstrijd is op zaterdag **9 maart** tegen **RWDM Girls** om **14.00** (13.00 ter plaatse of 12.15 vertrekken op Sparta) 
 
 > fruit & was: Lize
 
+> Adres RWDM Girls:
+Stade du Sippelberg - Terrein 2 <br>
+Avenue Mahatma Gandhi <br>
+1080 St-Jans-Molenbeek <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu) 
+
+
+<!--
 > Adres Sp Rotselaar:
 Ter Heide - Terrein 1 <br>
 Torenstraat 115 <br>
 3110 Rotselaar <br>
 [map](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu) 
-
-<!--
 
 > Adres Leeuw Brucom:
 Lotstraat - Terrein 3 <br>
@@ -47,11 +53,6 @@ Torenstraat 115 <br>
 3110 Rotselaar <br>
 [map](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu) 
 
-> Adres RWDM Girls:
-Stade du Sippelberg - Terrein 2 <br>
-Avenue Mahatma Gandhi <br>
-1080 St-Jans-Molenbeek <br>
-[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu) 
 
 > Adres VK Linden:
 Kerkdreef - Terrein 1 <br>
@@ -70,9 +71,8 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 24-Feb||☑|[Sp Rotselaar](https://www.google.com/maps/dir/50.9634811,4.6068242/Torenstraat+115,+3110+Rotselaar/@50.9603615,4.6441266,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c15e7e3f89dd13:0x7e530a7ae390eaf8!2m2!1d4.7238493!2d50.9575009!3e0?entry=ttu)| 15.30
-za 9-Maa||☑|[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
-zo 17-Maa|☑||Tempo Overijse|10.30
+za 9-Maa|       |☑     |[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
+zo 17-Maa|☑    |       |Tempo Overijse         |10.30
 za 23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
 ma 1-apr||☑|Tornooi K.SK. Heist| ❓
 zo 7-Apr|☑||Leeuw Brucom|10.30
@@ -93,6 +93,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+24-Feb  |       |✅      |Sp Rotselaar          |**2-13**
 18-Feb  |✅     |       |Miecroob Veltem        |1-1
 3-Feb   |       |✅     |Leeuw Brucom           |4-3
 28-Jan  |✅     |       |VK Linden              |**2-2**
@@ -119,13 +120,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Leeuw Brucom	|	9	|	3	|	3	|	0	|	0	|	32	|	6	|	26
-Tempo Overijse	|	7	|	3	|	2	|	0	|	1	|	23	|	8	|	15
-KFC Sparta	|	5	|	4	|	1	|	1	|	2	|	12	|	7	|	5
+Leeuw Brucom	|	12	|	4	|	4	|	0	|	0	|	44	|	7	|	37
+KFC Sparta	|	8	|	5	|	2	|	1	|	2	|	25	|	9	|	16
+Tempo Overijse	|	7	|	4	|	2	|	1	|	1	|	24	|	20	|	4
+Miecroob Veltem	|	4	|	3	|	1	|	1	|	1	|	10	|	9	|	1
 VK Linden	|	4	|	3	|	1	|	1	|	1	|	5	|	7	|	-2
-Sp Rotselaar	|	3	|	3	|	1	|	2	|	0	|	8	|	37	|	-29
-Miecroob Veltem	|	1	|	2	|	0	|	1	|	1	|	5	|	6	|	-1
-RWDM Girls	|	1	|	4	|	0	|	3	|	1	|	8	|	22	|	-14
+Sp Rotselaar	|	3	|	4	|	1	|	3	|	0	|	10	|	50	|	-40
+RWDM Girls	|	1	|	5	|	0	|	4	|	1	|	11	|	27	|	-16
+
 
 ![Sparta](/assets/ranking2.png)
 
@@ -198,8 +200,8 @@ Dee Dee	    |           |☑         |           |           |           |      
 Margue	    |           |           |✅           |         |           |           |           |           |           |           |           |
 Imke	    |           |           |           |✅           |         |           |           |           |           |           |           |
 Tille	    |           |           |           |           |✅           |         |           |           |           |           |           |
-Lize        |           |           |           |           |           |☑           |         |           |           |           |           |
-Morane		|           |           |           |           |           |           |☑           |           |         |           |           |
+Lize        |           |           |           |           |           |           |☑         |           |           |           |           |
+Morane		|           |           |           |           |           |✅           |           |           |         |           |           |
 Auke        |           |           |           |           |           |           |           |☑         |           |           |           |
 Féliz		|           |           |           |           |           |           |           |           |☑         |           |           |
 Celine	    |           |           |           |           |           |           |           |           |           |☑         |           |                     
