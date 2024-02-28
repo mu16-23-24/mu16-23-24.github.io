@@ -79,7 +79,8 @@ zo 7-Apr|☑||Leeuw Brucom|10.30
 za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 zo 21-Apr|☑||Sp Rotselaar|10.30
 za 4-mei||☑|Tornooi PSV1820| ❓
-ma 20-mei|☑||Eigen Tornooi Sparta| ❓
+za 18-mei|☑||Eigen Tornooi Sparta (mu-20)| ❓
+ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 ❓      ||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|❓
 
 > Uren zijn onder voorbehoud en kunnen wijzigen
