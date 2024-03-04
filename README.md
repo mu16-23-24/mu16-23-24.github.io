@@ -315,7 +315,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
 17 Maa  |09.30-12.30| ☑ Tille
 17 Maa  |09.30-12.30| ☑ Margue     
-17 Maa  |09.30-12.30| ☑ ?     
+17 Maa  |09.30-12.30| ☑ Lore     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
