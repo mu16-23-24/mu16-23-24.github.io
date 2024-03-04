@@ -120,14 +120,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Leeuw Brucom	|	12	|	4	|	4	|	0	|	0	|	44	|	7	|	37
+Leeuw Brucom	|	15	|	5	|	5	|	0	|	0	|	52	|	10	|	42
 KFC Sparta	|	8	|	5	|	2	|	1	|	2	|	25	|	9	|	16
-Tempo Overijse	|	7	|	4	|	2	|	1	|	1	|	24	|	20	|	4
-Miecroob Veltem	|	4	|	3	|	1	|	1	|	1	|	10	|	9	|	1
-VK Linden	|	4	|	3	|	1	|	1	|	1	|	5	|	7	|	-2
-Sp Rotselaar	|	3	|	4	|	1	|	3	|	0	|	10	|	50	|	-40
-RWDM Girls	|	1	|	5	|	0	|	4	|	1	|	11	|	27	|	-16
-
+Tempo Overijse	|	8	|	5	|	2	|	1	|	2	|	28	|	24	|	4
+Miecroob Veltem	|	5	|	4	|	1	|	1	|	2	|	14	|	13	|	1
+VK Linden	|	4	|	4	|	1	|	2	|	1	|	8	|	15	|	-7
+RWDM Girls	|	4	|	6	|	1	|	4	|	1	|	16	|	28	|	-12
+Sp Rotselaar	|	3	|	5	|	1	|	4	|	0	|	11	|	55	|	-44
 
 ![Sparta](/assets/ranking2.png)
 
@@ -325,7 +324,7 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-21 Apr  |09.30-12.30| ☑ ?
+21 Apr  |09.30-12.30| ☑ Tille
 21 Apr  |09.30-12.30| ☑ ?     
 21 Apr  |09.30-12.30| ☑ ?     
 
@@ -347,7 +346,7 @@ Morane      |✅|
 
 Féliz	    |✅|           
 Celine	    |✅|           
-Tille	    |✅|           
+Tille	    |✅|✅          
 
 Ella	    |✅|           
 Dee Dee	    |✅|  
