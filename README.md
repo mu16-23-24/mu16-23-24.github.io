@@ -347,7 +347,6 @@ Morane      |✅|
 
 Féliz	    |✅|           
 Celine	    |✅|           
-Tille	    |✅|✅          
 
 Ella	    |✅|           
 Dee Dee	    |✅|  
@@ -357,11 +356,12 @@ Gitte	    |✅|
 
 Esmee	    |✅|           
 
-Margue	    | |           
+Margue	    |✅|           
 Lore        | |             
 Tessa       | |             
 
 Lize        |✅|✅           
+Tille	    |✅|✅          
 -->
 
 
