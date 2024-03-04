@@ -357,7 +357,7 @@ Gitte	    |✅|
 Esmee	    |✅|           
 
 Margue	    |✅|           
-Lore        | |             
+Lore        |✅|             
 Tessa       | |             
 
 Lize        |✅|✅           
