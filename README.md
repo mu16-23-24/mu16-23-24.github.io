@@ -15,15 +15,15 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-<!-- > Volgende **thuis** wedstrijd is op zondag **18 februari** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **17 maart** tegen **Tempo Overijse** om **10.30** (09.30 ter plaatse)
 
-> Kleedkamer: **Tille & Lize**
+> Kleedkamer: **Auke & Morane**
 
-> Fruit & was: **Tille**  
--->
+> Fruit & was: **Lize**  
 
 
-> Volgende **uit** wedstrijd is op zaterdag **9 maart** tegen **RWDM Girls** om **14.00** (13.00 ter plaatse of 12.15 vertrekken op Sparta) 
+
+<!-- > Volgende **uit** wedstrijd is op zaterdag **9 maart** tegen **RWDM Girls** om **14.00** (13.00 ter plaatse of 12.15 vertrekken op Sparta) 
 
 > fruit & was: Lize
 
@@ -31,7 +31,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Stade du Sippelberg - Terrein 2 <br>
 Avenue Mahatma Gandhi <br>
 1080 St-Jans-Molenbeek <br>
-[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu) 
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)  -->
 
 
 <!--
@@ -71,7 +71,6 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 9-Maa|       |☑     |[RWDM Girls](https://www.google.com/maps/dir/50.9634811,4.6068242/Mahatma+Gandhilaan,+1080+Sint-Jans-Molenbeek/@50.8591083,4.3260723,209m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c3c3f02cd025f3:0x7af10a544961ee00!2m2!1d4.3256741!2d50.8588073!3e0?entry=ttu)|14.00
 zo 17-Maa|☑    |       |Tempo Overijse         |10.30
 za 23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
 ma 1-apr||☑|Tornooi K.SK. Heist| ❓
@@ -94,6 +93,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+9-Maa   |       |✅      |RWDM Girls            |2-2
 24-Feb  |       |✅      |Sp Rotselaar          |**2-13**
 18-Feb  |✅     |       |Miecroob Veltem        |1-1
 3-Feb   |       |✅     |Leeuw Brucom           |4-3
@@ -122,12 +122,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
 Leeuw Brucom	|	15	|	5	|	5	|	0	|	0	|	52	|	10	|	42
-KFC Sparta	|	8	|	5	|	2	|	1	|	2	|	25	|	9	|	16
-Tempo Overijse	|	8	|	5	|	2	|	1	|	2	|	28	|	24	|	4
-Miecroob Veltem	|	5	|	4	|	1	|	1	|	2	|	14	|	13	|	1
-VK Linden	|	4	|	4	|	1	|	2	|	1	|	8	|	15	|	-7
-RWDM Girls	|	4	|	6	|	1	|	4	|	1	|	16	|	28	|	-12
-Sp Rotselaar	|	3	|	5	|	1	|	4	|	0	|	11	|	55	|	-44
+Tempo Overijse	|	11	|	6	|	3	|	1	|	2	|	37	|	25	|	12
+KFC Sparta	|	9	|	6	|	2	|	1	|	3	|	27	|	11	|	16
+VK Linden	|	7	|	5	|	2	|	2	|	1	|	10	|	15	|	-5
+Miecroob Veltem	|	5	|	5	|	1	|	2	|	2	|	14	|	15	|	-1
+RWDM Girls	|	5	|	7	|	1	|	4	|	2	|	18	|	30	|	-12
+Sp Rotselaar	|	3	|	6	|	1	|	5	|	0	|	12	|	64	|	-52
+
 
 ![Sparta](/assets/ranking2.png)
 
@@ -201,7 +202,7 @@ Margue	    |           |           |✅           |         |           |       
 Imke	    |           |           |           |✅           |         |           |           |           |           |           |           |
 Tille	    |           |           |           |           |✅           |         |           |           |           |           |           |
 Morane		|           |           |           |           |           |✅           |           |           |         |           |           |
-Auke        |           |           |           |           |           |           |☑           |         |           |           |           |
+Auke        |           |           |           |           |           |           |✅           |         |           |           |           |
 Lize        |           |           |           |           |           |           |           |☑           |           |           |           |
 Féliz		|           |           |           |           |           |           |           |           |☑         |           |           |
 Celine	    |           |           |           |           |           |           |           |           |           |☑         |           |                     
@@ -300,6 +301,21 @@ Celine	    |           |           |           |           |           |        
 Lore	    |           |           |           |           |           |           |           |           |           |           | 
 -->
 
+## WhatsApp
+
+Community: MU16 ⚽ MU20 2023-2024
+
+Groepen voor MU16
+- MU16 ⚽ 2023-2024
+- MU16 ⚽ 2023-2024(ouders)
+- MU16 ⚽ 2023-2024(spelers)
+
+Groepen voor MU20
+- MU20 ⚽ 2023-2024
+- MU16 ⚽ 2023-2024(ouders)
+- MU16 ⚽ 2023-2024(spelers)
+
+
 ## Toogshiften + Hotdog
 
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen. 1 iemand staat in voor de hotdogs.
@@ -385,6 +401,8 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 18 Nov  |12.30-14.00| ✅ Gitte
 18 Nov  |12.30-14.00| ✅ Imke
 18 Nov  |12.30-14.00| ✅ Tille -->
+
+
 
 
 ## Tegemoetkoming mutualiteit
