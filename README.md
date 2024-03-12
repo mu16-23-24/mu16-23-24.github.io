@@ -315,6 +315,7 @@ Groepen voor MU20
 - MU16 ⚽ 2023-2024(ouders)
 - MU16 ⚽ 2023-2024(spelers)
 
+In elke groep zitten de trainers
 
 ## Toogshiften + Hotdog
 
