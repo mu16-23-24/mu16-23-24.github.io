@@ -89,6 +89,36 @@ ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 
 > Uren zijn onder voorbehoud en kunnen wijzigen
 
+
+## Tornooien
+
+### K.SK. Heist (maandag 1 april)
+
+#### Schema
+Uur | Thuis | Uit| Uitslag
+---|---|---|---
+11.05|KFC Sparta Haacht Tildonk| SV Heinenoord (🇳🇱)| ?-?
+11.40|K.SK Heist Wit|KFC Sparta Haacht Tildonk| ?-?
+12.15|KFC Sparta Haacht Tildonk| K.SK Heist Blauw| ?-?
+
+#### Info
+
+[Reglement](/assets/tornooi/kskheist/Reglement%208vs8.pdf)
+
+[Info](/assets/tornooi/kskheist/Praktische%20info.pdf)
+
+### PSV1820 (zaterdag 4 mei)
+
+TBD
+
+### Sparta - MU16 (zaterdag 18 mei)
+TBD
+
+### Sparta - MU20 (maandag 20 mei)
+
+TBD
+
+
 Symbool   | Status
 :---:               |---
 ✅                  | Gedaan
