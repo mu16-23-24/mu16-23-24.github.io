@@ -78,7 +78,7 @@ Eikestraat <br>
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
 za 23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
-ma 1-apr||☑|Tornooi K.SK. Heist| ❓
+ma 1-apr||☑|Tornooi K.SK. Heist| [zie](#ksk-heist-maandag-1-april)
 zo 7-Apr|☑||Leeuw Brucom|10.30
 za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 zo 21-Apr|☑||Sp Rotselaar|10.30
@@ -95,17 +95,20 @@ ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 ### K.SK. Heist (maandag 1 april)
 
 #### Schema
-Uur | Thuis | Uit| Uitslag
----|---|---|---
-11.05|KFC Sparta Haacht Tildonk| SV Heinenoord (🇳🇱)| ?-?
-11.40|K.SK Heist Wit|KFC Sparta Haacht Tildonk| ?-?
-12.15|KFC Sparta Haacht Tildonk| K.SK Heist Blauw| ?-?
+
+Uur     | Thuis                     | Uit                       | Uitslag
+---     |---                        |---                        |---
+11.05   |KFC Sparta Haacht Tildonk  |SV Heinenoord (🇳🇱)          | ❓
+11.40   |K.SK Heist Wit             |KFC Sparta Haacht Tildonk  | ❓
+12.15   |KFC Sparta Haacht Tildonk  |K.SK Heist Blauw           | ❓
 
 #### Info
 
 [Reglement](/assets/tornooi/kskheist/Reglement%208vs8.pdf)
 
 [Info](/assets/tornooi/kskheist/Praktische%20info.pdf)
+
+[tournify](https://www.tournify.nl/live/kskheist-paastornooi)
 
 ### PSV1820 (zaterdag 4 mei)
 
