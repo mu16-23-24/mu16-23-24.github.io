@@ -15,15 +15,15 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-<!-- > Volgende **thuis** wedstrijd is op zondag **17 maart** tegen **Tempo Overijse** om **10.30** (09.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **7 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
 
-> Kleedkamer: **Auke & Morane**
+> Kleedkamer: **Féliz & Lore**
 
-> Fruit & was: **Lize**   -->
+> Fruit & was: **Féliz**  
 
 
 
-> Volgende **uit** wedstrijd is op zaterdag **23 maart** tegen **VK Linden** om **13.30** (12.30 ter plaatse of 11.50 vertrekken op sparta) 
+<!-- > Volgende **uit** wedstrijd is op zaterdag **23 maart** tegen **VK Linden** om **13.30** (12.30 ter plaatse of 11.50 vertrekken op sparta) 
 
 > fruit & was: Tessa
 
@@ -31,7 +31,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Kerkdreef - Terrein 1 <br>
 Kerkdreef 8 <br>
 3210 Linden <br>
-[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu) 
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)  -->
 
 <!-- > adres rwdm girls:
 stade du sippelberg - terrein 2 <br>
@@ -77,7 +77,6 @@ Eikestraat <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 23-Maa||☑|[VK Linden](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)|13.30
 ma 1-apr||☑|Tornooi K.SK. Heist| [zie](#ksk-heist-maandag-1-april)
 zo 7-Apr|☑||Leeuw Brucom|10.30
 za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
@@ -115,6 +114,7 @@ Uur     | Thuis                     | Uit                       | Uitslag
 TBD
 
 ### Sparta - MU16 (zaterdag 18 mei)
+
 TBD
 
 ### Sparta - MU20 (maandag 20 mei)
@@ -131,6 +131,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+23-Maa  |       |✅       |VK Linden            |**3-4**
 17-Maa  |✅     |        |Tempo Overijse        |1-4
 9-Maa   |       |✅      |RWDM Girls            |2-2
 24-Feb  |       |✅      |Sp Rotselaar          |**2-13**
@@ -160,13 +161,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Leeuw Brucom	|	18	|	6	|	6	|	0	|	0	|	56	|	11	|	45
-Tempo Overijse	|	14	|	7	|	4	|	1	|	2	|	41	|	26	|	15
-VK Linden	|	10	|	6	|	3	|	2	|	1	|	28	|	15	|	13
-KFC Sparta	|	9	|	7	|	2	|	2	|	3	|	28	|	15	|	13
+Leeuw Brucom	|	21	|	7	|	7	|	0	|	0	|	61	|	11	|	50
+Tempo Overijse	|	14	|	8	|	4	|	2	|	2	|	42	|	30	|	12
+KFC Sparta	|	12	|	8	|	3	|	2	|	3	|	32	|	18	|	14
+VK Linden	|	10	|	7	|	3	|	3	|	1	|	31	|	19	|	12
+RWDM Girls	|	8	|	8	|	2	|	4	|	2	|	22	|	31	|	-9
 Miecroob Veltem	|	5	|	6	|	1	|	3	|	2	|	15	|	19	|	-4
-RWDM Girls	|	5	|	7	|	1	|	4	|	2	|	18	|	30	|	-12
-Sp Rotselaar	|	3	|	7	|	1	|	6	|	0	|	12	|	82	|	-70
+Sp Rotselaar	|	3	|	8	|	1	|	7	|	0	|	12	|	87	|	-75
+
 
 ![Sparta](/assets/ranking2.png)
 
@@ -242,12 +244,12 @@ Tille	    |           |           |           |           |✅           |      
 Morane		|           |           |           |           |           |✅           |           |           |         |           |           |
 Auke        |           |           |           |           |           |           |✅           |         |           |           |           |
 Lore	    |           |           |           |           |           |           |           |✅          |           |          |          |
-Tessa		|           |           |           |           |           |           |           |           |☑         |           |           |
-Celine	    |           |           |           |           |           |           |           |           |           |☑         |           |                     
-Lize        |           |           |           |           |           |           |           |           |           |           |☑           |
-Féliz	    |           |           |           |           |           |           |           |           |           |          |            |☑
-Esmee	    |           |           |           |           |           |           |           |           |           |          |            |
-Ella	    |           |           |           |           |           |           |           |           |           |          |            |
+Tessa		|           |           |           |           |           |           |           |           |✅         |           |           |
+Féliz	    |           |           |           |           |           |           |           |           |           |☑          |            |
+Esmee	    |           |           |           |           |           |           |           |           |           |          |☑             |
+Ella	    |           |           |           |           |           |           |           |           |           |          |            |☑
+Lize        |           |           |           |           |           |           |           |           |           |           |          |
+Celine	    |           |           |           |           |           |           |           |           |           |           |           |                    
 
 <!--
 Naam        | 02-Sep    |10-Sep     |23-Sep     |01-Okt     |07-Okt     |14-Okt     |21-Okt     |28-Okt     |10-Nov     |18-Nov     |25-Nov     |02-Dec
@@ -284,14 +286,14 @@ Margue	    |       |✅          |           |           |           |
 Imke	    |       |✅          |           |           |           |          
 Tille	    |       |           |✅         |           |           |           
 Lize        |       |           |✅           |         |           |           
-Auke        |       |           |           |☑         |           |           
-Morane      |       |           |           |☑         |            |          
+Auke        |       |           |           |✅         |           |           
+Morane      |       |           |           |✅         |            |          
 Féliz	    |       |           |           |           |☑          |          
 Lore        |       |           |           |           |☑          |          
-Celine	    |       |           |           |           |☑          |         
 Tessa	    |       |           |           |           |            |☑        
 Esmee	    |       |           |           |           |           |☑           
 Ella	    |       |           |           |           |           |☑           
+Celine	    |       |           |           |           |          |         
 
 <!--
 Naam        | 02-Sep    |23-Sep     |07-Okt     |28-Okt     |18-Nov     |02-Dec
