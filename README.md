@@ -8,6 +8,8 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Alle matchen zijn dit weekend afgelast (19-21 jan) 
 -->
 
+> Opgelet: het eerste tornooi komt er aan (1 april): [zie](https://mu16-23-24.github.io/#ksk-heist-maandag-1-april)
+
 
 ## Volgende wedstrijd
 
