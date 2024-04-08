@@ -17,23 +17,29 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-> Volgende **thuis** wedstrijd is op zondag **7 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
+<!-- > Volgende **thuis** wedstrijd is op zondag **7 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
 
 > Kleedkamer: **Féliz & Lore**
 
-> Fruit & was: **Féliz**  
+> Fruit & was: **Féliz**   -->
 
 
 
-<!-- > Volgende **uit** wedstrijd is op zaterdag **23 maart** tegen **VK Linden** om **13.30** (12.30 ter plaatse of 11.50 vertrekken op sparta) 
+> volgende **uit** wedstrijd is op zaterdag **13 april** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse of 09.00 vertrekken op sparta) 
 
-> fruit & was: Tessa
+> fruit & was: Esmee
 
-> Adres VK Linden:
-Kerkdreef - Terrein 1 <br>
-Kerkdreef 8 <br>
-3210 Linden <br>
-[map](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)  -->
+> Adres Miecroob Veltem:
+Winksele-Delle - Terrein 1 <br>
+Eikestraat <br>
+3020 Winksele <br>
+[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)
+
+<!-- > adres vk linden:
+kerkdreef - terrein 1 <br>
+kerkdreef 8 <br>
+3210 linden <br>
+[map](https://www.google.com/maps/dir/50.9634811,4.6068242/kerkdreef+8,+3210+lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu)  -->
 
 <!-- > adres rwdm girls:
 stade du sippelberg - terrein 2 <br>
@@ -68,20 +74,16 @@ Kerkdreef 8 <br>
 3210 Linden <br>
 [map](https://www.google.com/maps/dir/50.9634811,4.6068242/Kerkdreef+8,+3210+Lubbeek/@50.8951678,4.7665079,417m/data=!3m1!1e3!4m10!4m9!1m1!4e1!1m5!1m1!1s0x47c1677548db7235:0x86464508d3909abc!2m2!1d4.7671376!2d50.8948418!3e0?entry=ttu) 
 
-> Adres Miecroob Veltem:
-Winksele-Delle - Terrein 1 <br>
-Eikestraat <br>
-3020 Winksele <br>
-[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)  
+  
 -->
 
 ## Alle resterende wedstrijden
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 7-Apr|☑||Leeuw Brucom|10.30
 za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 zo 21-Apr|☑||Sp Rotselaar|10.30
+zo 28-Apr|☑||Leeuw Brucom|10.30
 za 4-mei||☑|Tornooi PSV1820| ❓
 za 18-mei|☑||Eigen Tornooi Sparta (mu-20)| ❓
 ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
@@ -146,11 +148,12 @@ Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
 Leeuw Brucom	|	21	|	7	|	7	|	0	|	0	|	61	|	11	|	50
 Tempo Overijse	|	14	|	8	|	4	|	2	|	2	|	42	|	30	|	12
+VK Linden	|	13	|	9	|	4	|	4	|	1	|	37	|	26	|	11
 KFC Sparta	|	12	|	8	|	3	|	2	|	3	|	32	|	18	|	14
-VK Linden	|	10	|	7	|	3	|	3	|	1	|	31	|	19	|	12
-RWDM Girls	|	8	|	8	|	2	|	4	|	2	|	22	|	31	|	-9
-Miecroob Veltem	|	5	|	6	|	1	|	3	|	2	|	15	|	19	|	-4
+RWDM Girls	|	11	|	9	|	3	|	4	|	2	|	28	|	33	|	-5
+Miecroob Veltem	|	5	|	7	|	1	|	4	|	2	|	16	|	23	|	-7
 Sp Rotselaar	|	3	|	8	|	1	|	7	|	0	|	12	|	87	|	-75
+
 
 
 ![Sparta](/assets/ranking2.png)
@@ -261,7 +264,7 @@ Taken:
 - Achterlaten zoals je ze gekregen hebt.
 
 
-Naam        |14-Jan |28-Jan     |18-Feb     |17-Maa     |07-Apr     |21-Apr
+Naam        |14-Jan |28-Jan     |18-Feb     |17-Maa     |28-Apr     |21-Apr
 ---         | ---   |---        |---        |---        |---        |---
 Gitte	    |✅      |          |           |           |           |           
 Dee Dee	    |✅      |          |           |           |           |           
@@ -271,11 +274,11 @@ Tille	    |       |           |✅         |           |           |
 Lize        |       |           |✅           |         |           |           
 Auke        |       |           |           |✅         |           |           
 Morane      |       |           |           |✅         |            |          
-Féliz	    |       |           |           |           |☑          |          
-Lore        |       |           |           |           |☑          |          
 Tessa	    |       |           |           |           |            |☑        
 Esmee	    |       |           |           |           |           |☑           
 Ella	    |       |           |           |           |           |☑           
+Féliz	    |       |           |           |           |☑          |          
+Lore        |       |           |           |           |☑          |          
 Celine	    |       |           |           |           |          |         
 
 <!--
@@ -359,15 +362,15 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
-7 Apr  |09.30-12.30| ✅ Imke
-7 Apr  |09.30-12.30| ✅ Ella     
-7 Apr  |09.30-12.30| ✅ Dee Dee     
-
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
 21 Apr  |09.30-12.30| ☑ Lore
 21 Apr  |09.30-12.30| ☑ Tessa     
 21 Apr  |09.30-12.30| ☑ ?     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+28 Apr  |09.30-12.30| ✅ Imke
+28 Apr  |09.30-12.30| ✅ Ella     
+28 Apr  |09.30-12.30| ✅ Dee Dee     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -398,7 +401,7 @@ Esmee	    |✅|
 
 Margue	    |✅|           
 Lore        |✅|             
-Tessa       | |             
+Tessa       |✅|             
 
 Lize        |✅|✅           
 Tille	    |✅|✅          
