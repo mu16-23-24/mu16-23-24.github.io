@@ -17,15 +17,15 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-<!-- > Volgende **thuis** wedstrijd is op zondag **7 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **21 april** tegen **Sp Rotselaar** om **10.30** (09.30 ter plaatse)
 
-> Kleedkamer: **Féliz & Lore**
+> kleedkamer: **Tessa, Esmee, Ella**
 
-> Fruit & was: **Féliz**   -->
+> fruit & was: **Ella**  
 
 
 
-> volgende **uit** wedstrijd is op zaterdag **13 april** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse of 09.00 vertrekken op sparta) 
+<!-- > volgende **uit** wedstrijd is op zaterdag **13 april** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse of 09.00 vertrekken op sparta) 
 
 > fruit & was: Esmee
 
@@ -33,7 +33,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 Winksele-Delle - Terrein 1 <br>
 Eikestraat <br>
 3020 Winksele <br>
-[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)
+[map](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu) -->
 
 <!-- > adres vk linden:
 kerkdreef - terrein 1 <br>
@@ -81,7 +81,6 @@ Kerkdreef 8 <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 13-Apr||☑|[Miecroob Veltem](https://www.google.com/maps/place/Lotstraat+10,+1600+Sint-Pieters-Leeuw/@50.7752662,4.2599678,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c625aedd01e9:0xbb381381b63e5bee!8m2!3d50.7752662!4d4.2625427!16s%2Fg%2F11g0tg893f?entry=ttu)|10.30
 zo 21-Apr|☑||Sp Rotselaar|10.30
 zo 28-Apr|☑||Leeuw Brucom|10.30
 za 4-mei||☑|Tornooi PSV1820| ❓
@@ -116,6 +115,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+13-Apr  |       |✅     |Miecroob Veltem        |**0-6**
 23-Maa  |       |✅       |VK Linden            |**3-4**
 17-Maa  |✅     |        |Tempo Overijse        |1-4
 9-Maa   |       |✅      |RWDM Girls            |2-2
@@ -146,13 +146,14 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Leeuw Brucom	|	21	|	7	|	7	|	0	|	0	|	61	|	11	|	50
-Tempo Overijse	|	14	|	8	|	4	|	2	|	2	|	42	|	30	|	12
-VK Linden	|	13	|	9	|	4	|	4	|	1	|	37	|	26	|	11
-KFC Sparta	|	12	|	8	|	3	|	2	|	3	|	32	|	18	|	14
-RWDM Girls	|	11	|	9	|	3	|	4	|	2	|	28	|	33	|	-5
-Miecroob Veltem	|	5	|	7	|	1	|	4	|	2	|	16	|	23	|	-7
+Leeuw Brucom	|	24	|	8	|	8	|	0	|	0	|	65	|	13	|	52
+Tempo Overijse	|	17	|	9	|	5	|	2	|	2	|	47	|	30	|	17
+KFC Sparta	|	15	|	9	|	4	|	2	|	3	|	38	|	18	|	20
+VK Linden	|	13	|	10	|	4	|	5	|	1	|	37	|	31	|	6
+RWDM Girls	|	11	|	10	|	3	|	5	|	2	|	30	|	37	|	-7
+Miecroob Veltem	|	5	|	8	|	1	|	5	|	2	|	16	|	29	|	-13
 Sp Rotselaar	|	3	|	8	|	1	|	7	|	0	|	12	|	87	|	-75
+
 
 
 
@@ -220,7 +221,7 @@ Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of acht
 
 ### Fruit & Was Schema
 
-Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb     |09-Maa     |17-Maa     |23-Maa     |07-Apr     |13-Apr     |21-Apr
+Naam        | 14-Jan    |21-Jan     |28-Jan     |03-Feb     |18-Feb     |24-Feb     |09-Maa     |17-Maa     |23-Maa     |28-Apr     |13-Apr     |21-Apr
 ---         |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---        |---
 Gitte	    |✅         |           |           |           |           |           |           |           |           |           |           |
 Dee Dee	    |           |☑         |           |           |           |           |           |           |           |           |           |
@@ -232,7 +233,7 @@ Auke        |           |           |           |           |           |       
 Lore	    |           |           |           |           |           |           |           |✅          |           |          |          |
 Tessa		|           |           |           |           |           |           |           |           |✅         |           |           |
 Féliz	    |           |           |           |           |           |           |           |           |           |☑          |            |
-Esmee	    |           |           |           |           |           |           |           |           |           |          |☑             |
+Esmee	    |           |           |           |           |           |           |           |           |           |          |✅             |
 Ella	    |           |           |           |           |           |           |           |           |           |          |            |☑
 Lize        |           |           |           |           |           |           |           |           |           |           |          |
 Celine	    |           |           |           |           |           |           |           |           |           |           |           |                    
@@ -348,17 +349,6 @@ In elke groep zitten de trainers
 Dit zijn de data waarop we als ploeg moeten instaan voor de toog. 3 personen zijn nodig om de taak te vervullen. 1 iemand staat in voor de hotdogs.
 
 
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
-18 Feb  |09.30-12.30| ✅ Esmee
-18 Feb  |09.30-12.30| ✅ Lize     
-18 Feb  |09.30-12.30| ✅ Gitte     
-
-Datum   | Tijdstip  | Wie (Ouder(s) van)
----     | ---       | ---
-17 Maa  |09.30-12.30| ✅ Tille
-17 Maa  |09.30-12.30| ✅ Margue     
-17 Maa  |09.30-12.30| ✅ Lore     
 
 Datum   | Tijdstip  | Wie (Ouder(s) van)
 ---     | ---       | ---
@@ -383,6 +373,19 @@ Datum   | Tijdstip  | Wie (Ouder(s) van)
 28 Jan  |09.30-12.30| ✅ Féliz
 28 Jan  |09.30-12.30| ✅ Celine     
 28 Jan  |09.30-12.30| ✅ Tille     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+18 Feb  |09.30-12.30| ✅ Esmee
+18 Feb  |09.30-12.30| ✅ Lize     
+18 Feb  |09.30-12.30| ✅ Gitte     
+
+Datum   | Tijdstip  | Wie (Ouder(s) van)
+---     | ---       | ---
+17 Maa  |09.30-12.30| ✅ Tille
+17 Maa  |09.30-12.30| ✅ Margue     
+17 Maa  |09.30-12.30| ✅ Lore     
+
 
 <!--
 Auke        |✅|           
