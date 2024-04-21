@@ -81,7 +81,6 @@ Kerkdreef 8 <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 21-Apr|☑||Sp Rotselaar|10.30
 zo 28-Apr|☑||Leeuw Brucom|10.30
 za 4-mei||☑|Tornooi PSV1820| ❓
 za 18-mei|☑||Eigen Tornooi Sparta (mu-20)| ❓
@@ -115,6 +114,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+21-Apr  |✅     |        |Sp Rotselaar          |**22-2**
 13-Apr  |       |✅     |Miecroob Veltem        |**0-6**
 23-Maa  |       |✅       |VK Linden            |**3-4**
 17-Maa  |✅     |        |Tempo Overijse        |1-4
@@ -146,13 +146,13 @@ Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-Leeuw Brucom	|	24	|	8	|	8	|	0	|	0	|	65	|	13	|	52
-Tempo Overijse	|	17	|	9	|	5	|	2	|	2	|	47	|	30	|	17
-KFC Sparta	|	15	|	9	|	4	|	2	|	3	|	38	|	18	|	20
+Leeuw Brucom	|	27	|	9	|	9	|	0	|	0	|	70	|	13	|	57
+KFC Sparta	|	18	|	10	|	5	|	2	|	3	|	60	|	20	|	40
+Tempo Overijse	|	17	|	10	|	5	|	3	|	2	|	47	|	35	|	12
+RWDM Girls	|	14	|	11	|	4	|	5	|	2	|	37	|	39	|	-2
 VK Linden	|	13	|	10	|	4	|	5	|	1	|	37	|	31	|	6
-RWDM Girls	|	11	|	10	|	3	|	5	|	2	|	30	|	37	|	-7
-Miecroob Veltem	|	5	|	8	|	1	|	5	|	2	|	16	|	29	|	-13
-Sp Rotselaar	|	3	|	8	|	1	|	7	|	0	|	12	|	87	|	-75
+Miecroob Veltem	|	5	|	9	|	1	|	6	|	2	|	18	|	36	|	-18
+Sp Rotselaar	|	3	|	9	|	1	|	8	|	0	|	14	|	109	|	-95
 
 
 
