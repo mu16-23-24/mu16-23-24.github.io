@@ -17,11 +17,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-> Volgende **thuis** wedstrijd is op zondag **21 april** tegen **Sp Rotselaar** om **10.30** (09.30 ter plaatse)
+> Volgende **thuis** wedstrijd is op zondag **28 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
 
-> kleedkamer: **Tessa, Esmee, Ella**
+> kleedkamer: **Féliz en Lore**
 
-> fruit & was: **Ella**  
+> fruit & was: **Féliz**  
 
 
 
