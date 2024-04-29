@@ -17,13 +17,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU 16 sei
 > Geen wedstrijd dit weekend! 
 -->
 
-> Volgende **thuis** wedstrijd is op zondag **28 april** tegen **Leeuw Brucom** om **10.30** (09.30 ter plaatse)
-
-> kleedkamer: **Féliz en Lore**
-
-> fruit & was: **Féliz**  
-
-
+> Volgend tornooi is op zaterdaf **4 mei** te **PSV 1820** om **14.00** (13.00 ter plaatse)
 
 <!-- > volgende **uit** wedstrijd is op zaterdag **13 april** tegen **Miecroob Veltem** om **10.30** (09.30 ter plaatse of 09.00 vertrekken op sparta) 
 
