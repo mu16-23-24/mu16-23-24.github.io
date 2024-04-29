@@ -81,8 +81,7 @@ Kerkdreef 8 <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-zo 28-Apr|☑||Leeuw Brucom|10.30
-za 4-mei||☑|Tornooi PSV1820| ❓
+za 4-mei||☑|Tornooi PSV1820| 14.00
 za 18-mei|☑||Eigen Tornooi Sparta (mu-20)| ❓
 ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 ❓      ||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|❓
@@ -92,9 +91,80 @@ ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 
 ## Tornooien
 
-### PSV1820 (zaterdag 4 mei)
+### PSV1820 (zaterdag 4 mei) 8vs8
 
-TBD
+Adres:
+Kerkdreef 1820 Perk; Site Kerkdreef ([map](https://www.google.com/maps/search/-%09Kerkdreef+1820+Perk;+Site+Kerkdreef/@50.9333619,4.3483723,12z?entry=ttu))
+
+Parkeren:
+Nieuwe parking op Kampenhoutstesteenweg te Perk ([map](https://www.google.com/maps/dir/50.9638989,4.6071934/50.9353886,4.49936/@50.9486843,4.5120773,13z/data=!3m1!4b1!4m6!4m5!1m1!4e1!1m1!4e1!3e0?entry=ttu))
+
+
+
+Tijdstip   | Thuis | Uit    | Tegenstander        | Uitslag | Penalties
+---     |:---:  |:---:   |---                  |--- |---
+14.00  |     |☑        |Lierse Kempenzonen           | ?| ?
+15.00  |     |☑        |Blaasveld           | ?| ?
+15.30  |☑    |         |RB Elzestraatje           | ?| ?
+16.00  |☑    |         |Herent           | ?| ?
+16.30  |☑    |         |PSV 1820           | ?| ?
+17.00  |     |☑        |SC Mechelen           | ?| ?
+
+Nr|Ploeg|G|W|GL|V|P|DPV|DPT|+-
+---|---|---|---|---|---|---|---|---|---
+1 |Blaasveld           |0	|0	|0	|0	|0	|0	|0	|0
+2 |Herent              |0	|0	|0	|0	|0	|0	|0	|0
+3 |Lierse Kempenzonen  |0	|0	|0	|0	|0	|0	|0	|0
+4 |RB Elzestraat       |0	|0	|0	|0	|0	|0	|0	|0
+5 |SC Mechelen         |0	|0	|0	|0	|0	|0	|0	|0
+6 |Sparta Haacht       |0	|0	|0	|0	|0	|0	|0	|0
+7 |PSV 1820            |0	|0	|0	|0	|0	|0	|0	|0
+
+#### Reglement
+
+1.	Alle wedstrijden worden gespeeld op de terreinen van PSV 1820 verdeeld over 1 site:
+    -	**Kerkdreef 1820 Perk; Site Kerkdreef**
+
+2.	De ploegen worden verzocht om minstens **een half uur voor de aanvang** van hun **eerste wedstrijd** aanwezig te zijn.
+
+3.	Iedere ploeg brengt zijn **eigen oefenballen** mee. Markeer deze duidelijk om mogelijke misverstanden te vermijden.
+
+4.	Voorzie in een **reserve-uitrusting (of hesjes)** met een kleur verschillend van uw normale uitrusting.
+
+5.	Op het wedstrijdblad mogen conform het reglement van de KBVB de aantallen (reserve)spelers ingevuld worden.
+
+6.	Er mag **onbeperkt** worden **vervangen**.
+
+7.	**Gele kaart** = schorsing voor **rest van de wedstrijd** (speler kan vervangen worden). **Rode kaart** = schorsing **rest van het tornooi** (speler mag in die wedstrijd **niet vervangen** worden).
+
+8.	Elke wedstrijd in de reeksen wordt gevolgd door **drie strafschoppen**, te nemen door drie verschillende spelers. In de wedstrijden voor de eindrangschikking worden er enkel strafschoppen genomen bij gelijke stand na de normale tijdsduur (één reeks van drie, te nemen door drie verschillende voetballers). Eventueel worden er nadien strafschoppen genomen tot er een misser is.
+
+9.	Bij de wedstrijden waar de speelduur in één ruk afgewerkt wordt, wordt de kampverdeling bepaald door de “toss”. 
+
+10.	Bij het opmaken van de rangschikking in de reeksen worden volgende criteria in volgorde weerhouden :
+    -	**het aantal punten** (gewonnen = 3, verloren = 0, gelijkspel =1)
+    -	**doelpuntensaldo** (zonder strafschoppen) = gemaakte - gekregen doelpunten
+    -	**binnengetrapte strafschoppen**
+    -	uitslag **onderlinge confrontatie** (wedstrijduitslag daarna strafschoppen)
+    -	**lottrekking**
+
+11.	Alle reglementen van de KBVB zijn van toepassing.
+
+12.	Beslissingen die buiten de scheidsrechterlijke bevoegdheid vallen, worden genomen door de inrichters (PSV 1820) en zijn in geen enkel geval betwistbaar.
+
+13.	Wij rekenen er op dat **trainers en begeleiders waken** over het **sportieve en correcte gedrag van hun spelers, begeleiders en supporters**. Bij **fair play** is immers iedereen winnaar.
+
+14.	De afgevaardigde van elke ploeg wordt bij aankomst onmiddellijk aan het secretariaat verwacht teneinde de wedstrijdbladen in te kunnen vullen.
+
+15.	De kleedkamer en douche worden de ploegen toegewezen door een tornooiverantwoordelijke. Alle voetbalzakken dienen na het omkleden te worden verzameld en ondergebracht in de daartoe aangeduide ruimte). 
+
+16.	De inrichters (PSV 1820) zijn in geen enkel geval verantwoordelijk voor verlies of diefstal van eender wat.
+
+17.	Ploegen die niet komen opdagen op de voorziene data en uur, betalen een boete van 250 euro.
+
+18.	Uw inschrijving op het tornooi van PSV 1820 brengt mee dat u zich akkoord verklaard met onderhavig dit reglement. 
+
+
 
 ### Sparta - MU16 (zaterdag 18 mei)
 
@@ -114,6 +184,7 @@ Symbool   | Status
 
 Datum   | Thuis | Uit    | Tegenstander        | Uitslag
 ---     |:---:  |:---:   |---                  |---
+28-Apr  |✅     |       |Leeuw Brucom           |**5-4**
 21-Apr  |✅     |        |Sp Rotselaar          |**22-2**
 13-Apr  |       |✅     |Miecroob Veltem        |**0-6**
 23-Maa  |       |✅       |VK Linden            |**3-4**
