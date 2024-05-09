@@ -75,7 +75,6 @@ Kerkdreef 8 <br>
 
 Datum   | Thuis | Uit   | Tegenstander          | Uur
 ---     |:---:  |:---:  |---                    | ---
-za 4-mei||☑|Tornooi PSV1820| 14.00
 za 18-mei|☑||Eigen Tornooi Sparta (mu-20)| ❓
 ma 20-mei|☑||Eigen Tornooi Sparta (mu-16)| ❓
 ❓      ||☑|[Tempo Overijse](https://www.google.com/maps/place/Pater+Dupierreuxlaan+1,+3080+Tervuren/@50.8326238,4.5242327,17z/data=!4m6!3m5!1s0x47c3d948c9555629:0x4a3158abe793a14f!8m2!3d50.8327965!4d4.5255852!16s%2Fg%2F11c0pv5kvc?entry=ttu)|❓
@@ -97,22 +96,18 @@ Nieuwe parking op Kampenhoutstesteenweg te Perk ([map](https://www.google.com/ma
 
 Tijdstip   | Thuis | Uit    | Tegenstander        | Uitslag | Penalties
 ---     |:---:  |:---:   |---                  |--- |---
-14.00  |     |☑        |Lierse Kempenzonen           | ?| ?
-15.00  |     |☑        |Blaasveld           | ?| ?
-15.30  |☑    |         |RB Elzestraatje           | ?| ?
-16.00  |☑    |         |Herent           | ?| ?
-16.30  |☑    |         |PSV 1820           | ?| ?
-17.00  |     |☑        |SC Mechelen           | ?| ?
+14.00  |     |☑        |PSV 1820           | 0-2| 2-2
+15.00  |     |☑        |Blaasveld           | 0-1| 3-2
+15.30  |☑    |         |Herent           | 1-1| 1-1
+16.00  |☑    |         |SC Mechelen           | 0-0| 1-2
 
-Nr|Ploeg|G|W|GL|V|P|DPV|DPT|+-
----|---|---|---|---|---|---|---|---|---
-1 |Blaasveld           |0	|0	|0	|0	|0	|0	|0	|0
-2 |Herent              |0	|0	|0	|0	|0	|0	|0	|0
-3 |Lierse Kempenzonen  |0	|0	|0	|0	|0	|0	|0	|0
-4 |RB Elzestraat       |0	|0	|0	|0	|0	|0	|0	|0
-5 |SC Mechelen         |0	|0	|0	|0	|0	|0	|0	|0
-6 |Sparta Haacht       |0	|0	|0	|0	|0	|0	|0	|0
-7 |PSV 1820            |0	|0	|0	|0	|0	|0	|0	|0
+Nr|Ploeg|PLD|PTS|GD
+---|---|---|---|---
+1 |Blaasveld           |4|9|5
+2 |Sparta Haacht       |4|8|3    
+5 |PSV 1820            |4|6|1 
+6 |Herent              |4|4|-2
+7 |SC Mechelen         |4|1|-7   
 
 #### Reglement
 
@@ -150,7 +145,7 @@ Nr|Ploeg|G|W|GL|V|P|DPV|DPT|+-
 
 14.	De afgevaardigde van elke ploeg wordt bij aankomst onmiddellijk aan het secretariaat verwacht teneinde de wedstrijdbladen in te kunnen vullen.
 
-15.	De kleedkamer en douche worden de ploegen toegewezen door een tornooiverantwoordelijke. Alle voetbalzakken dienen na het omkleden te worden verzameld en ondergebracht in de daartoe aangeduide ruimte). 
+15.	De kleedkamer en douche worden de ploegen toegewezen door een tornooiverantwoordelijke. Alle voetbalzakken dienen na het omkleden te worden verzameld en ondergebracht in de daartoe aangeduide ruimte. 
 
 16.	De inrichters (PSV 1820) zijn in geen enkel geval verantwoordelijk voor verlies of diefstal van eender wat.
 
@@ -160,13 +155,39 @@ Nr|Ploeg|G|W|GL|V|P|DPV|DPT|+-
 
 
 
-### Sparta - MU16 (zaterdag 18 mei)
+### Sparta - MU20 (zaterdag 18 mei)
 
-TBD
+Tijdstip | Terrein   | Thuis | Uit    | Tegenstander        | Uitslag 
+---     |---     |:---:  |:---:   |---                  |--- 
+14.30  |K     |     |☑        |PSV 1820           | ?| ?
+15.00  |K     |☑     |        |FF Girls Leuven           | ?| ?
+16.00  |G     |☑    |         |KFC Duffel           | ?| ?
+16.30  |G     |    |☑         |City Pirates Antwerpen           | ?| ?
 
-### Sparta - MU20 (maandag 20 mei)
+Nr|Ploeg|PLD|PTS|GD
+---|---|---|---|---
+1 |Sparta Haacht           |0|0|0
+2 |PSV 1820       |0|0|0    
+3 |FF Girls Leuven            |0|0|0 
+4 |KFC Duffel              |0|0|0
+5 |City Pirates Antwerpen |0|0|0           
 
-TBD
+### Sparta - MU16 (maandag 20 mei)
+
+Tijdstip | Terrein   | Thuis | Uit    | Tegenstander        | Uitslag 
+---     |---     |:---:  |:---:   |---                  |--- 
+14.30  |B2          |☑|        |RB Elzestraat           | ?| ?
+15.00  |B2     ||☑             |City Pirates Antwerpen           | ?| ?
+16.00  |B2     ||☑             |VK Linden           | ?| ?
+16.30  |B2     |    |☑         |Antwerp Diamonds           | ?| ?
+
+Nr|Ploeg|PLD|PTS|GD
+---|---|---|---|---
+1 |Sparta Haacht           |0|0|0
+2 |RB Elzestraat |0|0|0 
+3 |City Pirates Antwerpen |0|0|0 
+4 |VK Linden       |0|0|0    
+5 |Antwerp Diamonds            |0|0|0 
 
 
 Symbool   | Status
