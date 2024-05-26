@@ -593,3 +593,5 @@ Gelieve de aanwezigheden aan te duiden voor de 2 trainingen deze week en de weds
 Info is zoals steeds terug te vinden op https://mu16-23-24.github.io  
 -->
 
+
+Hallo Cas!
